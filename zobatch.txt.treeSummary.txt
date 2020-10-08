@@ -1,0 +1,2 @@
+GT name	Possible	Optimal	Saved
+NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint	23	1	1

@@ -3,9 +3,9 @@ Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
 Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
 
 Host:    ip-172-31-78-100.ec2.internal (AVX2, FMA3, 3 GB RAM)
-Command: iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot
-Seed:    857445 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Thu Oct  8 20:51:25 2020
+Command: iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot -redo
+Seed:    556775 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Oct  8 21:17:39 2020
 Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
 
 Reading alignment file NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas ... Fasta format detected
@@ -18,10 +18,10 @@ Alignment has 13 sequences with 13907 columns, 3219 distinct patterns
    3  Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R4   90.30%    failed      0.00%
    4  Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5   95.25%    failed      0.00%
    5  Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2   87.14%    failed      0.00%
-   6  Nematostella_XP_032221280.1                                     0.55%    failed      0.00%
+   6  Nematostella_Vectensis_XP_032221280.1                           0.55%    failed      0.00%
    7  Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6   93.43%    failed      0.00%
-   8  Nematostella_XP_032222764.1                                    79.61%    failed      0.00%
-   9  Nematostella_XP_032222765.1                                    80.17%    failed      0.00%
+   8  Nematostella_Vectensis_XP_032222764.1                          79.61%    failed      0.00%
+   9  Nematostella_Vectensis_XP_032222765.1                          80.17%    failed      0.00%
   10  Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0      97.63%    passed     45.61%
   11  Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TWE4      79.99%    failed      0.00%
   12  Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0                  89.37%    failed      0.00%
@@ -47,8 +47,8 @@ Estimate model parameters (epsilon = 1.000)
 Optimal log-likelihood: -88341.117
 Proportion of invariable sites: 0.006
 Gamma shape alpha: 2.117
-Parameters optimization took 9 rounds (0.949 sec)
-Time for fast ML tree search: 3.451 seconds
+Parameters optimization took 9 rounds (0.945 sec)
+Time for fast ML tree search: 3.445 seconds
 
 NOTE: ModelFinder requires 77 MB RAM!
 ModelFinder will test up to 546 protein models (sample size: 13907) ...
@@ -107,50 +107,52 @@ Bayesian Information Criterion:         WAG+F+G4
 Best-fit model: WAG+F+G4 chosen according to BIC
 
 All model information printed to NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.model.gz
-CPU time for ModelFinder: 100.580 seconds (0h:1m:40s)
-Wall-clock time for ModelFinder: 50.383 seconds (0h:0m:50s)
-Generating 1000 samples for ultrafast bootstrap (seed: 857445)...
+CPU time for ModelFinder: 104.128 seconds (0h:1m:44s)
+Wall-clock time for ModelFinder: 52.131 seconds (0h:0m:52s)
+Generating 1000 samples for ultrafast bootstrap (seed: 556775)...
 
 NOTE: 38 MB RAM (0 GB) is required!
 Estimate model parameters (epsilon = 0.100)
 1. Initial log-likelihood: -87163.995
 Optimal log-likelihood: -87163.990
 Gamma shape alpha: 3.058
-Parameters optimization took 1 rounds (0.110 sec)
+Parameters optimization took 1 rounds (0.114 sec)
 Computing ML distances based on estimated model parameters...
-Computing ML distances took 0.012632 sec (of wall-clock time) 0.025224 sec(of CPU time)
-Computing RapidNJ tree took 0.000178 sec (of wall-clock time) 0.000353 sec (of CPU time)
+Computing ML distances took 0.012381 sec (of wall-clock time) 0.024708 sec(of CPU time)
+Computing RapidNJ tree took 0.000150 sec (of wall-clock time) 0.000298 sec (of CPU time)
 Log-likelihood of RapidNJ tree: -87241.477
 --------------------------------------------------------------------
 |             INITIALIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
-Generating 98 parsimony trees... 0.744 second
-Computing log-likelihood of 98 initial trees ... 3.892 seconds
+Generating 98 parsimony trees... 0.739 second
+Computing log-likelihood of 97 initial trees ... 3.949 seconds
 Current best score: -87163.990
 
 Do NNI search on 20 best initial trees
 Estimate model parameters (epsilon = 0.100)
 BETTER TREE FOUND at iteration 1: -87163.989
-Iteration 10 / LogL: -87164.387 / Time: 0h:0m:11s
-Iteration 20 / LogL: -87169.068 / Time: 0h:0m:18s
+Iteration 10 / LogL: -87170.275 / Time: 0h:0m:11s
+Iteration 20 / LogL: -87166.951 / Time: 0h:0m:18s
 Finish initializing candidate tree set (2)
-Current best tree score: -87163.989 / CPU time: 17.195
+Current best tree score: -87163.989 / CPU time: 17.389
 Number of iterations: 20
 --------------------------------------------------------------------
 |               OPTIMIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
-Iteration 30 / LogL: -87166.022 / Time: 0h:0m:24s (0h:0m:58s left)
-Iteration 40 / LogL: -87165.555 / Time: 0h:0m:30s (0h:0m:47s left)
 Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -87163.842
+Iteration 30 / LogL: -87163.846 / Time: 0h:0m:24s (0h:0m:59s left)
+Iteration 40 / LogL: -87165.967 / Time: 0h:0m:30s (0h:0m:48s left)
+UPDATE BEST LOG-LIKELIHOOD: -87163.839
+Iteration 50 / LogL: -87166.407 / Time: 0h:0m:36s (0h:0m:38s left)
+Log-likelihood cutoff on original alignment: -87196.404
+Iteration 60 / LogL: -87164.197 / Time: 0h:0m:42s (0h:0m:29s left)
+Iteration 70 / LogL: -87165.401 / Time: 0h:0m:48s (0h:0m:21s left)
 UPDATE BEST LOG-LIKELIHOOD: -87163.838
-Iteration 50 / LogL: -87164.181 / Time: 0h:0m:36s (0h:0m:38s left)
-Log-likelihood cutoff on original alignment: -87186.948
-Iteration 60 / LogL: -87166.260 / Time: 0h:0m:43s (0h:0m:30s left)
-Iteration 70 / LogL: -87166.197 / Time: 0h:0m:49s (0h:0m:22s left)
-Iteration 80 / LogL: -87164.026 / Time: 0h:0m:57s (0h:0m:15s left)
-Iteration 90 / LogL: -87164.720 / Time: 0h:1m:4s (0h:0m:7s left)
-Iteration 100 / LogL: -87167.446 / Time: 0h:1m:11s (0h:0m:0s left)
-Log-likelihood cutoff on original alignment: -87188.317
+Iteration 80 / LogL: -87163.854 / Time: 0h:0m:55s (0h:0m:14s left)
+Iteration 90 / LogL: -87163.914 / Time: 0h:1m:3s (0h:0m:7s left)
+Iteration 100 / LogL: -87164.302 / Time: 0h:1m:11s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -87191.643
 NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
 TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:1m:12s
 
@@ -161,18 +163,18 @@ Performs final model parameters optimization
 Estimate model parameters (epsilon = 0.010)
 1. Initial log-likelihood: -87163.838
 Optimal log-likelihood: -87163.838
-Gamma shape alpha: 3.047
-Parameters optimization took 1 rounds (0.120 sec)
+Gamma shape alpha: 3.046
+Parameters optimization took 1 rounds (0.110 sec)
 BEST SCORE FOUND : -87163.838
 Creating bootstrap support values...
 Split supports printed to NEXUS file NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.splits.nex
 Total tree length: 13.227
 
 Total number of iterations: 102
-CPU time used for tree search: 143.837 sec (0h:2m:23s)
-Wall-clock time used for tree search: 72.095 sec (0h:1m:12s)
-Total CPU time used: 145.845 sec (0h:2m:25s)
-Total wall-clock time used: 73.154 sec (0h:1m:13s)
+CPU time used for tree search: 143.356 sec (0h:2m:23s)
+Wall-clock time used for tree search: 71.787 sec (0h:1m:11s)
+Total CPU time used: 145.365 sec (0h:2m:25s)
+Total wall-clock time used: 72.847 sec (0h:1m:12s)
 
 Computing bootstrap consensus tree...
 Reading input file NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.splits.nex...
@@ -191,4 +193,4 @@ Ultrafast bootstrap approximation results written to:
   Consensus tree:                NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.contree
   Screen log file:               NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.log
 
-Date and Time: Thu Oct  8 20:53:29 2020
+Date and Time: Thu Oct  8 21:19:44 2020

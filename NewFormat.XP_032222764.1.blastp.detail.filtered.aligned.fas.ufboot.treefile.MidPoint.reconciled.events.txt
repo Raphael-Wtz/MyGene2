@@ -1,0 +1,48 @@
+COST: 14.0
+
+
+Duplications
+Gene                L. Bound                      U. Bound                      
+=================== ============================= ============================= 
+n70                 Eumetazoa                     N/A
+n57                 Strongylocentrotus_purpuratus Deuterostomia
+n55                 Strongylocentrotus_purpuratus Deuterostomia
+n53                 Strongylocentrotus_purpuratus Deuterostomia
+n51                 Strongylocentrotus_purpuratus Deuterostomia
+n60                 Homo_sapiens                  Deuterostomia
+n64                 Nematostella_vectensis        Cnidaria
+n67                 Pocillopora_damicornis        Cnidaria
+Duplications: 8 
+
+
+Losses
+Species                       No. of Losses  
+============================= ============== 
+Pocillopora_damicornis        0
+Drosophila_melanogaster       1
+Eumetazoa                     0
+Nematostella_vectensis        0
+Strongylocentrotus_purpuratus 0
+Deuterostomia                 0
+Cnidaria                      0
+Homo_sapiens                  0
+Bilateria                     1
+
+Losses: 2
+
+
+Species                       Duplications   cD_Nodes       Transfers_from Transfers_to   Losses         
+============================= ============== ============== ============== ============== ============== 
+Pocillopora_damicornis        1              0              0              0              0              
+Drosophila_melanogaster       0              0              0              0              1              
+Eumetazoa                     1              0              0              0              0              
+Nematostella_vectensis        1              0              0              0              0              
+Strongylocentrotus_purpuratus 4              0              0              0              0              
+Deuterostomia                 0              0              0              0              0              
+Cnidaria                      0              0              0              0              0              
+Homo_sapiens                  1              0              0              0              0              
+Bilateria                     0              0              0              0              1              
+
+Duplications: 8
+Losses: 2
+

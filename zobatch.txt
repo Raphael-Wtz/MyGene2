@@ -1,0 +1,3 @@
+species.tre
+NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint
+

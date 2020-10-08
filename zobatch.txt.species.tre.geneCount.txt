@@ -1,0 +1,2 @@
+GT name	Strongylocentrotus_purpuratus	Deuterostomia	Homo_sapiens	Bilateria	Drosophila_melanogaster	Eumetazoa	Pocillopora_damicornis	Cnidaria	Nematostella_vectensis
+NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint	5.0	1.0	2.0	1.0	0.0	2.0	3.0	2.0	3.0
