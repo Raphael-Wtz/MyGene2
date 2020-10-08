@@ -1,0 +1,44 @@
+Statistics for: NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile
+
+Reconciliation Information
+- Duplications: 8
+- Co-Divergences: 0
+- Transfers: 0
+- Losses: 1
+- Number of Temporally Feasible Optimal Solutions: N/A
+
+
+Tree Without Losses
+- Total nodes: 25
+- Internal nodes: 12
+- Leaf nodes: 13
+- Polytomies: 0
+- Size of largest polytomy: 0
+- Height: 6
+
+Tree With Losses
+- Total nodes: 27
+- Internal nodes: 13
+- Leaf nodes: 14
+- Size of largest polytomy: 0
+- Height: 7
+
+Edge weight range in the input gene tree: [55.0, 100.0]
+
+
+This gene tree is reconciled.
+ - In GUI mode, the pruned species tree can be viewed
+   by clicking "Show Species Tree" in the
+   Reconcile Panel.
+ - From the command line, the pruned species tree can
+   be saved with the option --stpruned.
+
+Statistics for: species.tre
+
+- Total nodes: 9
+- Internal nodes: 4
+- Leaf nodes: 5
+- Polytomies: 0
+- Size of largest polytomy: 0
+- Height: 3
+

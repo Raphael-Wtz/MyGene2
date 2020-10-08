@@ -1,0 +1,1000 @@
+  239   ncbi-genome-download -F gff -T 9606 vertebrate_mammalian
+  240  ncbi-genome-download -F fasta -T 9606 vertebrate_mammalian
+  241  cd /home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39
+  242  cd ../
+  243  cd /home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39
+  244  cd
+  245  cd data
+  246  ls
+  247  cd refseq
+  248  ls
+  249  cd vertebrate_mammalian/
+  250  ls
+  251  cd GCF_000001405.39/
+  252  gunzip GCF_000001405.39_GRCh38.p13_genomic.fna.gz
+  253  gunzip GCF_000001405.39_GRCh38.p13_genomic.gff.gz
+  254  cd
+  255  cd labs/Lab4
+  256  nano Wolfie
+  257  ls
+  258  nano WolfieExtractTrans.sh 
+  259  git commit -a -m "added a greeting to WolfieExtractTrans.sh
+  260  `git commit -a -m "added a greeting to WolfieExtractTrans.sh`"
+  261  git commit -a -m
+  262  git commit -a -m "added a greeting to WolfieExtractTrans.sh"
+  263  git status
+  264  git log
+  265  git restore WolfieExtractTrans.sh
+  266  git status
+  267  nano WolfieE
+  268  nano WolfieExtractTrans.sh 
+  269  git commit -a -m "replaced a line of code in WolfiExtract script with one Dr. Rest provided; excludes numeric isoforms X2-20 and alphabetic isoforms a-z"
+  270  git status
+  271  git log
+  272  git status 
+  273  git push
+  274  geneid=TJP1
+  275  export geneid
+  276   fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna
+  277  export fastaFile
+  278  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna
+  279        export fastaFile
+  280  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna
+  281  gffFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.gff
+  282      export gffFile
+  283  gffFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.gff
+  284  gffFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.gff export gffFile
+  285  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna export fastaFile
+  286  ls
+  287  cd
+  288  cd data
+  289  cd refseq/
+  290  cd vertebrate_mammalian/GCF_000001405.39/
+  291  ls
+  292  cd
+  293  cd labs/Lab4
+  294  bash WolfieExtractTrans.sh 
+  295  less TJP1.sorted.counts.txt 
+  296  sed -i "1 s/^.*$/>Hs_TJP1/" TJP1.X1.cds.union.fa 
+  297  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa 
+  298  ls
+  299  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  300  ls
+  301  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa 
+  302  less NucRec.cds.fa 
+  303  alv -k NucRec.cds.aligned.fa | less -r
+  304  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa
+  305  alv -k NucRec.cds.aligned.fa | less -r
+  306  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.fa -output sim
+  307  bash WolfieCountGaps.sh
+  308  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  309  alv -k NucRec.cds.aligned.trans.fa | less -r
+  310  ls
+  311  less NucRec.cds.aligned.trans.fa 
+  312  alv -k NucRec.cds.aligned.trans.fa | less -r
+  313  alv -k NucRec.cds.aligned.fa | less -r
+  314  _coffee -other_pg seq_reformat -in NucRec.cds.aligned.trans.fa -output sim
+  315  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.trans.fa -output sim
+  316  bash WolfieCountGaps.sh
+  317  translatorx -i NucRec.cds.fa -o NucRec.cds.trX -p M
+  318   alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  319  alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  320  ls
+  321  alv -k NucRec.cds.trX.aa_ali.fasta | less -r
+  322  translatorx -i NucRec.cds.fa -o NucRec.cds.trX -p M
+  323  alv -k NucRec.cds.trX.aa_ali.fasta | less -r
+  324  alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  325  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  326  alv -k NucRec.cds.aligned.trans.fa | less -r
+  327  faTrans 
+  328  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  329  less NucRec.cds.aligned.trans.fa 
+  330  alc
+  331  alv
+  332  alv -k NucRec.cds.aligned.trans.fa 
+  333  elinks NucRec.cds.trX.aa_based_codon_coloured.html
+  334  translatorx -i NucRec.cds.fa -o NucRec.cds.trX -p M
+  335  alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  336  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  337  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa
+  338  alv -k NucRec.cds.aligned.fa | less -r
+  339  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.fa -output sim
+  340  bash WolfieCountGaps.sh
+  341  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  342  alv -k NucRec.cds.aligned.trans.fa | less -r
+  343  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  344  alv -k NucRec.cds.aligned.trans.fa | less -r
+  345  nano WolfieExtractTrans.sh 
+  346  geneid=TJP1
+  347  export geneid
+  348  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna
+  349  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna export fastaFile
+  350  gffFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.gff export gffFile
+  351  bash WolfieExtractTrans.sh 
+  352  less TJP1.X1.gff 
+  353  less TJP1.sorted.counts.txt 
+  354  sed -i "1 s/^.*$/>Hs_TJP1/" TJP1.X1.cds.union.fa
+  355  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  356  ls
+  357  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  358  ls
+  359  less NucRec.cds.fa
+  360      muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa  
+  361  alv -k NucRec.cds.aligned.fa | less -r
+  362  nano WolfieExtractTrans.sh 
+  363  bash WolfieExtractTrans.sh
+  364  sed -i "1 s/^.*$/>Hs_TJP1/" TJP1.X1.cds.union.fa 
+  365  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  366  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  367  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa
+  368  alv -k NucRec.cds.aligned.fa | less -r
+  369  cd
+  370  cd data/refseq/
+  371  cd 
+  372  cd data/refseq/
+  373  ls
+  374  cd vertebrate_mammalian/
+  375  ls
+  376  cd GCF_000001405.39/
+  377  ls
+  378  cd ~labs/Lab4
+  379  cd ~labs/
+  380  cd 
+  381  ls
+  382  cd labs
+  383  cd Lab4
+  384  ls
+  385  less NucRec.cds.fa
+  386  less LOC5513668.X1.cds.union.fa
+  387  ls
+  388  less LOC5513668.X1.cds.union.fa
+  389  https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  390  git clone https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  391  rm LOC5513668.X1.cds.union.fa 
+  392  git clone https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  393  ls
+  394  git clone https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  395  git fetch https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  396  git clone https://github.com/Bio312/lab4-Raphael-Wtz/
+  397  less LOC
+  398  ls
+  399  rmdir lab4-Raphael-Wtz/
+  400  rmdir -rf lab4-Raphael-Wtz/
+  401  rmdir
+  402  rmdir --help
+  403  rmdir -r lab4-Raphael-Wtz/
+  404  ls
+  405  cd lab4-Raphael-Wtz/
+  406  ls
+  407  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  408  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  409  geneid=TJP1
+  410  export geneid
+  411  fastaFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.fna
+  412  export fastaFile
+  413  gffFile=/home/ec2-user/data/refseq/vertebrate_mammalian/GCF_000001405.39/GCF_000001405.39_GRCh38.p13_genomic.gff
+  414   export gffFile
+  415  bash WolfieExtractTrans.sh
+  416  sed -i "1 s/^.*$/>Hs_TJP1/" TJP1.X1.cds.union.fa
+  417  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  418  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  419  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa
+  420  alv -k NucRec.cds.aligned.fa | less -r
+  421  ls
+  422  cd ../
+  423  ls
+  424  alv -k NucRec.cds.aligned.fa | less -r
+  425  cd lab4-Raphael-Wtz/
+  426  less LOC5513668.X1.cds.union.fa 
+  427  cd ../
+  428  egrep -v 'isoform X[2-9];' $geneid.gff | egrep -v 'isoform X1[0-9];' | egrep -v 'isoform [a-z];' > $geneid.X1.gff
+  429  cd lab4-Raphael-Wtz/
+  430  egrep -v 'isoform X[2-9];' $geneid.gff | egrep -v 'isoform X1[0-9];' | egrep -v 'isoform [a-z];' > $geneid.X1.gff
+  431  ls -lrt
+  432  cat LOC5513668.X1.cds.union.fa
+  433  cat TJP1.X1.cds.union.fa
+  434  rm LOC5513668.X1.cds.union.fa 
+  435  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  436  bash WolfieExtractTrans.sh 
+  437  ls -lrk
+  438  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  439  nano WolfieExtractTrans.sh 
+  440  bash WolfieExtractTrans.sh 
+  441  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  442  ls
+  443  ls -lrt
+  444  git fetch https://github.com/Bio312/lab4-Raphael-Wtz/blob/master/LOC5513668.X1.cds.union.fa
+  445  >659313-659608(-)
+  446  ATGGCCGCACTACAGCCATACCAAAGAGTTCTTTTGGAGAATCGCGATATTCTCCTCAGC
+  447  GATTTGCGAACAGACGATGTCATTCCTTTGCTGTATCTGAGTAAAGTTCTCAACCAAAAG
+  448  GAAGTTGACGAAATTGAAATCGGCCGGACTTCGAGGGAGAGAATCGAAAGTTTGCTGGAT
+  449  GTTTTGCACTACAAGGGAGAGAGCGGGTTCAGAGAGTTTTGCAAAGCTTTGGACGAAACT
+  450  TTCCCCTACTTAGCTGATAGATTATCCAAGAGAGAGTCCCAGAGTGAAAAATCTGACAGA
+  451  TCTTACGGCAATAAGGAATACAAGGGGAGGTATTCCAGTAGCCGAGGGGACCAAAGTCAC
+  452  GACTACAGGGACACGAACGGTGGAGATATAAACGACAACTACAGGCGTTCTGAGGAGCGC
+  453  GAAGAGAGATCCAGTATGCGTGGCGAAGAAAGTAAAGGCGAATACATCTACGCAAAGCCA
+  454  GACAAGAGGCCCAGGGATCGTGGGTATGATAGAGAGAGGGAGCGCAGAGATCGTAGTATT
+  455  CCAAGGGATGATAGATTGGACAGCTCGCGGAGGAGTAGACATGAGGATGAACGCTCACAT
+  456  AGCTCTCATCAAGATCGTCATGAACGCGAGAGTGACCGTCACTCTAGCTATTCCCACGAA
+  457  AGTGACCGACCTCGCAAAGCCATTGATGCAGTAGTAGAGCCTGCTGAGGACTATATATGG
+  458  GAGAAACAGACTATTGTGCTGGAAAAGGCAAATGCCAATCAGGGGTTTGGAATAGCAGTA
+  459  TCTGGTGGCAAAGATAACCCCCATTACAAGACTGGTGATACATCTATTGTTGTGTCTGAC
+  460  ATCGTCAAGGGAAGCCCTGCTGACGGCTTGTTAAGGGTGAACGATGTAATCTGCCAAGTC
+  461  AATGAAGTAAATGTGGACAAGTGTTACCATAGTGACGCAGTCCAAGCATTAAAAGACAGT
+  462  GGATTCAGTGCACGCCTGATTATCAAGAGAAAGAAAGCAATGCCAACAAATCTTCTCAAG
+  463  AAGGACACCCCACAAACCATTACGGTGACCTTGCATCGCACTGGAAGCAAAGGTTATGGA
+  464  TTCTCATTAGCAAACCGCCTCTACATCAAGGAAGTGGACCCAACTGGAATTGCCTTCTAT
+  465  GAAGGAGAGATCGACCCTGGAGATATCATTTTGAAGatCAATGATAAAAAGGCAGATTCG
+  466  CTAAAGCTGCGTGATGCCATTGATGAAGTGCGGAATTCCAAGGACCAGCTAGAACTTGTG
+  467  ATTGTGAAAACCAAGGGAGAGAATCTATCCCTTAGCACAAGATCACTCCCTTCAGCTTTC
+  468  CGCAACAAGGGATTTAAGAAGCTGGCAAATGGTTTCCCTGATGAACGTGAGATGAACGGA
+  469  CCAAGTCACCCTGCTGAAAAAGCCTCAAGTGAGAAAGGGGTGGAAAAGCCGTCTTCAGTT
+  470  CAACCACTCTCTAGCGAGAAAGACCAGCCAATTCAAGACAAAGGCAAACCAGATGTCCAA
+  471  CTTTCAGACAGTGAAAGATTAAAGAGGAGATCTCAGGGCAGACCAGATGACAAGGAAGGT
+  472  AGAGAAAGGCCTGGAAGAGAAAGGTCTAGAGAACGGCATGGTAGAGAAAGGTCCAGAGAG
+  473  AGACCAAGATCCCGTGAAAGACCCAGATCTCGTGAAAGATCAGACAGAAGAGATGAAAGA
+  474  CCCCAAAGAAGAGGCAGCAGAGGACGATCGCCTGGAAGACGAGAGAGGGAAGGTGAGAGG
+  475  AGACCTAGATCAGCAGAGCGGCAGTCCCGAAGACAAGATGAGCCAAAGGGTGAACCACAT
+  476  GTGGTGCAACCAGAAGAAACTGATGAAAAATCCAAAGAACCTCCACCGACGCAGGAGCCT
+  477  ATGATAGAAATTAAGCGTGAAGAGATACACGTGGTGTTAGCAGCCCCCAAAGCTGAGATA
+  478  GTAGACAAACCACCAAGTGACAAGGTGGAGAAAGTCACGAAACAGGAGCTAGAGAAGGCG
+  479  CCTGAGCTCCCGCCAAGGCGCTATAGCGACCCGGATGCTGGCCGCCCTGACGACAAGGAT
+  480  GGCGGGATGATGCAATCTTCCTGGCGACGACTAGGTGGCCCCGACCGAGAGGACGACAGA
+  481  GCCAGCGATATCAGCCGCGACCGAGAAGAACGTGAAAAACGCGACCGTGAAGACCGCGAT
+  482  CGCCGCGACCGTGAAGACCGCGAACACCGCGAACGGGAGGACCGCGAGCGAGAACGCCGG
+  483  GATCGTGAAGATCGCGAACGCCGCGACCGAGACGAACGTGATCGCCGCGACCGTGAGGAC
+  484  CGCGAACGCCGTGACCGTGAGGACCGCGAACGCCGCGACCGTGAAGACCGCGAACGAGAA
+  485  CGCCGCGAACGAGAAGATCGCGAACGCCGTGAGAAGGAAGAGTTTGACAAAAGAGATCGT
+  486  GAACGTCGTGAGAAGGATGATAGACGGCCTCGAGAGGATGACCGCGATCGCGTCCGCGGT
+  487  CGCCGCGAGGAGCACGTGCCTAAACCTGCTGAAGTATCTCGCACCCAAGCCAACATGGAT
+  488  CTGAGCGCGTTGGACTCCTGGGATGCATCCACCCCACGGAAGGTCGAGAGAAACACCTCA
+  489  GAGGATTACCTCCGGGATCAGGACACTCGATCAATCCGCTTCAGTCGCGAGGGCAAAGGC
+  490  ATCGGTATTCAGGTGCAGGGAGGCAATAAGCACGGCATCTTCGTAGCGGGGGTTCGCGAG
+  491  GGCAACCCAGCCCACCGACAAGGTCTCCGGAGAGGAGACAAGATTCTCATGGCGAATGAC
+  492  ATCGACTTCAAGGACATCACCCGTGAGGAGGCGGTCCTAATTTTGCTGTCACTCGGTGAC
+  493  GAAGTAAGCCTTCTGTACCAGCCGCGCCAGCGAGAGTTTGAGAGAAACAAAGACCAGCCG
+  494  GGAGATGATTTTTTCATCAAGGATCACTTTGACTCACGTATTGTGCTTTGTCTAGGGCTC
+  495  ACTTTGACTCTTGTATTGTGCTTGTCTAGGGCTCACTTTGACTCACGTATTGTGCTTGTC
+  496  vi TJP1.X1.cds.union.fa
+  497  ls
+  498  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  499  cd ../
+  500  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  501  cd lab4-Raphael-Wtz/
+  502  chmod u+x LOC5513668.X1.cds.union.fa
+  503  cp TJP1.X1.cds.union.fa 
+  504  sed -i "1 s/^.*$/>Nv_LOC5513668/" TJP1.X1.cds.union.fa 
+  505  sed -i "1 s/^.*$/>Hs_TJP1/" TJP1.X1.cds.union.fa
+  506  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  507  ls
+  508  git clone https://github.com/Bio312/lab4-Raphael-Wtz/
+  509  ls
+  510  cd lab4-Raphael-Wtz/
+  511  ls
+  512  ls -lrt
+  513  mv LOC5513668.X1.cds.union.fa ./../
+  514  cd ../
+  515  ls -lrt
+  516  sed -i "1 s/^.*$/>Nv_LOC5513668/" LOC5513668.X1.cds.union.fa
+  517  ls -lrt
+  518  cat LOC5513668.X1.cds.union.fa TJP1.X1.cds.union.fa > NucRec.cds.fa
+  519  muscle -in NucRec.cds.fa -out NucRec.cds.aligned.fa
+  520  ls -lrt
+  521  alv -k NucRec.cds.aligned.fa | less -r
+  522  cd ../
+  523  ls -lrt
+  524  cd lab4-Raphael-Wtz/
+  525  ls
+  526  cd ../
+  527  ls
+  528  cd lab4-Raphael-Wtz/
+  529  alv -k NucRec.cds.aligned.fa | less -r
+  530  cd ..
+  531  cp -r lab4-Raphael-Wtz/ ~/lab4_backup
+  532  cd ..
+  533  ls -lrt
+  534  cd 
+  535  ls -lrt
+  536  cd
+  537  cd labs/Lab4
+  538  ls
+  539  cd lab4-Raphael-Wtz/
+  540  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.fa -output sim
+  541  bash WolfieCountGaps.sh
+  542  faTrans NucRec.cds.aligned.fa  NucRec.cds.aligned.trans.fa
+  543  alv -k NucRec.cds.aligned.trans.fa | less -r
+  544  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.trans.fa -output sim
+  545  bash WolfieCountGaps.sh
+  546  translatorx -i NucRec.cds.fa -o NucRec.cds.trX -p M
+  547   alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  548  elinks NucRec.cds.trX.aa_based_codon_coloured.html
+  549   alv -k NucRec.cds.trX.nt_ali.fasta | less -r
+  550  alv -k NucRec.cds.trX.aa_ali.fasta | less -r
+  551   t_coffee -other_pg seq_reformat -in NucRec.cds.trX.nt_ali.fasta -output sim  
+  552  bash WolfieCountGaps.sh
+  553   t_coffee -other_pg seq_reformat -in NucRec.cds.trX.aa_ali.fasta -output sim 
+  554  bash WolfieCountGaps.sh
+  555  t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.trans.fa -output sim
+  556   t_coffee -other_pg seq_reformat -in NucRec.cds.aligned.fa -output sim
+  557  history > lab4.commandhistory.txt
+  558  less lab4.commandhistory.txt 
+  559  cp -r lab4-Raphael-Wtz/ ~/lab4_backup
+  560  cd
+  561  ls
+  562  rmdir lab4_backup/
+  563  rmdir -r lab4_backup/
+  564  rmdir -rm lab4_backup/
+  565  rmdir -rf lab4_backup/
+  566  rm -rf lab4_backup/
+  567  ls
+  568  cd labs
+  569  ls Lab4/
+  570  cp -r lab4-Raphael-Wtz/ ~/lab4_backup
+  571  cd lab4
+  572  ls
+  573  cd Lab4
+  574  cp -r lab4-Raphael-Wtz/ ~/lab4_backup
+  575  cd
+  576  ls
+  577  cd lab4
+  578  cd lab4_backup/
+  579  ls
+  580  git add .
+  581  git commit -a -m "Adding all new data files I generated to the repository."
+  582  git status
+  583  git push 
+  584  git status
+  585  ls
+  586  cd labs
+  587  cd lab5
+  588  git clone https://github.com/Bio312/lab5-yourname
+  589  git clone https://github.com/Bio312/lab5-Raphael-Wtz
+  590  mkdir
+  591  mkdir ~/data/blast
+  592  ls
+  593  cd ..
+  594  ls
+  595  cd lab5
+  596  ls
+  597  cd lab5-Raphael-Wtz/
+  598  ls
+  599  pwd
+  600  gunzip proteomes/*.gz
+  601  cat  proteomes/* > ~/data/blast/allprotein.fas
+  602   makeblastdb -in ~/data/blast/allprotein.fas -parse_seqids -dbtype prot
+  603  ls
+  604  pwd
+  605  ncbi-acc-download -F fasta -m protein XP_032239066.1
+  606  blastp -db ~/data/blast/allprotein.fas -query XP_032239066.1.fa -outfmt 0 -max_hsps 1 > XP_032239066.blastp.typical.out
+  607  less XP_032239066.blastp.typical.out 
+  608  blastp -db ~/data/blast/allprotein.fas -query XP_032239066.1.fa -outfmt "6 sseqid pident length mismatch gapopen evalue bitscore pident stitle"  -max_hsps 1 -out XP_032239066.blastp.detail.out
+  609  less XP_032239066.blastp.detail.out
+  610  grep -c Homo XP_032239066.blastp.detail.out
+  611  grep -c
+  612  grep --help
+  613  awk '{if ($6<0.00000000000001)print $1 }' XP_032239066.blastp.detail.out > XP_032239066.blastp.detail.filtered.out
+  614   wc -l XP_032239066.blastp.detail.filtered.out
+  615  wc
+  616  wc -help
+  617  wc --help
+  618  ls
+  619  wc -l
+  620  wc -l XP_032239066.blastp.detail.out
+  621  less XP_032239066.blastp.detail.out
+  622  ls
+  623  seqkit grep --pattern-file XP_032239066.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032239066.blastp.detail.filtered.fas
+  624  nano XP_032239066.blastp.detail.filtered.fas
+  625  muscle -in XP_032239066.blastp.detail.filtered.fas -out XP_032239066.blastp.detail.filtered.aligned.fas
+  626  t_coffee -other_pg seq_reformat -in XP_032239066.blastp.detail.filtered.aligned.fas -output sim
+  627  alv -k XP_032239066.blastp.detail.filtered.aligned.fas | less -r
+  628  alv -kli --majority XP_032239066.blastp.detail.filtered.aligned.fas | less -RS
+  629  alv -k XP_032239066.blastp.detail.filtered.aligned.fas | less -r
+  630  alv -kli --majority XP_032239066.blastp.detail.filtered.aligned.fas | less -RS
+  631  alv -h
+  632  alv -kli --majority XP_032239066.blastp.detail.filtered.aligned.fas | less -RS
+  633  t_coffee -other_pg seq_reformat -in XP_032239066.blastp.detail.filtered.aligned.fas -action +rm_gap 50 -out allhomologs.aligned.r50.fa
+  634  alv -kli --majority allhomologs.aligned.r50.fa | less -RS
+  635  alv -kli --majority XP_032239066.blastp.detail.filtered.aligned.fas | less -RS
+  636  cd ..
+  637  ls
+  638  cd ..
+  639  ls
+  640  cd MyGene/
+  641  ls
+  642  mkdir blastdatabase
+  643  ls
+  644  cd blastdatabase/
+  645  ncbi-acc-download -F fasta -m protein XP_032222764.1
+  646  ls
+  647  blastp -db ~/data/blast/allprotein.fas -query XP_032222764.1.fa -outfmt 0 -max_hsps 1 > XP_032222764.1.blastp.typical.out[A
+  648  less XP_032222764.1.blastp.typical.out 
+  649   blastp -db ~/data/blast/allprotein.fas -query XP_032222764.1.fa -outfmt "6 sseqid pident length mismatch gapopen evalue bitscore pident stitle"  -max_hsps 1 -out XP_032222764.1.blastp.detail.out
+  650  less XP_032222764.1.blastp.detail.out 
+  651  awk '{if ($6<0.00000000000001)print $1 }' XP_032222764.blastp.detail.out > XP_032239066.blastp.detail.filtered.out
+  652  awk '{if ($6<0.00000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  653  ls
+  654  rm XP_032239066.blastp.detail.filtered.out 
+  655  ls
+  656  less XP_032222764.1.blastp.detail.filtered.out 
+  657  rm XP_032222764.1.blastp.detail.filtered.out 
+  658  less XP_032222764.1.blastp.detail.out 
+  659  awk '{if ($6<0.00000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  660  less XP_032222764.1.blastp.detail.filtered.out 
+  661  cd ..
+  662  ls
+  663  cd ..
+  664  cd lab5
+  665  ls
+  666  cd lab5-Raphael-Wtz/
+  667  ls
+  668  less XP_032239066.blastp.detail.filtered.out
+  669  cd ..
+  670  cd MyGene/
+  671  cd blastdatabase/
+  672  wc -l XP_032222764.1.blastp.detail.filtered.out
+  673  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  674  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  675  ls
+  676  ls -hf
+  677  wc -l XP_032222764.1.blastp.detail.filtered.out
+  678  less XP_032222764.1.blastp.detail.filtered.fas
+  679  less XP_032222764.1.blastp.detail.filtered.out
+  680  less XP_032222764.1.blastp.detail.out
+  681  less XP_032222764.1.blastp.typical.out 
+  682  cd ..
+  683  cd blastdatabase/
+  684  ls
+  685  less XP_032222764.1.fa
+  686  awk '{if ($6<0.00000000000000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  687  ls
+  688  wc -l XP_032222764.1.blastp.detail.filtered.out
+  689  awk '{if ($6<0.0000000000000000000000000000000000000000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  690  wc -l XP_032222764.1.blastp.detail.filtered.out
+  691  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  692  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  693  awk '{if ($6<0.0000000000000000000000000000000000000000000000000000000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  694  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  695  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  696  wc -l XP_032222764.1.blastp.detail.filtered.out
+  697  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  698  t_coffee -other_pg seq_reformat -in XP_032222764.1.blastp.detail.filtered.aligned.fas -output sim
+  699  wc -l XP_032222764.1.blastp.detail.filtered.out
+  700  history > lab5.commandhistory.txt
+  701  ls
+  702  rm lab5.commandhistory.txt 
+  703  cd ..
+  704  rm lab5.commandhistory.txt 
+  705  history > lab5.commandhistory.txt
+  706  ls
+  707  git add .
+  708  git add
+  709  git add .
+  710  git
+  711  git add
+  712  rm lab5.commandhistory.txt 
+  713  cd ..
+  714  ls
+  715  cd lab5
+  716  history > lab5.commandhistory.txt
+  717  git add .
+  718  rm lab5.commandhistory.txt 
+  719  ls
+  720  cd lab5-Raphael-Wtz/
+  721  history > lab5.commandhistory.txt
+  722  git add .
+  723  git commit -a -m "Adding all new data files I generated in AWS to the repository."
+  724  git pull --no-edit
+  725  git push 
+  726  cd
+  727  ls
+  728  cd labs
+  729  cd lab6
+  730  git config --global credential.helper store
+  731  ls
+  732  git clone https://github.com/Bio312/lab6-Raphael-Wtz
+  733  awk '{if ($3>=50 &&  $6<0.0000000001)print $0 }' ~/labs/lab5/XP_001630613.blastp.detail.out > ~/labs/lab5/XP_001630613.blastp.detail.filtered.out
+  734  cd ~/tools
+  735  git clone git://github.com/tjunier/newick_utils.git
+  736  cd newick_utils/
+  737  autoreconf -fi
+  738  ./configure
+  739  make
+  740  sudo make install
+  741  nw_display -h
+  742  cd ~/labs/lab6/
+  743  ls
+  744  cd lab6-Raphael-Wtz/
+  745  echo "((You,your_sister),your_cousin);" > family.tre
+  746  ls
+  747  less family.tre 
+  748  nw_display family.tre
+  749  nw_display -s family.tre > family.tre.svg
+  750  nw_display family.tre.svg 
+  751  git add family.tre.svg
+  752  git commit -m "created an svg from a newick file" family.tre.svg
+  753   git pull --no-edit
+  754  git push
+  755  echo "(((Echinodermata,Chordata),Arthropoda),Cnidaria);" > phyla.tre
+  756  nw_display phyla.tre
+  757  nw_reroot phyla.tre Chordata >phyla.reroot.tre
+  758  nw_display phyla.reroot.tre 
+  759  echo "(((Homo_sapiens,Drosophila_melanogster)),Strongylocentrotus_purpuratus,(Nematostella_vectensis,Pocillopora_damicornis));"
+  760  echo "(((Homo_sapiens,Drosophila_melanogster)),Strongylocentrotus_purpuratus,(Nematostella_vectensis,Pocillopora_damicornis));" > species.tre
+  761  nw_display species.tre 
+  762   nw_display -s species.tre > species.tre.svg
+  763  git add species.tre.svg 
+  764      git commit -m "created an svg from a newick file" species.tre.svg
+  765  git pull --no-edit
+  766  git push
+  767  iqtree -s allhomologs.aligned.r50.fa -nt 2
+  768  less allhomologs.aligned.r50.fa.iqtree 
+  769  nw_display allhomologs.aligned.r50.fa.treefile
+  770  gotree draw png -w 1000 -i allhomologs.aligned.r50.fa.treefile  -r -o  allhomologs.aligned.r50.fa.png
+  771  less allhomologs.aligned.r50.fa.png 
+  772  git add allhomologs.aligned.r50.fa.png 
+  773  git commit -m "unrooted tree png of all alignments" allhomologs.aligned.r50.fa.png 
+  774  git pull --no-edit
+  775  git push
+  776  gotree reroot midpoint -i allhomologs.aligned.r50.fa.treefile -o allhomologs.aligned.r50.fa.midpoint.treefile
+  777  nw_display   allhomologs.aligned.r50.fa.midpoint.treefile
+  778  nw_display -s  allhomologs.aligned.r50.fa.midpoint.treefile -w 1000 -b 'opacity:0' >  allhomologs.aligned.r50.fa.midpoint.svg
+  779  git add allhomologs.aligned.r50.fa.midpoint.treefile 
+  780  git add allhomologs.aligned.r50.fa.midpoint.svg 
+  781  nw_reroot allhomologs.aligned.r50.fa.treefile Drosophila_melanogaster_Disks_large_1_DLG1_P31007 Nematostella_vectensis_disks_large_homolog_1_XP_001638123.2 Pocillopora_damicornis_A0A3M6TL78 Homo_sapiens_Disks_large_homolog_3_DLG3_Q92796 Homo_sapiens_Disks_large_homolog_4_DLG4_P78352 Homo_sapiens_Disks_large_homolog_1_DLG1_Q12959 Homo_sapiens_Disks_large_homolog_2_DLG2_Q15700 >allhomologs.aligned.r50.fa.MendozaRoot.treefile
+  782  nw_display -s  allhomologs.aligned.r50.fa.MendozaRoot.treefile -w 1000 -b 'opacity:0' >  allhomologs.aligned.r50.fa.MendozaRoot.svg
+  783  add allhomologs.aligned.r50.fa.MendozaRoot.svg
+  784  git add allhomologs.aligned.r50.fa.MendozaRoot.svg
+  785  nw_topology allhomologs.aligned.r50.fa.MendozaRoot.treefile | nw_display -s  -w 1000 > allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg -
+  786  less allhomologs.aligned.r50.fa.MendozaRoot.svg 
+  787  git commit
+  788  git commit -m
+  789  git commit -help
+  790  git commit -a
+  791  git commit -m "midpoint alignment of allhomologs" allhomologs.aligned.r50.fa.midpoint.svg
+  792  git commit -m "phylogram of all homologs" allhomologs.aligned.r50.fa.MendozaRoot.svg
+  793  git commit -m "cladogram of allhomologs" allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg
+  794  git commit -m "cladogram of allhomologs" allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg -
+  795  ls
+  796  git commit -m "cladogram of allhomologs" allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg
+  797  git pull
+  798  git push
+  799  git commit
+  800  git commit -m "midpoint rooting cladogram of all homologs" allhomologs.aligned.r50.fa.midpoint.treefile 
+  801  git pull
+  802  git push
+  803  git commit -m "cladogram of allhomologs" allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg
+  804  git add allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg 
+  805  git commit -m "cladogram of allhomologs" allhomologs.aligned.r50.fa.MendozaRoot.cladogram.svg
+  806  git pull
+  807  git push
+  808  echo "(((Homo_sapiens,Strongylocentrotus_purpuratus),Drosophila_melanogster),(Nematostella_vectensis,Pocillopora_damicornis));" > species.tre
+  809  git commit species.tre
+  810  git add species.tre 
+  811  git commit species.tre
+  812  git commit -m "Q2 tree" species.tre 
+  813  git pull
+  814  git push
+  815  cd
+  816  ls
+  817  cd lab
+  818  cd labs
+  819  ls
+  820  cd MyGene/
+  821  ls
+  822  less LOC5521688.cds.union.fa 
+  823  cd ..
+  824  ls
+  825  cd lab5
+  826  ls
+  827  cd lab5-Raphael-Wtz/
+  828  ls
+  829  cd proteomes
+  830  ls
+  831  cd ..
+  832  ls
+  833  cd ..
+  834  ls
+  835  cd ..
+  836  ls
+  837  cd MyGene/
+  838  ls
+  839  cd blastdatabase/
+  840  ls
+  841  cd ..
+  842  cd MyGene/
+  843  ls
+  844  cd ..
+  845  ls lab5
+  846  cd lab5
+  847  ls
+  848  cd lab5-Raphael-Wtz/
+  849  awk '{if ($3>=50 &&  $6<0.0000000001)print $0 }
+  850  cd ..
+  851  cd MyGene/
+  852  ls
+  853  cd blastdatabase/
+  854  ls
+  855  awk '{if ($3>=50 &&  $6<0.0000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  856  less XP_032222764.1.blastp.detail.filtered.out
+  857  awk '{if ($3>=50 &&  $6<0.000000000000000000000000000000000000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  858  less XP_032222764.1.blastp.detail.filtered.out
+  859  awk '{if ($3>=50 &&  $6<0.0000000000000000000000000000000000000000000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  860  less XP_032222764.1.blastp.detail.filtered.out
+  861  awk '{if ($3>=50 &&  $6<0.000000000000000000000000000000000000000000000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  862  less XP_032222764.1.blastp.detail.filtered.out
+  863  awk '{if ($3>=50 &&  $6<0.0000000000000000000000000000000000000000000000000000000000000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  864  less XP_032222764.1.blastp.detail.filtered.out
+  865  awk '{if ($3>=50 &&  $6<0.0000000000000000000000000000000000000000000000000000000000000001)print $0 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  866  less XP_032222764.1.blastp.detail.filtered.out
+  867  wc -l XP_032222764.1.blastp.detail.filtered.out
+  868  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  869  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  870  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  871  less XP_032222764.1.blastp.detail.filtered.fas
+  872  ls
+  873  cd ..
+  874  ls
+  875  cd blastdatabase/
+  876  wc -l XP_032222764.1.blastp.detail.filtered.out
+  877  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  878  awk '{if ($3>=50 &&  $6<0.0000000000000000000000000000000000000000000000000000000000000001)print $1 }' XP_032222764.1.blastp.detail.out > XP_032222764.1.blastp.detail.filtered.out
+  879  wc -l XP_032222764.1.blastp.detail.filtered.out
+  880  seqkit grep --pattern-file XP_032222764.1.blastp.detail.filtered.out ~/data/blast/allprotein.fas > XP_032222764.1.blastp.detail.filtered.fas
+  881  muscle -in XP_032222764.1.blastp.detail.filtered.fas -out XP_032222764.1.blastp.detail.filtered.aligned.fas
+  882  ls
+  883  cd ..
+  884  ls
+  885  cd blastdatabase/
+  886  ls
+  887  iqtree -s XP_032222764.1.blastp.detail.filtered.aligned.fas 
+  888  nw_display
+  889  ls
+  890  nw_display XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile 
+  891  gotree draw png -w 1000 -i XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile  -r -o  XP_032222764.1.blastp.detail.filtered.aligned.fas.png
+  892  gotree reroot midpoint -i XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile -o XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.treefile
+  893  nw_display  XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.treefile 
+  894  nw_display -s XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.treefile -w 1000 -b 'opacity:0' > XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.svg
+  895  nw_topology XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.treefile | nw_display -s  -w 1000 > XP_032222764.1.blastp.detail.filtered.aligned.fas.midpoint.cladogram.svg -
+  896  git add .
+  897  cd ..
+  898  cd lab6
+  899  git add .
+  900  ls
+  901  cd lab6-Raphael-Wtz/
+  902  git add .
+  903  git commit -a -m "Adding all new data files I generated in AWS to the repository."
+  904  git pull --no-edit
+  905  git push
+  906  history > lab6.commandhistory.txt
+  907  git add .
+  908  git commit -a -m "Adding all new data files I generated in AWS to the repository."
+  909  git pull --no-edit
+  910  git push
+  911  cd ..
+  912  cd MyGene/
+  913  cd blastdatabase/
+  914  ls
+  915  git add .
+  916  copy
+  917  ls
+  918  cd ..
+  919  cd..
+  920  cd ..
+  921  cd lab6
+  922  ls
+  923  cd lab6-Raphael-Wtz/
+  924  ls
+  925  scp
+  926  scp -i 
+  927  cd
+  928  ls
+  929  cd labs
+  930  scp -i home/labs/MyGene/blastdatabase
+  931  cd MyGene/
+  932  ls
+  933  cd blastdatabase/
+  934  ls
+  935  scp -i 312Key.pem ec2-user@ip-172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College et Pro\sbu\BIO 312    
+  936  scp -i 312Key.pem ec2-user@ip-172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College et Pro\sbu\BIO312    
+  937  scp -i 312Key.pem ec2-user@ip-172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO312    
+  938  scp -i 312Key.pem ec2-user@ip.172.31.78.100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  939  scp -i 312Key.pem ec2-user@ip-172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO312    
+  940  scp -i 312Key.pem ec2-user@172.31.78.100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  941  scp -i 312Key.pem ec2-user@172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  942  scp -i 312Key.pem ec2-user@ec2-172-31-78-100.us-east-1.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  943  scp -i 312Key.pem ec2-user@172-31-78-100.zone.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  944  scp -i 312Key.pem ec2-user@ec2-172-31-78-100.us-east-1.compute.amazonaws.com:/home/labs/MyGene/blastdatabase ~C:\Users\Raphael\Desktop\College_et_Pro\sbu\BIO_312    
+  945  git init
+  946  git add .
+  947  git status
+  948  cd ..
+  949  git init MyGene
+  950  git add .
+  951  git init 
+  952  git add .
+  953  git init
+  954  git add .
+  955  pwd
+  956  git init
+  957  git status
+  958  git add .
+  959  ls
+  960  cd MyGene
+  961  ls
+  962  cd ..
+  963  cd blastdatabase/
+  964  ls
+  965  git commit -m 'My Gene stuff, mostly analysis of tree from lab5-6'
+  966  git remode add origin 'https://github.com/Raphael-Wtz/MyGene'
+  967  git remote add origin 'https://github.com/Raphael-Wtz/MyGene'
+  968  git push -u origin master
+  969  cp ~/labs/lab6/lab6-yourname/family.tre family.tre
+  970  cp ~/labs/lab6/lab6-yourname/family.tre ~/labs/lab7/lab7-yourname/family.tre
+  971  cp ~/labs/lab6/lab6-Raphael-Wtz/family.tre family.tre
+  972  ls
+  973   iqtree -s XP_001630613.aligned.r50.fa -bb 1000 -nt 2 --prefix XP_001630613.r50.ufboot
+  974  nw_reroot XP_001630613.r50.ufboot.treefile Drosophila_melanogaster_Disks_large_1_DLG1_P31007 Nematostella_vectensis_disks_large_homolog_1_XP_001638123.2 Pocillopora_damicornis_A0A3M6TL78 Homo_sapiens_Disks_large_homolog_3_DLG3_Q92796 Homo_sapiens_Disks_large_homolog_4_DLG4_P78352 Homo_sapiens_Disks_large_homolog_1_DLG1_Q12959 Homo_sapiens_Disks_large_homolog_2_DLG2_Q15700 >XP_001630613.r50.ufboot.MendozaRoot.treefile
+  975  nw_display XP_001630613.r50.ufboot.MendozaRoot.treefile 
+  976  nw_display -s XP_001630613.r50.ufboot.MendozaRoot.treefile  -w 1000 -b 'opacity:0' > XP_001630613.r50.ufboot.MendozaRoot.svg
+  977  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar --help  
+  978  echo "(frog,(chick,mouse)Amniota)Tetrapoda;" > toyspecies.tre
+  979  less toyspecies.tre 
+  980  nw_display -s XP_001630613.r50.ufboot.MendozaRoot.treefile  -w 1000 -b 'opacity:0' > XP_001630613.r50.ufboot.MendozaRoot.svg
+  981  nw_display XP_001630613.r50.ufboot.MendozaRoot.treefile 
+  982  echo "((frog_Alpha,(chick_Alpha,mouse_Alpha)),(frog_Beta,chick_Beta));" > toygenetree.tre
+  983  echo "toyspecies.tre<br>toygenetree.tre" > toybatch.txt
+  984  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b toybatch.txt --reconcile --speciestag prefix --savepng --treestats --events --homologtabletabs --phylogenomics 
+  985  echo "toyspecies.tre" > toybatch.txt
+  986  nano toybatch.txt 
+  987  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b toybatch.txt --reconcile --speciestag prefix --savepng --treestats --events --homologtabletabs --phylogenomics 
+  988  java --help
+  989  notung
+  990  git add .
+  991  git status
+  992  git push
+  993  git pull --no-edit
+  994  git push
+  995  git status
+  996  git commit -a
+  997  git commit -a -m "Adding all files up to now"
+  998  git add .
+  999  cd labs
+ 1000  cd lab7
+ 1001  cd lab7-Raphael-Wtz/
+ 1002  ls
+ 1003  git add .
+ 1004  git commit -a -m "Adding all files up to now"
+ 1005  git pull --no-edit
+ 1006  git push
+ 1007  sudo yum install numpy
+ 1008  sudo easy_install -U ete3 
+ 1009  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g toygenetree.tre.reconciled --include.species
+ 1010  git add .
+ 1011  git commit -a -m "Adding all files up to now"
+ 1012  git pull --no-edit
+ 1013  git push
+ 1014  nano
+ 1015  nano fewgf
+ 1016  nano zobatch.txt
+ 1017  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --reconcile --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1018  git add .
+ 1019  git commit -a -m "Adding all files up to now"
+ 1020  git pull --no-edit
+ 1021  git push
+ 1022  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g XP_001630613.r50.ufboot.MendozaRoot.treefile.reconciled --include.species
+ 1023  git add .
+ 1024  git commit -a -m "Adding all files up to now"
+ 1025  git pull --no-edit
+ 1026  git push
+ 1027  nw_display  species.tre 
+ 1028  column -t -s $'\t' zobatch.txt.species.tre.geneCount.txt | less -S
+ 1029   column -t -s $'\t' zobatch.txt.species.tre.geneGainLoss.txt | less -S
+ 1030  column -t -s $'\t' zobatch.txt.species.tre.geneCount.txt | less -S
+ 1031   column -t -s $'\t' zobatch.txt.species.tre.geneGainLoss.txt | less -S
+ 1032  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1033  git add .
+ 1034  git commit -a -m "Adding all files up to now"
+ 1035  git pull --no-edit
+ 1036  git push
+ 1037  cd
+ 1038  cd labs
+ 1039  cd MyGene/
+ 1040  ls
+ 1041  cd MyGene/
+ 1042  ls
+ 1043  cd ../
+ 1044  rmdir MyGene/
+ 1045  cd MyGene/
+ 1046  ls
+ 1047  ls -lrt
+ 1048  rmfir --help
+ 1049  rmdir --help
+ 1050  rmdir --ignore-fail-on-non-empty MyGene
+ 1051  ls
+ 1052  cd ../
+ 1053  rmdir --ignore-fail-on-non-empty MyGene
+ 1054  ls
+ 1055  rmdir --ignore-fail-on-non-empty MyGene
+ 1056  ls
+ 1057  cd blastdatabase/
+ 1058  ls
+ 1059  cd ../
+ 1060  rm
+ 1061  rm --help
+ 1062  mkdir Bootstrap/Reconciliation
+ 1063  mkdir BootstrapReconciliation
+ 1064  ls
+ 1065  cd blastdatabase/
+ 1066  ls
+ 1067  git --help
+ 1068  cd ..
+ 1069  ls
+ 1070  git init
+ 1071  git add .
+ 1072  git init
+ 1073  git add .
+ 1074  git pull
+ 1075  ls
+ 1076  cd ..
+ 1077  ls
+ 1078  cd MyGene/
+ 1079  ls
+ 1080  git clone https://github.com/Raphael-Wtz/MyGene.git
+ 1081  ls
+ 1082  cd MyGene/
+ 1083  ls
+ 1084  rmdir MyGene
+ 1085  nano 
+ 1086  nano a.txt
+ 1087  ls
+ 1088  nano a.txt
+ 1089  ls
+ 1090  git add .
+ 1091  git status
+ 1092  rm a.txt 
+ 1093  ls
+ 1094  pwd
+ 1095  ls
+ 1096  cd ..
+ 1097  ls
+ 1098  rm -r MyGene
+ 1099  ls
+ 1100  cd ..
+ 1101  ls
+ 1102  git clone https://github.com/Raphael-Wtz/MyGene2.git
+ 1103  ls
+ 1104  cp MyGene MyGene2
+ 1105  ls
+ 1106  cd MyGene2
+ 1107  ls
+ 1108  cd ..
+ 1109  cd MyGene
+ 1110  git rm --cached
+ 1111  git rm --cached MyGene
+ 1112  cd ..
+ 1113  git rm --cached MyGene
+ 1114  cd MyGene
+ 1115  git rm --cached MyGene
+ 1116  git --cached
+ 1117  cp ~/labs/Mygene > ~/labs/MyGene2
+ 1118  cp ~/labs/Mygene > ~/labs/MyGene2/
+ 1119  cp ~/labs/Mygene/* >> ~/labs/MyGene2/
+ 1120  cd ..
+ 1121  cd MyGene2
+ 1122  cp ~/labs/Mygene/* > ~/labs/MyGene2[A/
+ 1123  cp ~/labs/Mygene/* > ~/labs/MyGene2/
+ 1124  cp ~/labs/Mygene/*
+ 1125  cp ~/labs/Mygene/* .
+ 1126  cp ~/labs/Mygene/ .
+ 1127  cd ..
+ 1128  cd MyGene
+ 1129  pwd
+ 1130  cp ~/labs/MyGene/* > ~/labs/MyGene2/
+ 1131  cd ..
+ 1132  cd MyGene 2
+ 1133  cp ~/labs/MyGene/* > ~/labs/MyGene2/
+ 1134  cd ..
+ 1135  cd MyGene2
+ 1136  cp ~/labs/MyGene/* > ~/labs/MyGene2/
+ 1137  cp ~/labs/Mygene/* .
+ 1138  cp ~/labs/MyGene/* .
+ 1139  ls
+ 1140  cp ~/labs/MyGene/blastdatabase/* .
+ 1141  ls
+ 1142  cd ..
+ 1143  cd MyGene
+ 1144  ls
+ 1145  cd BootstrapReconciliation/
+ 1146  ls
+ 1147  cd ..
+ 1148  rm BootstrapReconciliation/
+ 1149  rmdir BootstrapReconciliation/
+ 1150  ls
+ 1151  cd ..
+ 1152  cd MyGene 2
+ 1153  cd ..
+ 1154  cd MyGene2
+ 1155  git add .
+ 1156  git commit -m "all files"
+ 1157  git pull --no-edit
+ 1158  git push
+ 1159  git pull
+ 1160  git status
+ 1161  git pull --help
+ 1162  git pull
+ 1163  ls
+ 1164  iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot
+ 1165  ls
+ 1166  gotree reroot midpoint -i NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile -o NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint
+ 1167  nw_display NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint 
+ 1168  nw_display -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint -w 1000 -b 'opacity:0' > NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.svg
+ 1169  ls
+ 1170  git add .
+ 1171  git status
+ 1172  git commit -m "Files from lab7"
+ 1173  git pull --no-edit
+ 1174  git push
+ 1175  ls
+ 1176  less XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile 
+ 1177  nw_view XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile 
+ 1178  nw_display XP_032222764.1.blastp.detail.filtered.aligned.fas.treefile 
+ 1179  (((Homo_sapiens,Strongylocentrotus_purpuratus)Deuterostomia,Drosophila_melanogaster)Bilateria,(Nematostella_vectensis,Pocillopora_damicornis)Cnidaria)Eumetazoa;
+ 1180  echo (((Homo_sapiens,Strongylocentrotus_purpuratus)Deuterostomia,Drosophila_melanogaster)Bilateria,(Nematostella_vectensis,Pocillopora_damicornis)Cnidaria)Eumetazoa;
+ 1181  echo "(((Homo_sapiens,Strongylocentrotus_purpuratus)Deuterostomia,Drosophila_melanogaster)Bilateria,(Nematostella_vectensis,Pocillopora_damicornis)Cnidaria)Eumetazoa;" > species.tre
+ 1182  ls
+ 1183  nano zobatch.txt
+ 1184  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --reconcile --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1185  git pull
+ 1186  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --reconcile --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1187  ls
+ 1188  git add .
+ 1189  git status
+ 1190  nano zobatch.txt
+ 1191  gotree reroot midpoint -i NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile -o NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint
+ 1192  iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot
+ 1193  iqtree -s -redo NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot
+ 1194  iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -bb 1000 -nt 2 --prefix NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot -redo
+ 1195  gotree reroot midpoint -i NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile -o NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint
+ 1196  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --reconcile --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1197  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g XP_001630613.r50.ufboot.MendozaRoot.treefile.reconciled --include.species
+ 1198  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint --include.species
+ 1199  ls
+ 1200  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.reconciled --include.species
+ 1201  nw_display species.tre
+ 1202   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1203  ls
+ 1204  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.reconciled.stats.txt
+ 1205  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rooting.0.stats.txt 
+ 1206  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rooting.0.event.txt
+ 1207  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rooting.0.events.txt
+ 1208  ls
+ 1209  less zobatch.txt.species.tre.geneCount.txt 
+ 1210  less zobatch.txt.species.tre.geneGainLoss.txt 
+ 1211  git add .
+ 1212  git commit -m "Files from lab 7"
+ 1213  git pull --no-edit
+ 1214  git push
+ 1215  ls
+ 1216  nano unrooted.zobatch.txt
+ 1217   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b unrooted.zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1218  ls
+ 1219  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile --include.species
+ 1220  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile
+ 1221  cp NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile > genesunrooted.tre
+ 1222  cp NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile genesunrooted.tre
+ 1223  ls
+ 1224  nano unrooted.zobatch.txt
+ 1225   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b unrooted.zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1226  ls
+ 1227  less zobatch.txt.species.tre.geneCount.txt 
+ 1228  cp species.tre species.1.tre
+ 1229   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1230  nano unrooted.zobatch.txt
+ 1231   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b unrooted.zobatch.txt --root --speciestag prefix  --savepng --treestats --events  --phylogenomics 
+ 1232  ls
+ 1233  less zobatch.txt.species.tre.origin.txt 
+ 1234  less zobatch.txt.species.tre.duplication.txt 
+ 1235  nano unrooted.zobatch.txt
+ 1236  nano zobatch.txt
+ 1237  less unrooted.zobatch.txt.treeSummary.txt
+ 1238  history > lab7.commandhistory.txt
