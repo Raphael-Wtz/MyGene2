@@ -1,0 +1,109 @@
+    1  cd labs
+    2  cd lab8
+    3  git clone https://github.com/Bio312/lab8-Raphael-Wtz
+    4  cd lab8-Raphael-Wtz/
+    5  ls
+    6  cd ..
+    7  cd lab7
+    8  cd lab7-Raphael-Wtz/
+    9  ls
+   10  cd ..
+   11  cd lab8
+   12  cd lab8-Raphael-Wtz/
+   13  cp ~/labs/lab7/lab7-yourname/XP_001630613.r50.ufboot.MendozaRoot.treefile .
+   14  cp ~/labs/lab7/lab7-Raphael-Wtz/XP_001630613.r50.ufboot.MendozaRoot.treefile .
+   15  cp ~/labs/lab7/lab7-Raphael-Wtz/XP_001630613.aligned.r50.fa .
+   16  cd ..
+   17  cd MyGene
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd MyGene2
+   22  ls
+   23  nw_display NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile
+   24  nw_display NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint
+   25  nw_display NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPointcd ..
+   26  cd ..
+   27  cd lab8
+   28  cd lab8-Raphael-Wtz/
+   29  cp ~/labs/lab7/lab7-Raphael-Wtz/XP_001630613.r50.ufboot.treefile .
+   30  ls
+   31  cp ~/labs/lab7/lab7-Raphael-Wtz/species.tre .
+   32  cp ~/labs/lab7/lab7-yourname/zobatch.txt .
+   33      cp ~/labs/lab7/lab7-yourname/zobatch.txt .
+   34      cp ~/labs/lab7/lab7-Raphael-Wtz/zobatch.txt .
+   35  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --rearrange --speciestag prefix  --savepng --treestats --events  --outputdir zoreconcileRearrange --edgeweights name --threshold 90
+   36  ls
+   37  cd zoreconcileRearrange/
+   38  ls
+   39  nw_display XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0
+   40  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0 --include.species
+   41  ls
+   42  less XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0.xml 
+   43  more XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0.xml 
+   44  git add .
+   45  cd ..
+   46  git add .
+   47  git status
+   48  git commit -m "Lab 8 Files"
+   49  git pull --no-edit
+   50  git push
+   51  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -g zoreconcileRearrange/XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0   -s species.tre --reconcile --speciestag prefix  --treeoutput newick --nolosses
+   52  ls
+   53  gotree unroot -i XP_001630613.r50.ufboot.MendozaRoot.treefile.rearrange.0.reconciled -o XP_001630613.r50.ufboot.unrooted.treefile.rearrange
+   54  cat XP_001630613.r50.ufboot.treefile XP_001630613.r50.ufboot.unrooted.treefile.rearrange > XP_001630613.r50.alternativetrees
+   55  iqtree -s XP_001630613.aligned.r50.fa -z XP_001630613.r50.alternativetrees -au -zb 10000 --prefix ZO1_altTrees -m LG+F+R5 -nt 2 -te XP_001630613.r50.ufboot.treefile
+   56  less ZO1_altTrees.log
+   57  cd ..
+   58  cd lab8-Raphael-Wtz/
+   59  git add .
+   60  git status
+   61  cd zoreconcileRearrange/
+   62  git add .
+   63  git status
+   64  git commit -m "Lab 8 Files"
+   65  git pull --no-edit
+   66  git push
+   67  cd ..
+   68  cd MyGene2
+   69  ls
+   70  java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -b zobatch.txt --rearrange --speciestag prefix  --savepng --treestats --events  --outputdir zoreconcileRearrange --edgeweights name --threshold 90 
+   71  ls
+   72  cd zoreconcileRearrange/
+   73  ls
+   74  python ~/tools/recPhyloXML/python/NOTUNGtoRecPhyloXML.py -g NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange.0 --include.species
+   75  ls
+   76  cd ..
+   77   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -g zoreconcileRearrange/NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint  -s species.tre --reconcile --speciestag prefix  --treeoutput newick --nolosses
+   78  ls
+   79   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -g zoreconcileRearrange/NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint  -s species.tre --reconcile --speciestag prefix  --treeoutput newick --nolosses
+   80  cd zoreconcileRearrange/
+   81  ls
+   82   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -g zoreconcileRearrange/NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange.0  -s species.tre --reconcile --speciestag prefix  --treeoutput newick --nolosses
+   83  ls
+   84  cd ..
+   85   java -jar ~/tools/Notung-3.0-beta/Notung-3.0-beta.jar -g zoreconcileRearrange/NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange.0  -s species.tre --reconcile --speciestag prefix  --treeoutput newick --nolosses
+   86  ls
+   87  gotree unroot -i NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange.0.reconciled -o NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange
+   88  ls
+   89  cat NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile.MidPoint.rearrange > NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.alternativetrees 
+   90  less NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.alternativetrees 
+   91  nw_display NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.alternativetrees 
+   92  ls
+   93  iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -z NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.alternativetrees  -au -zb 10000 --prefix ZO1_altTrees -m LG+F+R5 -nt 2 -te NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile
+   94  ls
+   95  rm ZO1_altTrees.ckp.gz 
+   96  rm ZO1_altTrees.iqtree 
+   97  rm ZO1_altTrees.log
+   98  rm ZO1_altTrees.treefike
+   99  rm ZO1_altTrees.treefile
+  100  rm ZO1_altTrees.tree
+  101  rm ZO1_altTrees.trees
+  102  ls
+  103  iqtree -s NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas -z NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.alternativetrees  -au -zb 10000 --prefix MyGene_altTrees -m LG+F+R5 -nt 2 -te NewFormat.XP_032222764.1.blastp.detail.filtered.aligned.fas.ufboot.treefile
+  104  git add .
+  105  git status
+  106  git commit -a -m "Rearrangement Lab8"
+  107  git pull --no-edit
+  108  git push
+  109  history > lab8.commandhistory.txt
