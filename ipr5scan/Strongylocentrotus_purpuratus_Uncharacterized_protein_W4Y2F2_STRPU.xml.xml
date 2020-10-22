@@ -513,6 +513,21 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
+          <patternscan-location level="STRONG" start="1073" end="1097">
+            <location-fragments>
+              <patternscan-location-fragment start="1073" end="1097" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CAemflnegrrWNDIPCyalrsWIC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
+          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00615</model-ac>
+        <locations>
           <patternscan-location level="STRONG" start="114" end="136">
             <location-fragments>
               <patternscan-location-fragment start="114" end="136" dc-status="CONTINUOUS"/>
@@ -548,21 +563,6 @@
               <patternscan-location-fragment start="1380" end="1406" dc-status="CONTINUOUS"/>
             </location-fragments>
             <alignment>CVellndydyagkWNDVNCkeviaYMC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
-          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00615</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="1073" end="1097">
-            <location-fragments>
-              <patternscan-location-fragment start="1073" end="1097" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CAemflnegrrWNDIPCyalrsWIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>

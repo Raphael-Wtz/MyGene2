@@ -107,37 +107,6 @@
     "model-ac" : "PS50948"
   }, {
     "signature" : {
-      "accession" : "PS00615",
-      "name" : "C_TYPE_LECTIN_1",
-      "description" : "C-type lectin domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018378",
-        "name" : "C-type_lectin_CS",
-        "description" : "C-type lectin, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 114,
-      "end" : 136,
-      "level" : "STRONG",
-      "cigarAlignment" : "2M7I6M5I3M",
-      "alignment" : "CVemrnngqWNDEQClapnwFIC",
-      "location-fragments" : [ {
-        "start" : 114,
-        "end" : 136,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00615"
-  }, {
-    "signature" : {
       "accession" : "SSF56436",
       "name" : "C-type lectin-like",
       "description" : null,
@@ -554,37 +523,6 @@
     "model-ac" : "SM00034"
   }, {
     "signature" : {
-      "accession" : "PS00615",
-      "name" : "C_TYPE_LECTIN_1",
-      "description" : "C-type lectin domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018378",
-        "name" : "C-type_lectin_CS",
-        "description" : "C-type lectin, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1666,
-      "end" : 1690,
-      "level" : "STRONG",
-      "cigarAlignment" : "2M9I6M5I3M",
-      "alignment" : "CVemytneyakWNDEDCyarasYVC",
-      "location-fragments" : [ {
-        "start" : 1666,
-        "end" : 1690,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00615"
-  }, {
-    "signature" : {
       "accession" : "PS50041",
       "name" : "C_TYPE_LECTIN_2",
       "description" : "C-type lectin domain profile.",
@@ -613,37 +551,6 @@
       } ]
     } ],
     "model-ac" : "PS50041"
-  }, {
-    "signature" : {
-      "accession" : "PS00615",
-      "name" : "C_TYPE_LECTIN_1",
-      "description" : "C-type lectin domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018378",
-        "name" : "C-type_lectin_CS",
-        "description" : "C-type lectin, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1380,
-      "end" : 1406,
-      "level" : "STRONG",
-      "cigarAlignment" : "2M11I6M5I3M",
-      "alignment" : "CVellndydyagkWNDVNCkeviaYMC",
-      "location-fragments" : [ {
-        "start" : 1380,
-        "end" : 1406,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00615"
   }, {
     "signature" : {
       "accession" : "SSF56436",
@@ -1214,6 +1121,37 @@
     "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
   }, {
     "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 114,
+      "end" : 136,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M7I6M5I3M",
+      "alignment" : "CVemrnngqWNDEQClapnwFIC",
+      "location-fragments" : [ {
+        "start" : 114,
+        "end" : 136,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
       "accession" : "SSF56436",
       "name" : "C-type lectin-like",
       "description" : null,
@@ -1761,37 +1699,6 @@
     "model-ac" : "4wreA00"
   }, {
     "signature" : {
-      "accession" : "PS00615",
-      "name" : "C_TYPE_LECTIN_1",
-      "description" : "C-type lectin domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018378",
-        "name" : "C-type_lectin_CS",
-        "description" : "C-type lectin, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 440,
-      "end" : 466,
-      "level" : "STRONG",
-      "cigarAlignment" : "2M11I6M5I3M",
-      "alignment" : "CVhmesyfykvgtWNDHKCdrvyrFVC",
-      "location-fragments" : [ {
-        "start" : 440,
-        "end" : 466,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00615"
-  }, {
-    "signature" : {
       "accession" : "PS50041",
       "name" : "C_TYPE_LECTIN_2",
       "description" : "C-type lectin domain profile.",
@@ -1820,6 +1727,37 @@
       } ]
     } ],
     "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1666,
+      "end" : 1690,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M9I6M5I3M",
+      "alignment" : "CVemytneyakWNDEDCyarasYVC",
+      "location-fragments" : [ {
+        "start" : 1666,
+        "end" : 1690,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
   }, {
     "signature" : {
       "accession" : "PS50041",
@@ -2348,6 +2286,68 @@
     "evalue" : 0.0,
     "score" : 1089.9,
     "model-ac" : "3wh2A00"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1380,
+      "end" : 1406,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M11I6M5I3M",
+      "alignment" : "CVellndydyagkWNDVNCkeviaYMC",
+      "location-fragments" : [ {
+        "start" : 1380,
+        "end" : 1406,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 440,
+      "end" : 466,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M11I6M5I3M",
+      "alignment" : "CVhmesyfykvgtWNDHKCdrvyrFVC",
+      "location-fragments" : [ {
+        "start" : 440,
+        "end" : 466,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
   }, {
     "signature" : {
       "accession" : "SSF56436",

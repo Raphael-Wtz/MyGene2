@@ -441,21 +441,6 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="829" end="856">
-            <location-fragments>
-              <patternscan-location-fragment start="829" end="856" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CTiikyaddeegiWDDINCvktrtaYVC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
-          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00615</model-ac>
-        <locations>
           <patternscan-location level="STRONG" start="982" end="1005">
             <location-fragments>
               <patternscan-location-fragment start="982" end="1005" dc-status="CONTINUOUS"/>
@@ -471,11 +456,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1805" end="1831">
+          <patternscan-location level="STRONG" start="112" end="134">
             <location-fragments>
-              <patternscan-location-fragment start="1805" end="1831" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="112" end="134" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CVemvetperagkWNDQSCndynaFIC</alignment>
+            <alignment>CTtiitvglWNDEDCyatrpFIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -486,11 +471,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="664" end="687">
+          <patternscan-location level="STRONG" start="1658" end="1680">
             <location-fragments>
-              <patternscan-location-fragment start="664" end="687" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="1658" end="1680" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CTqiyyatgtWNDFFCdreigYIC</alignment>
+            <alignment>CAefyqdgsWNDLNCgdkltFVC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -501,11 +486,41 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="524" end="551">
+          <patternscan-location level="STRONG" start="1206" end="1228">
             <location-fragments>
-              <patternscan-location-fragment start="524" end="551" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="1206" end="1228" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CTimkyaddeegiWDDINCvktrtaYVC</alignment>
+            <alignment>CVemfnngaWNDIACastipSIC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
+          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00615</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="829" end="856">
+            <location-fragments>
+              <patternscan-location-fragment start="829" end="856" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CTiikyaddeegiWDDINCvktrtaYVC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
+          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00615</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="1344" end="1369">
+            <location-fragments>
+              <patternscan-location-fragment start="1344" end="1369" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CVastsgstaglWRNIQCdteakYVC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -546,11 +561,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1344" end="1369">
+          <patternscan-location level="STRONG" start="664" end="687">
             <location-fragments>
-              <patternscan-location-fragment start="1344" end="1369" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="664" end="687" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CVastsgstaglWRNIQCdteakYVC</alignment>
+            <alignment>CTqiyyatgtWNDFFCdreigYIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -561,11 +576,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1206" end="1228">
+          <patternscan-location level="STRONG" start="1805" end="1831">
             <location-fragments>
-              <patternscan-location-fragment start="1206" end="1228" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="1805" end="1831" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CVemfnngaWNDIACastipSIC</alignment>
+            <alignment>CVemvetperagkWNDQSCndynaFIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -576,26 +591,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="112" end="134">
+          <patternscan-location level="STRONG" start="524" end="551">
             <location-fragments>
-              <patternscan-location-fragment start="112" end="134" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="524" end="551" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CTtiitvglWNDEDCyatrpFIC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
-          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00615</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="1658" end="1680">
-            <location-fragments>
-              <patternscan-location-fragment start="1658" end="1680" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CAefyqdgsWNDLNCgdkltFVC</alignment>
+            <alignment>CTimkyaddeegiWDDINCvktrtaYVC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>

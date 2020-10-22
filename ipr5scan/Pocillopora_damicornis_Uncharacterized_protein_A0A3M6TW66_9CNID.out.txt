@@ -518,36 +518,6 @@
         </locations>
       </panther-match>
       <patternscan-match>
-        <signature ac="PS01186" desc="EGF-like domain signature 2." name="EGF_2">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01186</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="189" end="201">
-            <location-fragments>
-              <patternscan-location-fragment start="189" end="201" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CkCrpGFkgktcC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
-          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00010</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="259" end="270">
-            <location-fragments>
-              <patternscan-location-fragment start="259" end="270" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CiNtrgsYeCsC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
         <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
           <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
           <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
@@ -569,26 +539,11 @@
         </signature>
         <model-ac>PS01286</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="651" end="667">
+          <patternscan-location level="STRONG" start="496" end="512">
             <location-fragments>
-              <patternscan-location-fragment start="651" end="667" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="496" end="512" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>PtawfnhisMRmEIyGC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="1411" end="1427">
-            <location-fragments>
-              <patternscan-location-fragment start="1411" end="1427" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PtfwfnhisMRmEIyGC</alignment>
+            <alignment>PtawhnhisLRmELyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -604,6 +559,68 @@
               <patternscan-location-fragment start="1256" end="1272" dc-status="CONTINUOUS"/>
             </location-fragments>
             <alignment>PtawfnhvsMRmEIyGC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00022</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="230" end="241">
+            <location-fragments>
+              <patternscan-location-fragment start="230" end="241" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CaCpsGfvGKrC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01187" desc="Calcium-binding EGF-like domain signature." name="EGF_CA">
+          <entry ac="IPR018097" desc="EGF-like calcium-binding, conserved site" name="EGF_Ca-bd_CS" type="CONSERVED_SITE">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005509" name="calcium ion binding"/>
+          </entry>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01187</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="321" end="345">
+            <location-fragments>
+              <patternscan-location-fragment start="321" end="345" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>DvNECtstpCknggtCvNlhgsFeC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
+          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00010</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="259" end="270">
+            <location-fragments>
+              <patternscan-location-fragment start="259" end="270" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CiNtrgsYeCsC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00022</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="345" end="356">
+            <location-fragments>
+              <patternscan-location-fragment start="345" end="356" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>ClCtyRhsGVlC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -625,21 +642,6 @@
         </locations>
       </patternscan-match>
       <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="496" end="512">
-            <location-fragments>
-              <patternscan-location-fragment start="496" end="512" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PtawhnhisLRmELyGC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
         <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
           <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
           <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
@@ -655,17 +657,17 @@
         </locations>
       </patternscan-match>
       <patternscan-match>
-        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
           <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
         </signature>
-        <model-ac>PS00022</model-ac>
+        <model-ac>PS01286</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="268" end="279">
+          <patternscan-location level="STRONG" start="1101" end="1117">
             <location-fragments>
-              <patternscan-location-fragment start="268" end="279" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="1101" end="1117" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CsCpeTyqGEhC</alignment>
+            <alignment>PtawfnhisMRmEIyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -676,28 +678,101 @@
         </signature>
         <model-ac>PS01286</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1566" end="1582">
+          <patternscan-location level="STRONG" start="651" end="667">
             <location-fragments>
-              <patternscan-location-fragment start="1566" end="1582" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="651" end="667" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>PtawfshisMRmEIyGC</alignment>
+            <alignment>PtawfnhisMRmEIyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
       <patternscan-match>
-        <signature ac="PS01187" desc="Calcium-binding EGF-like domain signature." name="EGF_CA">
-          <entry ac="IPR018097" desc="EGF-like calcium-binding, conserved site" name="EGF_Ca-bd_CS" type="CONSERVED_SITE">
-            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005509" name="calcium ion binding"/>
-          </entry>
+        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
           <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
         </signature>
-        <model-ac>PS01187</model-ac>
+        <model-ac>PS00022</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="321" end="345">
+          <patternscan-location level="STRONG" start="307" end="318">
             <location-fragments>
-              <patternscan-location-fragment start="321" end="345" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="307" end="318" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>DvNECtstpCknggtCvNlhgsFeC</alignment>
+            <alignment>CdCpkGweGKnC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
+          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00010</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="298" end="309">
+            <location-fragments>
+              <patternscan-location-fragment start="298" end="309" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CtNlpgdYkCdC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00022</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="189" end="200">
+            <location-fragments>
+              <patternscan-location-fragment start="189" end="200" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CkCrpGfkGKtC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01286</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="806" end="822">
+            <location-fragments>
+              <patternscan-location-fragment start="806" end="822" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>PstwvnhisLRmEVyGC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01186" desc="EGF-like domain signature 2." name="EGF_2">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01186</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="230" end="241">
+            <location-fragments>
+              <patternscan-location-fragment start="230" end="241" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CaCpsGFvgkrC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
+          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00010</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="180" end="191">
+            <location-fragments>
+              <patternscan-location-fragment start="180" end="191" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CiNtvgsYmCkC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -723,41 +798,11 @@
         </signature>
         <model-ac>PS00022</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="230" end="241">
+          <patternscan-location level="STRONG" start="111" end="122">
             <location-fragments>
-              <patternscan-location-fragment start="230" end="241" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="111" end="122" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CaCpsGfvGKrC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
-          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00010</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="221" end="232">
-            <location-fragments>
-              <patternscan-location-fragment start="221" end="232" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CeNtygsFwCaC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00010" desc="Aspartic acid and asparagine hydroxylation site." name="ASX_HYDROXYL">
-          <entry ac="IPR000152" desc="EGF-type aspartate/asparagine hydroxylation site" name="EGF-type_Asp/Asn_hydroxyl_site" type="PTM"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00010</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="180" end="191">
-            <location-fragments>
-              <patternscan-location-fragment start="180" end="191" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CiNtvgsYmCkC</alignment>
+            <alignment>CkCrpGfsGKhC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -768,11 +813,26 @@
         </signature>
         <model-ac>PS01186</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="230" end="241">
+          <patternscan-location level="STRONG" start="307" end="318">
             <location-fragments>
-              <patternscan-location-fragment start="230" end="241" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="307" end="318" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CaCpsGFvgkrC</alignment>
+            <alignment>CdCpkGWegknC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
+          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00022</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="151" end="162">
+            <location-fragments>
+              <patternscan-location-fragment start="151" end="162" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CkCpsGikGRhC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -815,101 +875,11 @@
         </signature>
         <model-ac>PS00022</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="151" end="162">
+          <patternscan-location level="STRONG" start="268" end="279">
             <location-fragments>
-              <patternscan-location-fragment start="151" end="162" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="268" end="279" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CkCpsGikGRhC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00022</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="111" end="122">
-            <location-fragments>
-              <patternscan-location-fragment start="111" end="122" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CkCrpGfsGKhC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="1101" end="1117">
-            <location-fragments>
-              <patternscan-location-fragment start="1101" end="1117" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PtawfnhisMRmEIyGC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="806" end="822">
-            <location-fragments>
-              <patternscan-location-fragment start="806" end="822" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PstwvnhisLRmEVyGC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00022</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="189" end="200">
-            <location-fragments>
-              <patternscan-location-fragment start="189" end="200" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CkCrpGfkGKtC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00022</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="345" end="356">
-            <location-fragments>
-              <patternscan-location-fragment start="345" end="356" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>ClCtyRhsGVlC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00022" desc="EGF-like domain signature 1." name="EGF_1">
-          <entry ac="IPR000742" desc="EGF-like domain" name="EGF-like_dom" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00022</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="307" end="318">
-            <location-fragments>
-              <patternscan-location-fragment start="307" end="318" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CdCpkGweGKnC</alignment>
+            <alignment>CsCpeTyqGEhC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -920,11 +890,26 @@
         </signature>
         <model-ac>PS00010</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="298" end="309">
+          <patternscan-location level="STRONG" start="221" end="232">
             <location-fragments>
-              <patternscan-location-fragment start="298" end="309" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="221" end="232" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CtNlpgdYkCdC</alignment>
+            <alignment>CeNtygsFwCaC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01286</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="1411" end="1427">
+            <location-fragments>
+              <patternscan-location-fragment start="1411" end="1427" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>PtfwfnhisMRmEIyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -935,11 +920,26 @@
         </signature>
         <model-ac>PS01186</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="307" end="318">
+          <patternscan-location level="STRONG" start="189" end="201">
             <location-fragments>
-              <patternscan-location-fragment start="307" end="318" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="189" end="201" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CdCpkGWegknC</alignment>
+            <alignment>CkCrpGFkgktcC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01286</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="1566" end="1582">
+            <location-fragments>
+              <patternscan-location-fragment start="1566" end="1582" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>PtawfshisMRmEIyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>

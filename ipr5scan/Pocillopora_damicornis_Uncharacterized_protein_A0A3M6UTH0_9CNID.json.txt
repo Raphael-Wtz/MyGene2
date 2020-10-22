@@ -5,29 +5,6 @@
   "md5" : "6e5b62f8d4482bc9208ba14c0cc0597c",
   "matches" : [ {
     "signature" : {
-      "accession" : "SignalP-noTM",
-      "name" : "SignalP-noTM",
-      "description" : null,
-      "signatureLibraryRelease" : {
-        "library" : "SIGNALP_EUK",
-        "version" : "4.1"
-      },
-      "entry" : null
-    },
-    "locations" : [ {
-      "start" : 1,
-      "end" : 24,
-      "score" : 0.757,
-      "location-fragments" : [ {
-        "start" : 1,
-        "end" : 24,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "orgType" : "EUK",
-    "model-ac" : "SignalP-noTM"
-  }, {
-    "signature" : {
       "accession" : "PTHR22803:SF133",
       "name" : "WU:FA56D06",
       "description" : null,
@@ -319,35 +296,27 @@
     "model-ac" : "PTHR22803"
   }, {
     "signature" : {
-      "accession" : "PS00615",
-      "name" : "C_TYPE_LECTIN_1",
-      "description" : "C-type lectin domain signature.",
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
       "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
       },
-      "entry" : {
-        "accession" : "IPR018378",
-        "name" : "C-type_lectin_CS",
-        "description" : "C-type lectin, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
+      "entry" : null
     },
     "locations" : [ {
-      "start" : 135,
-      "end" : 159,
-      "level" : "STRONG",
-      "cigarAlignment" : "2M9I6M5I3M",
-      "alignment" : "CIeirawlagsWNDLNCgidlcYVC",
+      "start" : 1,
+      "end" : 24,
+      "score" : 0.757,
       "location-fragments" : [ {
-        "start" : 135,
-        "end" : 159,
+        "start" : 1,
+        "end" : 24,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS00615"
+    "orgType" : "EUK",
+    "model-ac" : "SignalP-noTM"
   }, {
     "signature" : {
       "accession" : "PF00059",
@@ -496,6 +465,60 @@
     "model-ac" : "SIGNAL_PEPTIDE_N_REGION"
   }, {
     "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 135,
+      "end" : 159,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M9I6M5I3M",
+      "alignment" : "CIeirawlagsWNDLNCgidlcYVC",
+      "location-fragments" : [ {
+        "start" : 135,
+        "end" : 159,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-TM",
+      "name" : "SignalP-TM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_GRAM_POSITIVE",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 24,
+      "score" : 0.483,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "GRAM_POSITIVE",
+    "model-ac" : "SignalP-TM"
+  }, {
+    "signature" : {
       "accession" : "G3DSA:3.10.100.10",
       "name" : "",
       "description" : null,
@@ -533,29 +556,6 @@
     "evalue" : 1.9E-72,
     "score" : 243.3,
     "model-ac" : "2zibA00"
-  }, {
-    "signature" : {
-      "accession" : "SignalP-TM",
-      "name" : "SignalP-TM",
-      "description" : null,
-      "signatureLibraryRelease" : {
-        "library" : "SIGNALP_GRAM_POSITIVE",
-        "version" : "4.1"
-      },
-      "entry" : null
-    },
-    "locations" : [ {
-      "start" : 1,
-      "end" : 24,
-      "score" : 0.483,
-      "location-fragments" : [ {
-        "start" : 1,
-        "end" : 24,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "orgType" : "GRAM_POSITIVE",
-    "model-ac" : "SignalP-TM"
   }, {
     "signature" : {
       "accession" : "SIGNAL_PEPTIDE",

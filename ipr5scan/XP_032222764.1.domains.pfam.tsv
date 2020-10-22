@@ -7,8 +7,6 @@ Homo_sapiens_MRC2_HUMAN_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e
 Homo_sapiens_MRC2_HUMAN_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	995	1109	2.7E-16	T	22-10-2020	IPR001304	C-type lectin-like		
 Homo_sapiens_MRC2_HUMAN_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	844	952	2.2E-19	T	22-10-2020	IPR001304	C-type lectin-like		
 Homo_sapiens_MRC2_HUMAN_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	400	506	4.2E-23	T	22-10-2020	IPR001304	C-type lectin-like		
-Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00094	von Willebrand factor type D domain	9920	10074	2.4E-12	T	22-10-2020	IPR001846	von Willebrand factor, type D domain		
-Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00092	von Willebrand factor type A domain	13615	13780	5.2E-26	T	22-10-2020	IPR002035	von Willebrand factor, type A		
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	198	313	9.5E-21	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	3414	3545	2.6E-21	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	13295	13426	1.7E-27	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
@@ -92,10 +90,14 @@ Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	3721	3850	3.6E-21	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	7409	7540	5.4E-23	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00754	F5/8 type C domain	11260	11391	6.0E-24	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00092	von Willebrand factor type A domain	13615	13780	5.2E-26	T	22-10-2020	IPR002035	von Willebrand factor, type A		
+Nematostella_XP_032221280.1	db94a1f1762c686a090014bcbd938f96	13831	Pfam	PF00094	von Willebrand factor type D domain	9920	10074	2.4E-12	T	22-10-2020	IPR001846	von Willebrand factor, type D domain		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00754	F5/8 type C domain	2412	2538	2.2E-17	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00754	F5/8 type C domain	2258	2388	2.5E-17	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00754	F5/8 type C domain	464	597	2.9E-23	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00754	F5/8 type C domain	2109	2227	1.9E-17	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
+Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	815	965	3.3E-14	T	22-10-2020
+Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF02140	Galactose binding lectin domain	1132	1208	4.6E-18	T	22-10-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	Lectin C-type domain	195	303	5.8E-21	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	Lectin C-type domain	331	442	3.5E-18	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	Lectin C-type domain	1984	2088	4.5E-20	T	22-10-2020	IPR001304	C-type lectin-like		
@@ -108,10 +110,9 @@ Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	L
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	Lectin C-type domain	630	737	1.2E-18	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF00059	Lectin C-type domain	1389	1495	2.3E-18	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF01390	SEA domain	2578	2659	4.3E-15	T	22-10-2020	IPR000082	SEA domain		
-Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF02140	Galactose binding lectin domain	1132	1208	4.6E-18	T	22-10-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
-Nematostella_XP_032222764.1	6d541b3a9d11236a8eb49c2179434fd8	2836	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	815	965	3.3E-14	T	22-10-2020
-Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	824	971	7.8E-11	T	22-10-2020
+Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF01390	SEA domain	2573	2657	1.2E-12	T	22-10-2020	IPR000082	SEA domain		
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF02140	Galactose binding lectin domain	1140	1216	3.0E-16	T	22-10-2020	IPR000922	D-galactoside/L-rhamnose binding SUEL lectin domain	GO:0030246	
+Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF13385	Concanavalin A-like lectin/glucanases superfamily	824	971	7.8E-11	T	22-10-2020
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00754	F5/8 type C domain	472	603	3.5E-23	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00754	F5/8 type C domain	2262	2382	5.0E-23	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00754	F5/8 type C domain	2116	2236	4.3E-24	T	22-10-2020	IPR000421	Coagulation factor 5/8 C-terminal domain		
@@ -127,7 +128,6 @@ Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00059	L
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00059	Lectin C-type domain	1847	1954	3.5E-14	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00059	Lectin C-type domain	1246	1359	1.4E-15	T	22-10-2020	IPR001304	C-type lectin-like		
 Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF00059	Lectin C-type domain	1551	1657	1.2E-22	T	22-10-2020	IPR001304	C-type lectin-like		
-Nematostella_XP_032222765.1	0214ea683d88467fda6b311fc3876fcb	2758	Pfam	PF01390	SEA domain	2573	2657	1.2E-12	T	22-10-2020	IPR000082	SEA domain		
 P22897|MRC1_HUMAN	680191aa39fcf65fd228fe2797297906	1456	Pfam	PF00652	Ricin-type beta-trefoil lectin domain	26	106	7.0E-8	T	22-10-2020	IPR000772	Ricin B, lectin domain		
 P22897|MRC1_HUMAN	680191aa39fcf65fd228fe2797297906	1456	Pfam	PF00059	Lectin C-type domain	237	342	4.4E-19	T	22-10-2020	IPR001304	C-type lectin-like		
 P22897|MRC1_HUMAN	680191aa39fcf65fd228fe2797297906	1456	Pfam	PF00059	Lectin C-type domain	1115	1214	1.3E-14	T	22-10-2020	IPR001304	C-type lectin-like		
@@ -212,6 +212,7 @@ Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6_STRPU	31b726d75081a
 Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6_STRPU	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	716	822	1.5E-20	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6_STRPU	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	281	389	5.8E-24	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6_STRPU	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	432	540	1.4E-19	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00024	PAN domain	833	902	3.4E-11	T	22-10-2020	IPR003609	PAN/Apple domain		
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	142	208	2.4E-9	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	1082	1190	1.0E-16	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	442	549	1.5E-16	T	22-10-2020	IPR001304	C-type lectin-like		
@@ -221,4 +222,3 @@ Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-t
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	42	126	5.8E-8	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	605	678	1.1E-7	T	22-10-2020	IPR001304	C-type lectin-like		
 Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	722	826	8.7E-22	T	22-10-2020	IPR001304	C-type lectin-like		
-Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00024	PAN domain	833	902	3.4E-11	T	22-10-2020	IPR003609	PAN/Apple domain		

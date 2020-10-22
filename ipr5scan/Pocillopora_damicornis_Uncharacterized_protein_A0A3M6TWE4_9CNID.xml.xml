@@ -606,71 +606,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="277" end="302">
-            <location-fragments>
-              <patternscan-location-fragment start="277" end="302" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CVqvwayssgglWNDDFCnsehyYIC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01285" desc="Coagulation factors 5/8 type C domain (FA58C) signature 1." name="FA58C_1">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01285</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="495" end="524">
-            <location-fragments>
-              <patternscan-location-fragment start="495" end="524" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>AWcaaqnkvgeYLqIDlgvvrqVrhIaLQG</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
-          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00615</model-ac>
-        <locations>
           <patternscan-location level="STRONG" start="1641" end="1663">
             <location-fragments>
               <patternscan-location-fragment start="1641" end="1663" dc-status="CONTINUOUS"/>
             </location-fragments>
             <alignment>CLeivkrgyWNDHHCsvlrpYIC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
-          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS00615</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="132" end="153">
-            <location-fragments>
-              <patternscan-location-fragment start="132" end="153" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>CVelylrrWNDDKCnselgYIC</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="588" end="604">
-            <location-fragments>
-              <patternscan-location-fragment start="588" end="604" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PlswnsricLRtEIyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -696,26 +636,11 @@
         </signature>
         <model-ac>PS01285</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="2147" end="2175">
+          <patternscan-location level="STRONG" start="495" end="524">
             <location-fragments>
-              <patternscan-location-fragment start="2147" end="2175" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="495" end="524" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>AWcakaqsgqYIqIDlltetrLnkIaLQG</alignment>
-          </patternscan-location>
-        </locations>
-      </patternscan-match>
-      <patternscan-match>
-        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
-          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
-          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
-        </signature>
-        <model-ac>PS01286</model-ac>
-        <locations>
-          <patternscan-location level="STRONG" start="2238" end="2254">
-            <location-fragments>
-              <patternscan-location-fragment start="2238" end="2254" dc-status="CONTINUOUS"/>
-            </location-fragments>
-            <alignment>PsswtgslcMRmELyGC</alignment>
+            <alignment>AWcaaqnkvgeYLqIDlgvvrqVrhIaLQG</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -726,11 +651,41 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1489" end="1511">
+          <patternscan-location level="STRONG" start="132" end="153">
             <location-fragments>
-              <patternscan-location-fragment start="1489" end="1511" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="132" end="153" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CVemystgeWGDTGCysvkqFIC</alignment>
+            <alignment>CVelylrrWNDDKCnselgYIC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
+          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00615</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="277" end="302">
+            <location-fragments>
+              <patternscan-location-fragment start="277" end="302" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CVqvwayssgglWNDDFCnsehyYIC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01285" desc="Coagulation factors 5/8 type C domain (FA58C) signature 1." name="FA58C_1">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01285</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="2147" end="2175">
+            <location-fragments>
+              <patternscan-location-fragment start="2147" end="2175" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>AWcakaqsgqYIqIDlltetrLnkIaLQG</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -750,6 +705,36 @@
         </locations>
       </patternscan-match>
       <patternscan-match>
+        <signature ac="PS00615" desc="C-type lectin domain signature." name="C_TYPE_LECTIN_1">
+          <entry ac="IPR018378" desc="C-type lectin, conserved site" name="C-type_lectin_CS" type="CONSERVED_SITE"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS00615</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="1489" end="1511">
+            <location-fragments>
+              <patternscan-location-fragment start="1489" end="1511" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>CVemystgeWGDTGCysvkqFIC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01286</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="588" end="604">
+            <location-fragments>
+              <patternscan-location-fragment start="588" end="604" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>PlswnsricLRtEIyGC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
         <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
           <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
           <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
@@ -761,6 +746,21 @@
               <patternscan-location-fragment start="2391" end="2408" dc-status="CONTINUOUS"/>
             </location-fragments>
             <alignment>PlnwssigacLRlEVfGC</alignment>
+          </patternscan-location>
+        </locations>
+      </patternscan-match>
+      <patternscan-match>
+        <signature ac="PS01286" desc="Coagulation factors 5/8 type C domain (FA58C) signature 2." name="FA58C_2">
+          <entry ac="IPR000421" desc="Coagulation factor 5/8 C-terminal domain" name="FA58C" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PATTERNS" version="2019_11"/>
+        </signature>
+        <model-ac>PS01286</model-ac>
+        <locations>
+          <patternscan-location level="STRONG" start="2238" end="2254">
+            <location-fragments>
+              <patternscan-location-fragment start="2238" end="2254" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>PsswtgslcMRmELyGC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -1456,7 +1456,7 @@
         </signature>
         <model-ac>SignalP-noTM</model-ac>
         <locations>
-          <signalp-location score="0.904" start="1" end="22">
+          <signalp-location score="0.743" start="1" end="22">
             <location-fragments>
               <signalp-location-fragment start="1" end="22" dc-status="CONTINUOUS"/>
             </location-fragments>
@@ -1469,7 +1469,7 @@
         </signature>
         <model-ac>SignalP-noTM</model-ac>
         <locations>
-          <signalp-location score="0.743" start="1" end="22">
+          <signalp-location score="0.904" start="1" end="22">
             <location-fragments>
               <signalp-location-fragment start="1" end="22" dc-status="CONTINUOUS"/>
             </location-fragments>

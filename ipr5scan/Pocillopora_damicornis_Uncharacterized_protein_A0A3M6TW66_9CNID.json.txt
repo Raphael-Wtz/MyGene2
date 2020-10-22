@@ -52,6 +52,68 @@
     "model-ac" : "cd00057"
   }, {
     "signature" : {
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 336,
+      "end" : 347,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CvNlhgsFeClC",
+      "location-fragments" : [ {
+        "start" : 336,
+        "end" : 347,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00010"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 496,
+      "end" : 512,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawhnhisLRmELyGC",
+      "location-fragments" : [ {
+        "start" : 496,
+        "end" : 512,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
+  }, {
+    "signature" : {
       "accession" : "NON_CYTOPLASMIC_DOMAIN",
       "name" : "Non cytoplasmic domain",
       "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
@@ -71,6 +133,37 @@
       } ]
     } ],
     "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1256,
+      "end" : 1272,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawfnhvsMRmEIyGC",
+      "location-fragments" : [ {
+        "start" : 1256,
+        "end" : 1272,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "SSF49785",
@@ -101,68 +194,6 @@
     } ],
     "evalue" : 4.42E-51,
     "model-ac" : "0054621"
-  }, {
-    "signature" : {
-      "accession" : "PS01186",
-      "name" : "EGF_2",
-      "description" : "EGF-like domain signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 189,
-      "end" : 201,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I2M5I1M",
-      "alignment" : "CkCrpGFkgktcC",
-      "location-fragments" : [ {
-        "start" : 189,
-        "end" : 201,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01186"
-  }, {
-    "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 259,
-      "end" : 270,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CiNtrgsYeCsC",
-      "location-fragments" : [ {
-        "start" : 259,
-        "end" : 270,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00010"
   }, {
     "signature" : {
       "accession" : "cd00054",
@@ -203,6 +234,37 @@
       } ]
     } ],
     "model-ac" : "cd00054"
+  }, {
+    "signature" : {
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 230,
+      "end" : 241,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CaCpsGfvGKrC",
+      "location-fragments" : [ {
+        "start" : 230,
+        "end" : 241,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00022"
   }, {
     "signature" : {
       "accession" : "G3DSA:2.60.120.260",
@@ -467,37 +529,6 @@
     "model-ac" : "SM00231"
   }, {
     "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 336,
-      "end" : 347,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CvNlhgsFeClC",
-      "location-fragments" : [ {
-        "start" : 336,
-        "end" : 347,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00010"
-  }, {
-    "signature" : {
       "accession" : "G3DSA:2.10.25.10",
       "name" : "Laminin",
       "description" : null,
@@ -587,6 +618,42 @@
     "model-ac" : "cd00054"
   }, {
     "signature" : {
+      "accession" : "PS01187",
+      "name" : "EGF_CA",
+      "description" : "Calcium-binding EGF-like domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018097",
+        "name" : "EGF_Ca-bd_CS",
+        "description" : "EGF-like calcium-binding, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ {
+          "name" : "calcium ion binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005509"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 321,
+      "end" : 345,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I3M4I1M5I1M1I1M4I1M1I1M",
+      "alignment" : "DvNECtstpCknggtCvNlhgsFeC",
+      "location-fragments" : [ {
+        "start" : 321,
+        "end" : 345,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01187"
+  }, {
+    "signature" : {
       "accession" : "SSF57196",
       "name" : "EGF/Laminin",
       "description" : null,
@@ -640,6 +707,29 @@
     "model-ac" : "0054621"
   }, {
     "signature" : {
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 21,
+      "score" : 0.706,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 21,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "EUK",
+    "model-ac" : "SignalP-noTM"
+  }, {
+    "signature" : {
       "accession" : "G3DSA:2.10.25.10",
       "name" : "Laminin",
       "description" : null,
@@ -670,37 +760,6 @@
     "evalue" : 1.3E-65,
     "score" : 219.5,
     "model-ac" : "4bdxA00"
-  }, {
-    "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 651,
-      "end" : 667,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawfnhisMRmEIyGC",
-      "location-fragments" : [ {
-        "start" : 651,
-        "end" : 667,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "SIGNAL_PEPTIDE",
@@ -801,37 +860,6 @@
     "model-ac" : "cd00054"
   }, {
     "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1411,
-      "end" : 1427,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtfwfnhisMRmEIyGC",
-      "location-fragments" : [ {
-        "start" : 1411,
-        "end" : 1427,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
-  }, {
-    "signature" : {
       "accession" : "cd00057",
       "name" : "FA58C",
       "description" : "FA58C",
@@ -879,102 +907,66 @@
     "model-ac" : "cd00057"
   }, {
     "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
       "signatureLibraryRelease" : {
         "library" : "PROSITE_PATTERNS",
         "version" : "2019_11"
       },
       "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 259,
+      "end" : 270,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CiNtrgsYeCsC",
+      "location-fragments" : [ {
+        "start" : 259,
+        "end" : 270,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00010"
+  }, {
+    "signature" : {
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
         "type" : "DOMAIN",
         "goXRefs" : [ ],
         "pathwayXRefs" : [ ]
       }
     },
     "locations" : [ {
-      "start" : 1256,
-      "end" : 1272,
+      "start" : 345,
+      "end" : 356,
       "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawfnhvsMRmEIyGC",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "ClCtyRhsGVlC",
       "location-fragments" : [ {
-        "start" : 1256,
-        "end" : 1272,
+        "start" : 345,
+        "end" : 356,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS01286"
-  }, {
-    "signature" : {
-      "accession" : "PS01187",
-      "name" : "EGF_CA",
-      "description" : "Calcium-binding EGF-like domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018097",
-        "name" : "EGF_Ca-bd_CS",
-        "description" : "EGF-like calcium-binding, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ {
-          "name" : "calcium ion binding",
-          "databaseName" : "GO",
-          "category" : "MOLECULAR_FUNCTION",
-          "id" : "GO:0005509"
-        } ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 282,
-      "end" : 307,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I3M5I1M5I1M1I1M4I1M1I1M",
-      "alignment" : "DvDECltnnpCkngatCtNlpgdYkC",
-      "location-fragments" : [ {
-        "start" : 282,
-        "end" : 307,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01187"
-  }, {
-    "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 496,
-      "end" : 512,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawhnhisLRmELyGC",
-      "location-fragments" : [ {
-        "start" : 496,
-        "end" : 512,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
+    "model-ac" : "PS00022"
   }, {
     "signature" : {
       "accession" : "PS50026",
@@ -1052,37 +1044,6 @@
       } ]
     } ],
     "model-ac" : "cd00057"
-  }, {
-    "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 142,
-      "end" : 153,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CiDmgsdYiCkC",
-      "location-fragments" : [ {
-        "start" : 142,
-        "end" : 153,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00010"
   }, {
     "signature" : {
       "accession" : "PS50026",
@@ -1222,37 +1183,6 @@
     "model-ac" : "0054621"
   }, {
     "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 268,
-      "end" : 279,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CsCpeTyqGEhC",
-      "location-fragments" : [ {
-        "start" : 268,
-        "end" : 279,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
       "accession" : "PF07645",
       "name" : "EGF_CA",
       "description" : "Calcium-binding EGF domain",
@@ -1348,6 +1278,42 @@
     "model-ac" : "PF07645"
   }, {
     "signature" : {
+      "accession" : "PS01187",
+      "name" : "EGF_CA",
+      "description" : "Calcium-binding EGF-like domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018097",
+        "name" : "EGF_Ca-bd_CS",
+        "description" : "EGF-like calcium-binding, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ {
+          "name" : "calcium ion binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0005509"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 282,
+      "end" : 307,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I3M5I1M5I1M1I1M4I1M1I1M",
+      "alignment" : "DvDECltnnpCkngatCtNlpgdYkC",
+      "location-fragments" : [ {
+        "start" : 282,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01187"
+  }, {
+    "signature" : {
       "accession" : "SSF49785",
       "name" : "Galactose-binding domain-like",
       "description" : null,
@@ -1376,37 +1342,6 @@
     } ],
     "evalue" : 1.96E-51,
     "model-ac" : "0054621"
-  }, {
-    "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1566,
-      "end" : 1582,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawfshisMRmEIyGC",
-      "location-fragments" : [ {
-        "start" : 1566,
-        "end" : 1582,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "PS50022",
@@ -1439,6 +1374,37 @@
     "model-ac" : "PS50022"
   }, {
     "signature" : {
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 142,
+      "end" : 153,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CiDmgsdYiCkC",
+      "location-fragments" : [ {
+        "start" : 142,
+        "end" : 153,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00010"
+  }, {
+    "signature" : {
       "accession" : "SSF49785",
       "name" : "Galactose-binding domain-like",
       "description" : null,
@@ -1467,6 +1433,68 @@
     } ],
     "evalue" : 3.06E-51,
     "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1101,
+      "end" : 1117,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawfnhisMRmEIyGC",
+      "location-fragments" : [ {
+        "start" : 1101,
+        "end" : 1117,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 651,
+      "end" : 667,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawfnhisMRmEIyGC",
+      "location-fragments" : [ {
+        "start" : 651,
+        "end" : 667,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "cd00057",
@@ -1514,29 +1542,6 @@
       } ]
     } ],
     "model-ac" : "cd00057"
-  }, {
-    "signature" : {
-      "accession" : "SignalP-noTM",
-      "name" : "SignalP-noTM",
-      "description" : null,
-      "signatureLibraryRelease" : {
-        "library" : "SIGNALP_EUK",
-        "version" : "4.1"
-      },
-      "entry" : null
-    },
-    "locations" : [ {
-      "start" : 1,
-      "end" : 21,
-      "score" : 0.706,
-      "location-fragments" : [ {
-        "start" : 1,
-        "end" : 21,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "orgType" : "EUK",
-    "model-ac" : "SignalP-noTM"
   }, {
     "signature" : {
       "accession" : "SIGNAL_PEPTIDE_C_REGION",
@@ -1590,6 +1595,37 @@
     "model-ac" : "PS50022"
   }, {
     "signature" : {
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 307,
+      "end" : 318,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CdCpkGweGKnC",
+      "location-fragments" : [ {
+        "start" : 307,
+        "end" : 318,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00022"
+  }, {
+    "signature" : {
       "accession" : "SSF49785",
       "name" : "Galactose-binding domain-like",
       "description" : null,
@@ -1618,42 +1654,6 @@
     } ],
     "evalue" : 1.53E-51,
     "model-ac" : "0054621"
-  }, {
-    "signature" : {
-      "accession" : "PS01187",
-      "name" : "EGF_CA",
-      "description" : "Calcium-binding EGF-like domain signature.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR018097",
-        "name" : "EGF_Ca-bd_CS",
-        "description" : "EGF-like calcium-binding, conserved site",
-        "type" : "CONSERVED_SITE",
-        "goXRefs" : [ {
-          "name" : "calcium ion binding",
-          "databaseName" : "GO",
-          "category" : "MOLECULAR_FUNCTION",
-          "id" : "GO:0005509"
-        } ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 321,
-      "end" : 345,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I3M4I1M5I1M1I1M4I1M1I1M",
-      "alignment" : "DvNECtstpCknggtCvNlhgsFeC",
-      "location-fragments" : [ {
-        "start" : 321,
-        "end" : 345,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01187"
   }, {
     "signature" : {
       "accession" : "cd00054",
@@ -2080,68 +2080,6 @@
     "model-ac" : "2wuhA00"
   }, {
     "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1721,
-      "end" : 1737,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawfnhisMRmEIyGC",
-      "location-fragments" : [ {
-        "start" : 1721,
-        "end" : 1737,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
-  }, {
-    "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 230,
-      "end" : 241,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CaCpsGfvGKrC",
-      "location-fragments" : [ {
-        "start" : 230,
-        "end" : 241,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
       "accession" : "SSF49785",
       "name" : "Galactose-binding domain-like",
       "description" : null,
@@ -2170,6 +2108,37 @@
     } ],
     "evalue" : 1.11E-51,
     "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 298,
+      "end" : 309,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CtNlpgdYkCdC",
+      "location-fragments" : [ {
+        "start" : 298,
+        "end" : 309,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00010"
   }, {
     "signature" : {
       "accession" : "PS50026",
@@ -2234,35 +2203,66 @@
     "model-ac" : "1fakL01"
   }, {
     "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
       "signatureLibraryRelease" : {
         "library" : "PROSITE_PATTERNS",
         "version" : "2019_11"
       },
       "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
         "goXRefs" : [ ],
         "pathwayXRefs" : [ ]
       }
     },
     "locations" : [ {
-      "start" : 221,
-      "end" : 232,
+      "start" : 189,
+      "end" : 200,
       "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CeNtygsFwCaC",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CkCrpGfkGKtC",
       "location-fragments" : [ {
-        "start" : 221,
-        "end" : 232,
+        "start" : 189,
+        "end" : 200,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS00010"
+    "model-ac" : "PS00022"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 806,
+      "end" : 822,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PstwvnhisLRmEVyGC",
+      "location-fragments" : [ {
+        "start" : 806,
+        "end" : 822,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "cd00054",
@@ -2303,6 +2303,99 @@
       } ]
     } ],
     "model-ac" : "cd00054"
+  }, {
+    "signature" : {
+      "accession" : "PS01186",
+      "name" : "EGF_2",
+      "description" : "EGF-like domain signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 230,
+      "end" : 241,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I2M4I1M",
+      "alignment" : "CaCpsGFvgkrC",
+      "location-fragments" : [ {
+        "start" : 230,
+        "end" : 241,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01186"
+  }, {
+    "signature" : {
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 180,
+      "end" : 191,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CiNtvgsYmCkC",
+      "location-fragments" : [ {
+        "start" : 180,
+        "end" : 191,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00010"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1721,
+      "end" : 1737,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawfnhisMRmEIyGC",
+      "location-fragments" : [ {
+        "start" : 1721,
+        "end" : 1737,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "SIGNAL_PEPTIDE_H_REGION",
@@ -2647,35 +2740,67 @@
     "model-ac" : "SM00181"
   }, {
     "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
       "signatureLibraryRelease" : {
         "library" : "PROSITE_PATTERNS",
         "version" : "2019_11"
       },
       "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
         "goXRefs" : [ ],
         "pathwayXRefs" : [ ]
       }
     },
     "locations" : [ {
-      "start" : 180,
-      "end" : 191,
+      "start" : 111,
+      "end" : 122,
       "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CiNtvgsYmCkC",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CkCrpGfsGKhC",
       "location-fragments" : [ {
-        "start" : 180,
-        "end" : 191,
+        "start" : 111,
+        "end" : 122,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS00010"
+    "model-ac" : "PS00022"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.10.25.10",
+      "name" : "Laminin",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 128,
+      "end" : 166,
+      "hmmStart" : 5,
+      "hmmEnd" : 40,
+      "hmmLength" : 42,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 6.2E-11,
+      "score" : 44.1,
+      "envelopeStart" : 127,
+      "envelopeEnd" : 168,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 128,
+        "end" : 166,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.7E-69,
+    "score" : 230.1,
+    "model-ac" : "2flbL01"
   }, {
     "signature" : {
       "accession" : "PS01186",
@@ -2695,18 +2820,109 @@
       }
     },
     "locations" : [ {
-      "start" : 230,
-      "end" : 241,
+      "start" : 307,
+      "end" : 318,
       "level" : "STRONG",
       "cigarAlignment" : "1M1I1M2I2M4I1M",
-      "alignment" : "CaCpsGFvgkrC",
+      "alignment" : "CdCpkGWegknC",
       "location-fragments" : [ {
-        "start" : 230,
-        "end" : 241,
+        "start" : 307,
+        "end" : 318,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
     "model-ac" : "PS01186"
+  }, {
+    "signature" : {
+      "accession" : "SSF49785",
+      "name" : "Galactose-binding domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1585,
+      "end" : 1738,
+      "hmmLength" : 156,
+      "location-fragments" : [ {
+        "start" : 1585,
+        "end" : 1738,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.04E-52,
+    "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PS50022",
+      "name" : "FA58C_3",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 670,
+      "end" : 822,
+      "score" : 39.66,
+      "alignment" : "CTKP-LGMESGAILDAQITASSEFNGNHAATQGRLNFlavPGKAGSWSARTNDVNQWIQIRFPGYTKITQFATQGRNAF--NQWVTQYKLEYSEDGVTFHYYHEpgqsAPKEFVGNTDSNTIVTHELFPPIQAHYIRLRP-STWVNHISLRMEVYGC",
+      "location-fragments" : [ {
+        "start" : 670,
+        "end" : 822,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50022"
+  }, {
+    "signature" : {
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 151,
+      "end" : 162,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CkCpsGikGRhC",
+      "location-fragments" : [ {
+        "start" : 151,
+        "end" : 162,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00022"
   }, {
     "signature" : {
       "accession" : "PS01187",
@@ -2745,68 +2961,6 @@
     "model-ac" : "PS01187"
   }, {
     "signature" : {
-      "accession" : "G3DSA:2.10.25.10",
-      "name" : "Laminin",
-      "description" : null,
-      "signatureLibraryRelease" : {
-        "library" : "GENE3D",
-        "version" : "4.2.0"
-      },
-      "entry" : null
-    },
-    "locations" : [ {
-      "start" : 128,
-      "end" : 166,
-      "hmmStart" : 5,
-      "hmmEnd" : 40,
-      "hmmLength" : 42,
-      "hmmBounds" : "INCOMPLETE",
-      "evalue" : 6.2E-11,
-      "score" : 44.1,
-      "envelopeStart" : 127,
-      "envelopeEnd" : 168,
-      "postProcessed" : true,
-      "location-fragments" : [ {
-        "start" : 128,
-        "end" : 166,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "evalue" : 4.7E-69,
-    "score" : 230.1,
-    "model-ac" : "2flbL01"
-  }, {
-    "signature" : {
-      "accession" : "SSF49785",
-      "name" : "Galactose-binding domain-like",
-      "description" : null,
-      "signatureLibraryRelease" : {
-        "library" : "SUPERFAMILY",
-        "version" : "1.75"
-      },
-      "entry" : {
-        "accession" : "IPR008979",
-        "name" : "Galactose-bd-like_sf",
-        "description" : "Galactose-binding-like domain superfamily",
-        "type" : "HOMOLOGOUS_SUPERFAMILY",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1585,
-      "end" : 1738,
-      "hmmLength" : 156,
-      "location-fragments" : [ {
-        "start" : 1585,
-        "end" : 1738,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "evalue" : 6.04E-52,
-    "model-ac" : "0054621"
-  }, {
-    "signature" : {
       "accession" : "PS01286",
       "name" : "FA58C_2",
       "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
@@ -2836,67 +2990,6 @@
       } ]
     } ],
     "model-ac" : "PS01286"
-  }, {
-    "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 151,
-      "end" : 162,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CkCpsGikGRhC",
-      "location-fragments" : [ {
-        "start" : 151,
-        "end" : 162,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
-      "accession" : "PS50022",
-      "name" : "FA58C_3",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PROFILES",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 670,
-      "end" : 822,
-      "score" : 39.66,
-      "alignment" : "CTKP-LGMESGAILDAQITASSEFNGNHAATQGRLNFlavPGKAGSWSARTNDVNQWIQIRFPGYTKITQFATQGRNAF--NQWVTQYKLEYSEDGVTFHYYHEpgqsAPKEFVGNTDSNTIVTHELFPPIQAHYIRLRP-STWVNHISLRMEVYGC",
-      "location-fragments" : [ {
-        "start" : 670,
-        "end" : 822,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS50022"
   }, {
     "signature" : {
       "accession" : "SSF57196",
@@ -3082,37 +3175,6 @@
     "model-ac" : "0037555"
   }, {
     "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 111,
-      "end" : 122,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CkCrpGfsGKhC",
-      "location-fragments" : [ {
-        "start" : 111,
-        "end" : 122,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
       "accession" : "PS50026",
       "name" : "EGF_3",
       "description" : "EGF-like domain profile.",
@@ -3141,6 +3203,37 @@
       } ]
     } ],
     "model-ac" : "PS50026"
+  }, {
+    "signature" : {
+      "accession" : "PS00022",
+      "name" : "EGF_1",
+      "description" : "EGF-like domain signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 268,
+      "end" : 279,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
+      "alignment" : "CsCpeTyqGEhC",
+      "location-fragments" : [ {
+        "start" : 268,
+        "end" : 279,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00022"
   }, {
     "signature" : {
       "accession" : "SIGNAL_PEPTIDE_N_REGION",
@@ -3234,37 +3327,6 @@
     "model-ac" : "cd00054"
   }, {
     "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 1101,
-      "end" : 1117,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PtawfnhisMRmEIyGC",
-      "location-fragments" : [ {
-        "start" : 1101,
-        "end" : 1117,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01286"
-  }, {
-    "signature" : {
       "accession" : "PS50026",
       "name" : "EGF_3",
       "description" : "EGF-like domain profile.",
@@ -3295,35 +3357,35 @@
     "model-ac" : "PS50026"
   }, {
     "signature" : {
-      "accession" : "PS01286",
-      "name" : "FA58C_2",
-      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "accession" : "PS00010",
+      "name" : "ASX_HYDROXYL",
+      "description" : "Aspartic acid and asparagine hydroxylation site.",
       "signatureLibraryRelease" : {
         "library" : "PROSITE_PATTERNS",
         "version" : "2019_11"
       },
       "entry" : {
-        "accession" : "IPR000421",
-        "name" : "FA58C",
-        "description" : "Coagulation factor 5/8 C-terminal domain",
-        "type" : "DOMAIN",
+        "accession" : "IPR000152",
+        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
+        "description" : "EGF-type aspartate/asparagine hydroxylation site",
+        "type" : "PTM",
         "goXRefs" : [ ],
         "pathwayXRefs" : [ ]
       }
     },
     "locations" : [ {
-      "start" : 806,
-      "end" : 822,
+      "start" : 221,
+      "end" : 232,
       "level" : "STRONG",
-      "cigarAlignment" : "1M8I2M1I2M1I2M",
-      "alignment" : "PstwvnhisLRmEVyGC",
+      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
+      "alignment" : "CeNtygsFwCaC",
       "location-fragments" : [ {
-        "start" : 806,
-        "end" : 822,
+        "start" : 221,
+        "end" : 232,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS01286"
+    "model-ac" : "PS00010"
   }, {
     "signature" : {
       "accession" : "SSF49785",
@@ -3388,37 +3450,6 @@
     "model-ac" : "1yo8A01"
   }, {
     "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 189,
-      "end" : 200,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CkCrpGfkGKtC",
-      "location-fragments" : [ {
-        "start" : 189,
-        "end" : 200,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
       "accession" : "cd00057",
       "name" : "FA58C",
       "description" : "FA58C",
@@ -3466,35 +3497,35 @@
     "model-ac" : "cd00057"
   }, {
     "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
       "signatureLibraryRelease" : {
         "library" : "PROSITE_PATTERNS",
         "version" : "2019_11"
       },
       "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
         "type" : "DOMAIN",
         "goXRefs" : [ ],
         "pathwayXRefs" : [ ]
       }
     },
     "locations" : [ {
-      "start" : 345,
-      "end" : 356,
+      "start" : 1411,
+      "end" : 1427,
       "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "ClCtyRhsGVlC",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtfwfnhisMRmEIyGC",
       "location-fragments" : [ {
-        "start" : 345,
-        "end" : 356,
+        "start" : 1411,
+        "end" : 1427,
         "dc-status" : "CONTINUOUS"
       } ]
     } ],
-    "model-ac" : "PS00022"
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "cd00057",
@@ -3572,68 +3603,6 @@
     } ],
     "evalue" : 4.42E-52,
     "model-ac" : "0054621"
-  }, {
-    "signature" : {
-      "accession" : "PS00022",
-      "name" : "EGF_1",
-      "description" : "EGF-like domain signature 1.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 307,
-      "end" : 318,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I1M2I2M1I1M",
-      "alignment" : "CdCpkGweGKnC",
-      "location-fragments" : [ {
-        "start" : 307,
-        "end" : 318,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00022"
-  }, {
-    "signature" : {
-      "accession" : "PS00010",
-      "name" : "ASX_HYDROXYL",
-      "description" : "Aspartic acid and asparagine hydroxylation site.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000152",
-        "name" : "EGF-type_Asp/Asn_hydroxyl_site",
-        "description" : "EGF-type aspartate/asparagine hydroxylation site",
-        "type" : "PTM",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 298,
-      "end" : 309,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M4I1M1I1M1I1M",
-      "alignment" : "CtNlpgdYkCdC",
-      "location-fragments" : [ {
-        "start" : 298,
-        "end" : 309,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS00010"
   }, {
     "signature" : {
       "accession" : "SSF49785",
@@ -3836,37 +3805,6 @@
     "model-ac" : "PTHR24543"
   }, {
     "signature" : {
-      "accession" : "PS01186",
-      "name" : "EGF_2",
-      "description" : "EGF-like domain signature 2.",
-      "signatureLibraryRelease" : {
-        "library" : "PROSITE_PATTERNS",
-        "version" : "2019_11"
-      },
-      "entry" : {
-        "accession" : "IPR000742",
-        "name" : "EGF-like_dom",
-        "description" : "EGF-like domain",
-        "type" : "DOMAIN",
-        "goXRefs" : [ ],
-        "pathwayXRefs" : [ ]
-      }
-    },
-    "locations" : [ {
-      "start" : 307,
-      "end" : 318,
-      "level" : "STRONG",
-      "cigarAlignment" : "1M1I1M2I2M4I1M",
-      "alignment" : "CdCpkGWegknC",
-      "location-fragments" : [ {
-        "start" : 307,
-        "end" : 318,
-        "dc-status" : "CONTINUOUS"
-      } ]
-    } ],
-    "model-ac" : "PS01186"
-  }, {
-    "signature" : {
       "accession" : "cd00054",
       "name" : "EGF_CA",
       "description" : "EGF_CA",
@@ -3905,6 +3843,37 @@
       } ]
     } ],
     "model-ac" : "cd00054"
+  }, {
+    "signature" : {
+      "accession" : "PS01186",
+      "name" : "EGF_2",
+      "description" : "EGF-like domain signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000742",
+        "name" : "EGF-like_dom",
+        "description" : "EGF-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 189,
+      "end" : 201,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I1M2I2M5I1M",
+      "alignment" : "CkCrpGFkgktcC",
+      "location-fragments" : [ {
+        "start" : 189,
+        "end" : 201,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01186"
   }, {
     "signature" : {
       "accession" : "PS50022",
@@ -4159,6 +4128,37 @@
     "evalue" : 0.0,
     "score" : 2037.0,
     "model-ac" : "5c7gA00"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1566,
+      "end" : 1582,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PtawfshisMRmEIyGC",
+      "location-fragments" : [ {
+        "start" : 1566,
+        "end" : 1582,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
   }, {
     "signature" : {
       "accession" : "G3DSA:2.10.25.10",
