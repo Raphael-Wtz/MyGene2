@@ -1,0 +1,536 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1 1789
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	.	polypeptide	1	1789	.	+	.	ID=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU;md5=a4024a2d1959ab1d54144429bce24f79
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	1127	1253	5.78022E-29	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1127 1253;ID=match$1_1127_1253;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	616	703	8.711	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 616 703;ID=match$2_616_703;signature_desc=PAN/Apple domain profile.;Name=PS50948;status=T;Dbxref="InterPro:IPR003609"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSitePatterns	protein_match	114	136	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 114 136;ID=match$3_114_136;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	480	619	8.77E-35	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 480 619;ID=match$4_480_619;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	1550	1693	8.9E-36	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1550 1693;ID=match$5_1550_1693;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	71	137	18.343	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 71 137;ID=match$6_71_137;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	502	618	5.26432E-26	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 502 618;ID=match$7_502_618;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	139	247	2.4E-21	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 139 247;ID=match$8_139_247;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	974	1098	21.888	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 974 1098;ID=match$9_974_1098;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	31	137	2.9E-5	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 31 137;ID=match$10_31_137;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	341	467	4.4E-35	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 341 467;ID=match$10_341_467;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	967	1098	1.3E-30	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 967 1098;ID=match$10_967_1098;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	1424	1545	3.7E-23	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1424 1545;ID=match$10_1424_1545;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	1562	1691	3.6E-35	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1562 1691;ID=match$10_1562_1691;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	490	617	3.4E-25	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 490 617;ID=match$10_490_617;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	1273	1407	1.4E-25	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1273 1407;ID=match$10_1273_1407;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	148	333	4.2E-18	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 148 333;ID=match$10_148_333;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	859	943	0.57	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 859 943;ID=match$10_859_943;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	1115	1252	2.8E-40	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1115 1252;ID=match$10_1115_1252;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	720	849	2.7E-23	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 720 849;ID=match$10_720_849;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSitePatterns	protein_match	1666	1690	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1666 1690;ID=match$11_1666_1690;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	223	333	17.972	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 223 333;ID=match$12_223_333;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSitePatterns	protein_match	1380	1406	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1380 1406;ID=match$13_1380_1406;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	1428	1551	1.4E-31	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1428 1551;ID=match$14_1428_1551;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	336	471	3.9E-40	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 336 471;ID=match$15_336_471;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	499	617	24.32	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 499 617;ID=match$16_499_617;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	873	956	7.0E-17	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 873 956;ID=match$17_873_956;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	1111	1254	1.25E-40	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1111 1254;ID=match$18_1111_1254;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	1556	1694	8.4E-36	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1556 1694;ID=match$19_1556_1694;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	MobiDBLite	protein_match	1	28	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1 28;ID=match$20_1_28;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	966	1107	9.2E-37	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 966 1107;ID=match$21_966_1107;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	1435	1545	5.56095E-24	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1435 1545;ID=match$22_1435_1545;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	339	471	6.82E-41	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 339 471;ID=match$23_339_471;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	1411	1545	3.0E-30	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1411 1545;ID=match$24_1411_1545;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	1124	1252	26.509	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1124 1252;ID=match$25_1124_1252;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSitePatterns	protein_match	1073	1097	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1073 1097;ID=match$26_1073_1097;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	52	138	2.4E-22	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 52 138;ID=match$27_52_138;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	348	467	25.959	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 348 467;ID=match$28_348_467;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	61	141	1.71E-22	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 61 141;ID=match$29_61_141;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Phobius	protein_match	1	1711	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1 1711;ID=match$30_1_1711;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	965	1107	7.3E-36	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 965 1107;ID=match$31_965_1107;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1561	1707	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1561 1707;ID=match$32_1561_1707;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	340	473	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 340 473;ID=match$32_340_473;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1267	1418	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1267 1418;ID=match$32_1267_1418;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	68	138	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 68 138;ID=match$32_68_138;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	623	861	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 623 861;ID=match$32_623_861;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	146	244	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 146 244;ID=match$32_146_244;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	876	947	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 876 947;ID=match$32_876_947;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1428	1552	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1428 1552;ID=match$32_1428_1552;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	955	1103	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 955 1103;ID=match$32_955_1103;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	478	621	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 478 621;ID=match$32_478_621;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	245	335	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 245 335;ID=match$32_245_335;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1115	1262	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1115 1262;ID=match$32_1115_1262;Name=PTHR22803:SF110;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	155	221	8.999	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 155 221;ID=match$33_155_221;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	977	1099	4.7773E-26	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 977 1099;ID=match$34_977_1099;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	626	696	2.1E-8	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 626 696;ID=match$35_626_696;signature_desc=PAN domain;Name=PF00024;status=T;Dbxref="InterPro:IPR003609"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	146	249	6.65E-21	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 146 249;ID=match$36_146_249;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	478	622	1.8E-31	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 478 622;ID=match$37_478_622;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	MobiDBLite	protein_match	1742	1789	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1742 1789;ID=match$38_1742_1789;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	648	701	1.50311E-6	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 648 701;ID=match$39_648_701;signature_desc=PAN_AP_HGF;Name=cd01099;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Phobius	protein_match	1712	1737	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1712 1737;ID=match$40_1712_1737;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	704	849	5.2E-29	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 704 849;ID=match$41_704_849;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	1262	1407	4.6E-31	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1262 1407;ID=match$41_1262_1407;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSitePatterns	protein_match	440	466	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 440 466;ID=match$42_440_466;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	848	943	14.528	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 848 943;ID=match$43_848_943;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	1280	1407	23.232	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1280 1407;ID=match$44_1280_1407;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	867	947	1.5E-12	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 867 947;ID=match$45_867_947;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	625	700	6.28E-9	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 625 700;ID=match$46_625_700;Name=SSF57414;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	876	944	1.61127E-11	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 876 944;ID=match$47_876_944;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	727	839	20.762	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 727 839;ID=match$48_727_839;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1115	1262	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1115 1262;ID=match$49_1115_1262;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1267	1418	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1267 1418;ID=match$49_1267_1418;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	876	947	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 876 947;ID=match$49_876_947;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1428	1552	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1428 1552;ID=match$49_1428_1552;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	623	861	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 623 861;ID=match$49_623_861;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	478	621	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 478 621;ID=match$49_478_621;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	68	138	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 68 138;ID=match$49_68_138;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	146	244	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 146 244;ID=match$49_146_244;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	1561	1707	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1561 1707;ID=match$49_1561_1707;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	340	473	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 340 473;ID=match$49_340_473;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	955	1103	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 955 1103;ID=match$49_955_1103;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	PANTHER	protein_match	245	335	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 245 335;ID=match$49_245_335;Name=PTHR22803;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	1572	1692	2.41697E-25	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1572 1692;ID=match$50_1572_1692;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	248	335	3.2E-16	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 248 335;ID=match$51_248_335;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	1112	1261	2.8E-39	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1112 1261;ID=match$52_1112_1261;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	717	852	8.59E-31	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 717 852;ID=match$53_717_852;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	MobiDBLite	protein_match	1773	1789	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1773 1789;ID=match$54_1773_1789;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	TMHMM	protein_match	1714	1736	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1714 1736;ID=match$55_1714_1736;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	1283	1408	3.88275E-24	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1283 1408;ID=match$56_1283_1408;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	244	336	6.12E-18	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 244 336;ID=match$57_244_336;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Gene3D	protein_match	623	689	1.2E-7	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 623 689;ID=match$58_623_689;Name=G3DSA:3.50.4.10;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SUPERFAMILY	protein_match	1260	1410	1.15E-34	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1260 1410;ID=match$59_1260_1410;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	1432	1545	22.221	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1432 1545;ID=match$60_1432_1545;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	CDD	protein_match	158	263	8.05263E-17	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 158 263;ID=match$61_158_263;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Phobius	protein_match	1738	1789	.	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1738 1789;ID=match$62_1738_1789;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	SMART	protein_match	620	702	6.1E-4	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 620 702;ID=match$63_620_702;Name=SM00473;status=T;Dbxref="InterPro:IPR003609"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	511	618	3.3E-18	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 511 618;ID=match$64_511_618;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	1296	1408	4.7E-16	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1296 1408;ID=match$64_1296_1408;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	1443	1546	1.5E-16	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1443 1546;ID=match$64_1443_1546;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	878	944	7.2E-9	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 878 944;ID=match$64_878_944;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	1141	1253	8.9E-23	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1141 1253;ID=match$64_1141_1253;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	1584	1692	2.5E-19	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1584 1692;ID=match$64_1584_1692;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	363	468	3.9E-21	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 363 468;ID=match$64_363_468;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	739	848	2.1E-13	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 739 848;ID=match$64_739_848;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	244	333	5.0E-10	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 244 333;ID=match$64_244_333;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	63	138	5.9E-13	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 63 138;ID=match$64_63_138;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	Pfam	protein_match	989	1099	2.2E-19	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 989 1099;ID=match$64_989_1099;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU	ProSiteProfiles	protein_match	1569	1691	24.628	+	.	date=22-10-2020;Target=Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU 1569 1691;ID=match$65_1569_1691;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+##FASTA
+>Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y2F2_STRPU
+MPDSNSIEPINGRPGDTPSSGVETGGDYGNAAQSLNSFSVRFRLFEINIGLAESKVKTWL
+GQQTGIYSEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNN
+GQWNDEQCLAPNWFICSRSLNVVPKCDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLD
+GYVISINDAAEQSFANSIQASKANIPYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALG
+EPNNSDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTN
+TYAQTDCAYMATNDVAGKWYQNNCQLLGGFVCKIKAGVGSCESGWDLYGDSCYYFPTLIV
+TQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGESMWTGLHDRGTESGWEYEDGT
+PYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCDRVYRFVCKMPKYPGGAYTTAM
+PTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFVQ
+RFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYANS
+GLWNDLACSNARLGICKRNEYVNRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFT
+CRSFNYYRSGRQCVLLSTDKDTAGNVGLVPEFEDPWDHYQRDFSAPTDAPATTMDPSFGC
+SANEMSYRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKT
+IIGAWLGLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVACT
+GFSMYGACKRPKSNQNVVQPPNDGCPTLGEYRTDYTGSDDFWIGLSDTDVPGTYKWVDGS
+YPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCPNTLSYICEQPILGATERPYTQAPVT
+SPSNDGCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVS
+SFTPQDQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNE
+GRRWNDIPCYALRSWICSKPKPKAPVTPLPSVGVCPSDSDWRYVSPYCYYVSDIVSAGDR
+RGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSPDVALQYWIGLRQEVVDGPYTWSDGTP
+FTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGLNGKWNDQNCGVPTPFICKRAEDSITP
+VTNAPTPTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRV
+QSLLTSLLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNC
+VELLNDYDYAGKWNDVNCKEVIAYMCEKDLVQGASENPPPNSFCDDKSYYKYDGSCYKID
+TTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIGMTSNEDGQYTWSD
+GWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKTTNKVAPTRVPTLPG
+SCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQ
+GVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDE
+DCYARASYVCKMDKTQNETDSQPISGDDSLSAGLLTGIVIAVVVVITVVILVVAWFAGAR
+NAPKSSSTTADPFPTPTPPVGFDNALYETNVQVDQEKPKDLKDPGVAEA
+>match$1_1127_1253
+YCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSPDVALQYWIGLRQ
+EVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGLNGKWNDQNCGVP
+TPFICKR
+>match$2_616_703
+CKRNEYVNRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVL
+LSTDKDTAGNVGLVPEFEDPWDHYQRDF
+>match$3_114_136
+CVEMRNNGQWNDEQCLAPNWFIC
+>match$4_480_619
+MPTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFV
+QRFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYAN
+SGLWNDLACSNARLGICKRN
+>match$5_1550_1693
+VAPTRVPTLPGSCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEEN
+EFVKDLVFGTQGVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEM
+YTNEYAKWNDEDCYARASYVCKMD
+>match$6_71_137
+FWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNNGQWNDEQCLA
+PNWFICS
+>match$7_502_618
+NCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFVQRFAQYYYNNGINSFWVGLHAT
+NLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYANSGLWNDLACSNARLGICKR
+>match$8_139_247
+SLNVVPKCDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSI
+QASKANIPYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALGEPNNSDP
+>match$9_974_1098
+YGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTPQDQDNFYGF
+LIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRWNDIPCYALR
+SWICS
+>match$10_31_137
+AAQSLNSFSVRFRLFEINIGLAESKVKTWLGQQTGIYSEDFWIGLHDIQSDNSFEWVDGT
+ALDPSLANWAPNEPNNIDGIGEDCVEMRNNGQWNDEQCLAPNWFICS
+>match$10_148_333
+SVNGWESYNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANIPY
+WTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALGEPNNSDPENSFIASNMGTINAENVDNM
+WFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYAQTDCAYMATNDVAGKWYQNNCQLL
+GGFVCK
+>match$10_341_467
+CESGWDLYGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGES
+MWTGLHDRGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCDR
+VYRFVCK
+>match$10_490_617
+CGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFVQRFAQYYYNN
+GINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYANSGLWNDLACS
+NARLGICK
+>match$10_720_849
+CSANEMSYRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNK
+TIIGAWLGLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVAC
+TGFSMYGACK
+>match$10_859_943
+QPPNDGCPTLGEYRTDYTGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMI
+GGYNQNSAGLWMDEPCPNTLSYICE
+>match$10_967_1098
+CEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTPQD
+QDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRWND
+IPCYALRSWICS
+>match$10_1115_1252
+CPSDSDWRYVSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSP
+DVALQYWIGLRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGL
+NGKWNDQNCGVPTPFICK
+>match$10_1273_1407
+CNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQSLLTSLLIDVP
+TDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCVELLNDYDYAGK
+WNDVNCKEVIAYMCE
+>match$10_1424_1545
+CDDKSYYKYDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSA
+AWIGMTSNEDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPI
+CK
+>match$10_1562_1691
+CPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQG
+VRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDED
+CYARASYVCK
+>match$11_1666_1690
+CVEMYTNEYAKWNDEDCYARASYVC
+>match$12_223_333
+WQDGTDTTTYSNWNTALGEPNNSDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTW
+AHETTSTYTNWAPGLPTNTYAQTDCAYMATNDVAGKWYQNNCQLLGGFVCK
+>match$13_1380_1406
+CVELLNDYDYAGKWNDVNCKEVIAYMC
+>match$14_1428_1551
+SYYKYDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIG
+MTSNEDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKTT
+NKVA
+>match$15_336_471
+AGVGSCESGWDLYGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVN
+YIGESMWTGLHDRGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWND
+HKCDRVYRFVCKMPKY
+>match$16_499_617
+SSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFVQRFAQYYYNNGINSFWVGL
+HATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYANSGLWNDLACSNARLGICK
+>match$17_873_956
+TDYTGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDE
+PCPNTLSYICEQPILGATERPYTQ
+>match$18_1111_1254
+SVGVCPSDSDWRYVSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLL
+EMSPDVALQYWIGLRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDD
+QLGLNGKWNDQNCGVPTPFICKRA
+>match$19_1556_1694
+PTLPGSCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDL
+VFGTQGVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYA
+KWNDEDCYARASYVCKMDK
+>match$20_1_28
+MPDSNSIEPINGRPGDTPSSGVETGGDY
+>match$21_966_1107
+GCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTPQ
+DQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRWN
+DIPCYALRSWICSKPKPKAPVT
+>match$22_1435_1545
+SCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIGMTSNEDG
+QYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICK
+>match$23_339_471
+GSCESGWDLYGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIG
+ESMWTGLHDRGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKC
+DRVYRFVCKMPKY
+>match$24_1411_1545
+VQGASENPPPNSFCDDKSYYKYDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEA
+FLEYLMYSNDVSAAWIGMTSNEDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPS
+WDDTQCNGMYVPICK
+>match$25_1124_1252
+VSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSPDVALQYWIG
+LRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGLNGKWNDQNC
+GVPTPFICK
+>match$26_1073_1097
+CAEMFLNEGRRWNDIPCYALRSWIC
+>match$27_52_138
+AESKVKTWLGQQTGIYSEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIG
+EDCVEMRNNGQWNDEQCLAPNWFICSR
+>match$28_348_467
+YGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGESMWTGLHD
+RGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCDRVYRFVCK
+>match$29_61_141
+GQQTGIYSEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNN
+GQWNDEQCLAPNWFICSRSLN
+>match$30_1_1711
+MPDSNSIEPINGRPGDTPSSGVETGGDYGNAAQSLNSFSVRFRLFEINIGLAESKVKTWL
+GQQTGIYSEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNN
+GQWNDEQCLAPNWFICSRSLNVVPKCDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLD
+GYVISINDAAEQSFANSIQASKANIPYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALG
+EPNNSDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTN
+TYAQTDCAYMATNDVAGKWYQNNCQLLGGFVCKIKAGVGSCESGWDLYGDSCYYFPTLIV
+TQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGESMWTGLHDRGTESGWEYEDGT
+PYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCDRVYRFVCKMPKYPGGAYTTAM
+PTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETEFVQ
+RFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMYANS
+GLWNDLACSNARLGICKRNEYVNRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFT
+CRSFNYYRSGRQCVLLSTDKDTAGNVGLVPEFEDPWDHYQRDFSAPTDAPATTMDPSFGC
+SANEMSYRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKT
+IIGAWLGLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVACT
+GFSMYGACKRPKSNQNVVQPPNDGCPTLGEYRTDYTGSDDFWIGLSDTDVPGTYKWVDGS
+YPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCPNTLSYICEQPILGATERPYTQAPVT
+SPSNDGCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVS
+SFTPQDQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNE
+GRRWNDIPCYALRSWICSKPKPKAPVTPLPSVGVCPSDSDWRYVSPYCYYVSDIVSAGDR
+RGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSPDVALQYWIGLRQEVVDGPYTWSDGTP
+FTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGLNGKWNDQNCGVPTPFICKRAEDSITP
+VTNAPTPTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRV
+QSLLTSLLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNC
+VELLNDYDYAGKWNDVNCKEVIAYMCEKDLVQGASENPPPNSFCDDKSYYKYDGSCYKID
+TTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIGMTSNEDGQYTWSD
+GWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKTTNKVAPTRVPTLPG
+SCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQ
+GVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDE
+DCYARASYVCKMDKTQNETDSQPISGDDSLS
+>match$31_965_1107
+DGCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTP
+QDQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRW
+NDIPCYALRSWICSKPKPKAPVT
+>match$32_68_138
+SEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNNGQWNDEQ
+CLAPNWFICSR
+>match$32_146_244
+CDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANI
+PYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALGEPNN
+>match$32_245_335
+SDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYAQ
+TDCAYMATNDVAGKWYQNNCQLLGGFVCKIK
+>match$32_340_473
+SCESGWDLYGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGE
+SMWTGLHDRGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCD
+RVYRFVCKMPKYPG
+>match$32_478_621
+TAMPTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETE
+FVQRFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMY
+ANSGLWNDLACSNARLGICKRNEY
+>match$32_623_861
+NRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDT
+AGNVGLVPEFEDPWDHYQRDFSAPTDAPATTMDPSFGCSANEMSYRGSCYSIVTDMYSFT
+NMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKTIIGAWLGLTDKDREQNYAWTDG
+SPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVACTGFSMYGACKRPKSNQNVVQPP
+>match$32_876_947
+TGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCP
+NTLSYICEQPIL
+>match$32_955_1103
+TQAPVTSPSNDGCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAE
+EQYIVSSFTPQDQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECA
+EMFLNEGRRWNDIPCYALRSWICSKPKPK
+>match$32_1115_1262
+CPSDSDWRYVSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSP
+DVALQYWIGLRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGL
+NGKWNDQNCGVPTPFICKRAEDSITPVT
+>match$32_1267_1418
+PTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQSLLTS
+LLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCVELLND
+YDYAGKWNDVNCKEVIAYMCEKDLVQGASENP
+>match$32_1428_1552
+SYYKYDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIG
+MTSNEDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKTT
+NKVAP
+>match$32_1561_1707
+SCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQ
+GVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDE
+DCYARASYVCKMDKTQNETDSQPISGD
+>match$33_155_221
+YNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANIPYWTGLSDR
+NQGQGNY
+>match$34_977_1099
+NCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTPQDQDNFYGFLIG
+LNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRWNDIPCYALRSWI
+CSK
+>match$35_626_696
+FMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDTAGN
+VGLVPEFEDPW
+>match$36_146_249
+CDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANI
+PYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALGEPNNSDPEN
+>match$37_478_622
+TAMPTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETE
+FVQRFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMY
+ANSGLWNDLACSNARLGICKRNEYV
+>match$38_1742_1789
+APKSSSTTADPFPTPTPPVGFDNALYETNVQVDQEKPKDLKDPGVAEA
+>match$39_648_701
+EDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDTAGNVGLVPEFEDPWDHYQR
+>match$40_1712_1737
+AGLLTGIVIAVVVVITVVILVVAWFA
+>match$41_704_849
+SAPTDAPATTMDPSFGCSANEMSYRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSE
+NNFVYSLMQTGNEGNKTIIGAWLGLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDD
+CVYFDAQFSAWRDVACTGFSMYGACK
+>match$41_1262_1407
+TNAPTPTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQ
+SLLTSLLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCV
+ELLNDYDYAGKWNDVNCKEVIAYMCE
+>match$42_440_466
+CVHMESYFYKVGTWNDHKCDRVYRFVC
+>match$43_848_943
+CKRPKSNQNVVQPPNDGCPTLGEYRTDYTGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAW
+DDSFGKCVAMIGGYNQNSAGLWMDEPCPNTLSYICE
+>match$44_1280_1407
+YFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQSLLTSLLIDVPTDVWIGF
+SDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCVELLNDYDYAGKWNDVNCK
+EVIAYMCE
+>match$45_867_947
+TLGEYRTDYTGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSA
+GLWMDEPCPNTLSYICEQPIL
+>match$46_625_700
+YFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDTAG
+NVGLVPEFEDPWDHYQ
+>match$47_876_944
+TGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCP
+NTLSYICEQ
+>match$48_727_839
+YRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKTIIGAWL
+GLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVAC
+>match$49_68_138
+SEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNNGQWNDEQ
+CLAPNWFICSR
+>match$49_146_244
+CDSVNGWESYNGKCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANI
+PYWTGLSDRNQGQGNYMWQDGTDTTTYSNWNTALGEPNN
+>match$49_245_335
+SDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYAQ
+TDCAYMATNDVAGKWYQNNCQLLGGFVCKIK
+>match$49_340_473
+SCESGWDLYGDSCYYFPTLIVTQPEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGE
+SMWTGLHDRGTESGWEYEDGTPYDYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCD
+RVYRFVCKMPKYPG
+>match$49_478_621
+TAMPTTFPPSDRCGNGWIYDMSSGNCYKYEMEYRSWQDSDSQCHYEGGRLTSLTNNLETE
+FVQRFAQYYYNNGINSFWVGLHATNLNFGFQWSDGAPFAYLNWQSGEPNNLGGEDCVEMY
+ANSGLWNDLACSNARLGICKRNEY
+>match$49_623_861
+NRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDT
+AGNVGLVPEFEDPWDHYQRDFSAPTDAPATTMDPSFGCSANEMSYRGSCYSIVTDMYSFT
+NMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKTIIGAWLGLTDKDREQNYAWTDG
+SPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVACTGFSMYGACKRPKSNQNVVQPP
+>match$49_876_947
+TGSDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCP
+NTLSYICEQPIL
+>match$49_955_1103
+TQAPVTSPSNDGCEVGAIGYGNNCFMVYEKPVEEQLAFTDARAQCQAMGGDMASFQSSAE
+EQYIVSSFTPQDQDNFYGFLIGLNDINQEGAWQWSDGSAVIYVNWETGEPNDESGSEECA
+EMFLNEGRRWNDIPCYALRSWICSKPKPK
+>match$49_1115_1262
+CPSDSDWRYVSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSP
+DVALQYWIGLRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGL
+NGKWNDQNCGVPTPFICKRAEDSITPVT
+>match$49_1267_1418
+PTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQSLLTS
+LLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCVELLND
+YDYAGKWNDVNCKEVIAYMCEKDLVQGASENP
+>match$49_1428_1552
+SYYKYDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIG
+MTSNEDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKTT
+NKVAP
+>match$49_1561_1707
+SCPSGQSEFGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQ
+GVRSVWLGLTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDE
+DCYARASYVCKMDKTQNETDSQPISGD
+>match$50_1572_1692
+HCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQGVRSVWLGLTR
+SETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDEDCYARASYVCK
+M
+>match$51_248_335
+ENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYAQTDC
+AYMATNDVAGKWYQNNCQLLGGFVCKIK
+>match$52_1112_1261
+VGVCPSDSDWRYVSPYCYYVSDIVSAGDRRGWFDAQTFCQSKGGHLVSITSGQENAFLLE
+MSPDVALQYWIGLRQEVVDGPYTWSDGTPFTYANWQPGEPNNKHGEETCGEMNKYEYDDQ
+LGLNGKWNDQNCGVPTPFICKRAEDSITPV
+>match$53_717_852
+SFGCSANEMSYRGSCYSIVTDMYSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNE
+GNKTIIGAWLGLTDKDREQNYAWTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRD
+VACTGFSMYGACKRPK
+>match$54_1773_1789
+VDQEKPKDLKDPGVAEA
+>match$55_1714_1736
+LLTGIVIAVVVVITVVILVVAWF
+>match$56_1283_1408
+RCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKRVQSLLTSLLIDVPTDVWIGFSDL
+GSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRNCVELLNDYDYAGKWNDVNCKEVI
+AYMCEK
+>match$57_244_336
+NSDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYA
+QTDCAYMATNDVAGKWYQNNCQLLGGFVCKIKA
+>match$58_623_689
+NRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTDKDT
+AGNVGLV
+>match$59_1260_1410
+PVTNAPTPTPTGGCNNGYFKYFNRCYRIGGYVTDDRYKWKSARDLCQVEGGNLAGIHDKR
+VQSLLTSLLIDVPTDVWIGFSDLGSSGQYHWTDGKSPVYTNWLPGEPSGIVTWPGEESRN
+CVELLNDYDYAGKWNDVNCKEVIAYMCEKDL
+>match$60_1432_1545
+YDGSCYKIDTTPRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIGMTSN
+EDGQYTWSDGWPVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICK
+>match$61_158_263
+KCYRWVSDTKNIDDAITYCTLLDGYVISINDAAEQSFANSIQASKANIPYWTGLSDRNQG
+QGNYMWQDGTDTTTYSNWNTALGEPNNSDPENSFIASNMGTINAEN
+>match$62_1738_1789
+GARNAPKSSSTTADPFPTPTPPVGFDNALYETNVQVDQEKPKDLKDPGVAEA
+>match$63_620_702
+EYVNRYFMAYTNARLDTTNDVPIDNVWPEDCAFLCVTATFTCRSFNYYRSGRQCVLLSTD
+KDTAGNVGLVPEFEDPWDHYQRD
+>match$64_63_138
+QTGIYSEDFWIGLHDIQSDNSFEWVDGTALDPSLANWAPNEPNNIDGIGEDCVEMRNNGQ
+WNDEQCLAPNWFICSR
+>match$64_244_333
+NSDPENSFIASNMGTINAENVDNMWFGYSDSIADGTWTWAHETTSTYTNWAPGLPTNTYA
+QTDCAYMATNDVAGKWYQNNCQLLGGFVCK
+>match$64_363_468
+PEAQAQCQGYFPSANLVSIHSNGEQSFLTERVNYIGESMWTGLHDRGTESGWEYEDGTPY
+DYRNWGPGEPNNSGNEDCVHMESYFYKVGTWNDHKCDRVYRFVCKM
+>match$64_511_618
+RSWQDSDSQCHYEGGRLTSLTNNLETEFVQRFAQYYYNNGINSFWVGLHATNLNFGFQWS
+DGAPFAYLNWQSGEPNNLGGEDCVEMYANSGLWNDLACSNARLGICKR
+>match$64_739_848
+YSFTNMQDLCELRSSKLASISDMSENNFVYSLMQTGNEGNKTIIGAWLGLTDKDREQNYA
+WTDGSPVTFTQWALGEPNNDLFNDDCVYFDAQFSAWRDVACTGFSMYGAC
+>match$64_878_944
+SDDFWIGLSDTDVPGTYKWVDGSYPTFSAWDDSFGKCVAMIGGYNQNSAGLWMDEPCPNT
+LSYICEQ
+>match$64_989_1099
+QLAFTDARAQCQAMGGDMASFQSSAEEQYIVSSFTPQDQDNFYGFLIGLNDINQEGAWQW
+SDGSAVIYVNWETGEPNDESGSEECAEMFLNEGRRWNDIPCYALRSWICSK
+>match$64_1141_1253
+RGWFDAQTFCQSKGGHLVSITSGQENAFLLEMSPDVALQYWIGLRQEVVDGPYTWSDGTP
+FTYANWQPGEPNNKHGEETCGEMNKYEYDDQLGLNGKWNDQNCGVPTPFICKR
+>match$64_1296_1408
+YKWKSARDLCQVEGGNLAGIHDKRVQSLLTSLLIDVPTDVWIGFSDLGSSGQYHWTDGKS
+PVYTNWLPGEPSGIVTWPGEESRNCVELLNDYDYAGKWNDVNCKEVIAYMCEK
+>match$64_1443_1546
+PRNYADAQEYCRSQGGDLASITDSYNEAFLEYLMYSNDVSAAWIGMTSNEDGQYTWSDGW
+PVFYSIWGDSEPSQRQGEGCVVLRDEPSWDDTQCNGMYVPICKT
+>match$64_1584_1692
+DWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQGVRSVWLGLTRSETGGFKYTDSS
+PVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDEDCYARASYVCKM
+>match$65_1569_1691
+FGGHCYAVASGAVFADWFTARQTCQTQYGGELVSLHSKEENEFVKDLVFGTQGVRSVWLG
+LTRSETGGFKYTDSSPVDYVHWANGEPTEEWAGSNEDCVEMYTNEYAKWNDEDCYARASY
+VCK

@@ -1,0 +1,80 @@
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd00037	CLECT	430	550	2.40771E-24	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSitePatterns	PS00615	C-type lectin domain signature.	184	206	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	137	217	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	268	417	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	22	124	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	903	1060	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	1202	1347	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	566	682	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	1071	1192	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	416	554	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803:SF110	-	698	828	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd00037	CLECT	282	415	4.96549E-21	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	416	554	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	268	417	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	22	124	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	566	682	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	903	1060	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	698	828	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	1202	1347	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	137	217	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	1071	1192	0.0	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00473	ntp_6	829	904	1.7E-10	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	928	1046	24.039	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	417	557	8.44E-38	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSitePatterns	PS00615	C-type lectin domain signature.	1320	1343	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	1057	1191	2.62E-34	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	1203	1346	9.45E-39	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	142	208	2.4E-9	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	1082	1190	1.0E-16	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	442	549	1.5E-16	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	1240	1344	1.0E-21	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	940	1047	1.6E-18	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	291	415	1.4E-15	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	42	126	5.8E-8	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	605	678	1.1E-7	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00059	Lectin C-type domain	722	826	8.7E-22	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd00037	CLECT	34	208	5.15588E-20	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PRINTS	PR01504	Pancreatitis-associated protein signature	414	432	2.0E-5	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PRINTS	PR01504	Pancreatitis-associated protein signature	468	490	2.0E-5	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PRINTS	PR01504	Pancreatitis-associated protein signature	496	514	2.0E-5	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	PRINTS	PR01504	Pancreatitis-associated protein signature	537	551	2.0E-5	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	564	680	3.6E-18	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	686	828	6.09E-40	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	907	1049	3.7E-37	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	129	209	6.18E-20	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSitePatterns	PS00615	C-type lectin domain signature.	801	824	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	255	416	2.62E-33	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	1071	1189	23.706	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	694	830	8.0E-39	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	129	209	8.3E-21	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	19	126	5.77E-30	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	1055	1192	2.8E-30	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	9	128	3.2E-29	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	1203	1348	1.6E-37	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	1064	1189	6.9E-30	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	568	677	1.5E-13	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	921	1046	7.4E-35	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	270	414	1.7E-25	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	1215	1344	6.1E-30	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	24	207	3.4E-25	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	700	825	2.2E-34	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SMART	SM00034	CLECT_2	420	549	7.5E-34	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	31	207	16.692	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	427	549	24.679	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	575	664	14.644	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd00037	CLECT	712	826	2.69274E-31	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50948	PAN/Apple domain profile.	824	905	9.459	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd01099	PAN_AP_HGF	856	903	7.12317E-11	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	418	553	2.5E-33	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.10.100.10	-	267	414	3.9E-31	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	565	681	2.62E-26	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	CDD	cd00037	CLECT	1074	1190	1.26654E-23	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Pfam	PF00024	PAN domain	833	902	3.4E-11	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	279	414	21.927	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSitePatterns	PS00615	C-type lectin domain signature.	523	548	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	Gene3D	G3DSA:3.50.4.10	Hepatocyte Growth Factor	831	906	5.7E-9	T	22-10-2020
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF56436	C-type lectin-like	915	1049	2.87E-39	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	709	825	26.88	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	ProSiteProfiles	PS50041	C-type lectin domain profile.	1223	1344	24.525	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus	69d9b6f8b3235dcf24b42cf5c4d8d142	1349	SUPERFAMILY	SSF57414	Hairpin loop containing domain-like	831	905	3.73E-11	T	22-10-2020
