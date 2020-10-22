@@ -1,0 +1,586 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MILTSHLFKALIVCVPFVLVICEARNISESAPDICPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGACWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGIDLCYVCKQIKKTIIPNVNPLEPKPTPPKDLSSVHERFEMGQAHGRCEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASCNQRNGFICETGL",
+  "md5" : "6e5b62f8d4482bc9208ba14c0cc0597c",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR22803:SF133",
+      "name" : "WU:FA56D06",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 285,
+      "hmmStart" : 237,
+      "hmmEnd" : 464,
+      "hmmLength" : 793,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "envelopeStart" : 8,
+      "envelopeEnd" : 285,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 285,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 199,
+      "end" : 327,
+      "hmmStart" : 237,
+      "hmmEnd" : 361,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 180,
+      "envelopeEnd" : 329,
+      "location-fragments" : [ {
+        "start" : 199,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-72,
+    "familyName" : "Not available",
+    "score" : 256.5,
+    "model-ac" : "PTHR22803:SF133"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 135,
+      "end" : 159,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M9I6M5I3M",
+      "alignment" : "CIeirawlagsWNDLNCgidlcYVC",
+      "location-fragments" : [ {
+        "start" : 135,
+        "end" : 159,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 25,
+      "end" : 330,
+      "location-fragments" : [ {
+        "start" : 25,
+        "end" : 330,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 206,
+      "end" : 327,
+      "score" : 25.229,
+      "alignment" : "YEKSCYRSVSDpLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPhqdeGRWRTASCNQRNGFICE",
+      "location-fragments" : [ {
+        "start" : 206,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 190,
+      "end" : 328,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 190,
+        "end" : 328,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.53E-38,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 24,
+      "score" : 0.757,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "EUK",
+    "model-ac" : "SignalP-noTM"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 42,
+      "end" : 160,
+      "score" : 25.485,
+      "alignment" : "WNNACYYFANDsvssRVAWQDARQACQRIR-GGD-LASIHSAAENDFITRHVSGA---CWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAwlaGSWNDLNCGIDLCYVCK",
+      "location-fragments" : [ {
+        "start" : 42,
+        "end" : 160,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "SM00034",
+      "name" : "CLECT_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 199,
+      "end" : 327,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-29,
+      "score" : 114.2,
+      "location-fragments" : [ {
+        "start" : 199,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 35,
+      "end" : 160,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.9E-32,
+      "score" : 121.9,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 160,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.0E-66,
+    "score" : 236.1,
+    "model-ac" : "SM00034"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_C_REGION",
+      "name" : "Signal peptide C-region",
+      "description" : "C-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 21,
+      "end" : 24,
+      "location-fragments" : [ {
+        "start" : 21,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_C_REGION"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_H_REGION",
+      "name" : "Signal peptide H-region",
+      "description" : "Hydrophobic region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 20,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 20,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_H_REGION"
+  }, {
+    "signature" : {
+      "accession" : "PTHR22803",
+      "name" : "MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 199,
+      "end" : 327,
+      "hmmStart" : 237,
+      "hmmEnd" : 361,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 180,
+      "envelopeEnd" : 329,
+      "location-fragments" : [ {
+        "start" : 199,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 35,
+      "end" : 285,
+      "hmmStart" : 237,
+      "hmmEnd" : 464,
+      "hmmLength" : 793,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "envelopeStart" : 8,
+      "envelopeEnd" : 285,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 285,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-72,
+    "familyName" : "Not available",
+    "score" : 256.5,
+    "model-ac" : "PTHR22803"
+  }, {
+    "signature" : {
+      "accession" : "PF00059",
+      "name" : "Lectin_C",
+      "description" : "Lectin C-type domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 58,
+      "end" : 161,
+      "hmmStart" : 3,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.2E-21,
+      "score" : 77.4,
+      "envelopeStart" : 56,
+      "envelopeEnd" : 161,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 58,
+        "end" : 161,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 219,
+      "end" : 328,
+      "hmmStart" : 3,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.2E-23,
+      "score" : 81.8,
+      "envelopeStart" : 218,
+      "envelopeEnd" : 328,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 219,
+        "end" : 328,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-45,
+    "score" : 154.2,
+    "model-ac" : "PF00059"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 9,
+      "end" : 162,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 9,
+        "end" : 162,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-40,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 197,
+      "end" : 329,
+      "hmmStart" : 4,
+      "hmmEnd" : 149,
+      "hmmLength" : 157,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.1E-37,
+      "score" : 130.0,
+      "envelopeStart" : 197,
+      "envelopeEnd" : 329,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 197,
+        "end" : 329,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-75,
+    "score" : 253.9,
+    "model-ac" : "3aluA00"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_N_REGION",
+      "name" : "Signal peptide N-region",
+      "description" : "N-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 9,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 9,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_N_REGION"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 163,
+      "hmmStart" : 9,
+      "hmmEnd" : 130,
+      "hmmLength" : 133,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.5E-38,
+      "score" : 131.6,
+      "envelopeStart" : 28,
+      "envelopeEnd" : 163,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 163,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.9E-72,
+    "score" : 243.3,
+    "model-ac" : "2zibA00"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-TM",
+      "name" : "SignalP-TM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_GRAM_POSITIVE",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 24,
+      "score" : 0.483,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "GRAM_POSITIVE",
+    "model-ac" : "SignalP-TM"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE",
+      "name" : "Signal Peptide",
+      "description" : "Signal peptide region",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 24,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 24,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE"
+  } ],
+  "xref" : [ {
+    "name" : "Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0",
+    "id" : "Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0"
+  } ]
+} ]
+}

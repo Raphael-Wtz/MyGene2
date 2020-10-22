@@ -1,0 +1,701 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1 2052
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	.	polypeptide	1	2052	.	+	.	ID=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66;md5=2011604cabe605d8e11d9d5eeb214326
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1123	1271	1.70876E-43	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1123 1271;ID=match$1_1123_1271;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Phobius	protein_match	21	2052	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 21 2052;ID=match$2_21_2052;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1411	1427	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1411 1427;ID=match$3_1411_1427;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	670	823	4.42E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 670 823;ID=match$4_670_823;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	244	280	2.07477E-12	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 244 280;ID=match$5_244_280;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	357	513	5.3E-58	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 357 513;ID=match$6_357_513;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	345	356	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 345 356;ID=match$7_345_356;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1898	2046	2.50206E-42	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1898 2046;ID=match$8_1898_2046;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1584	1737	1.7E-25	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1584 1737;ID=match$9_1584_1737;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	824	953	0.38	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 824 953;ID=match$9_824_953;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1739	1892	1.4E-24	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1739 1892;ID=match$9_1739_1892;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	514	667	2.4E-24	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 514 667;ID=match$9_514_667;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1274	1427	9.6E-26	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1274 1427;ID=match$9_1274_1427;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1429	1582	1.9E-25	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1429 1582;ID=match$9_1429_1582;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	964	1117	1.4E-27	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 964 1117;ID=match$9_964_1117;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	359	512	1.1E-31	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 359 512;ID=match$9_359_512;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	669	822	1.3E-23	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 669 822;ID=match$9_669_822;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1894	2047	1.4E-21	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1894 2047;ID=match$9_1894_2047;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	1119	1272	6.0E-24	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1119 1272;ID=match$9_1119_1272;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	142	153	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 142 153;ID=match$10_142_153;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	259	270	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 259 270;ID=match$11_259_270;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	206	243	1.6E-13	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 206 243;ID=match$12_206_243;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	244	282	1.4E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 244 282;ID=match$12_244_282;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	282	318	2.74475E-16	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 282 318;ID=match$13_282_318;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	126	165	7.63E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 126 165;ID=match$14_126_165;Name=SSF57196;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	360	513	1.01E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 360 513;ID=match$15_360_513;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	46	127	1.5E-9	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 46 127;ID=match$16_46_127;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	268	279	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 268 279;ID=match$17_268_279;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Phobius	protein_match	1	20	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1 20;ID=match$18_1_20;signature_desc=Signal peptide region;Name=SIGNAL_PEPTIDE;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	89	130	1.65E-5	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 89 130;ID=match$19_89_130;Name=SSF57196;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	515	667	39.769	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 515 667;ID=match$20_515_667;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	126	163	2.55651E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 126 163;ID=match$21_126_163;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	336	347	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 336 347;ID=match$22_336_347;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1278	1426	4.53095E-44	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1278 1426;ID=match$23_1278_1426;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	203	242	22.209	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 203 242;ID=match$24_203_242;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	967	1116	1.5255E-45	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 967 1116;ID=match$25_967_1116;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	165	201	17.34	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 165 201;ID=match$26_165_201;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	307	318	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 307 318;ID=match$27_307_318;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	673	821	4.26322E-42	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 673 821;ID=match$28_673_821;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	152	287	6.75E-14	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 152 287;ID=match$29_152_287;Name=SSF57184;status=T;Dbxref="InterPro:IPR009030"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	151	162	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 151 162;ID=match$30_151_162;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	965	1118	1.36E-52	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 965 1118;ID=match$31_965_1118;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	321	348	4.5E-5	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 348;Ontology_term="GO:0005509";ID=match$32_321_348;signature_desc=Calcium-binding EGF domain;Name=PF07645;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	165	198	1.9E-7	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 165 198;Ontology_term="GO:0005509";ID=match$32_165_198;signature_desc=Calcium-binding EGF domain;Name=PF07645;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	244	275	7.1E-6	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 244 275;Ontology_term="GO:0005509";ID=match$32_244_275;signature_desc=Calcium-binding EGF domain;Name=PF07645;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	203	237	3.2E-7	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 203 237;Ontology_term="GO:0005509";ID=match$32_203_237;signature_desc=Calcium-binding EGF domain;Name=PF07645;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1120	1273	1.96E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1120 1273;ID=match$33_1120_1273;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1430	1582	39.687	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1430 1582;ID=match$34_1430_1582;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1740	1893	3.06E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1740 1893;ID=match$35_1740_1893;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1434	1581	9.7079E-45	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1434 1581;ID=match$36_1434_1581;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	806	822	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 806 822;ID=match$37_806_822;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	496	512	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 496 512;ID=match$38_496_512;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Phobius	protein_match	16	20	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 16 20;ID=match$39_16_20;signature_desc=C-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_C_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	360	512	41.899	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 360 512;ID=match$40_360_512;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	515	668	1.53E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 515 668;ID=match$41_515_668;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	81	122	1.81454E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 81 122;ID=match$42_81_122;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	840	930	3.7E-18	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 840 930;ID=match$43_840_930;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1755	1889	1.6E-30	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1755 1889;ID=match$43_1755_1889;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1445	1579	4.3E-30	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1445 1579;ID=match$43_1445_1579;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1600	1734	1.1E-30	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1600 1734;ID=match$43_1600_1734;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	980	1114	1.4E-29	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 980 1114;ID=match$43_980_1114;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1290	1424	1.6E-28	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1290 1424;ID=match$43_1290_1424;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	375	509	4.2E-32	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 375 509;ID=match$43_375_509;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	685	819	2.5E-28	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 685 819;ID=match$43_685_819;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1135	1269	2.5E-28	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1135 1269;ID=match$43_1135_1269;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	530	664	7.5E-30	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 530 664;ID=match$43_530_664;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	1910	2044	1.3E-27	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1910 2044;ID=match$43_1910_2044;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	953	1118	3.8E-59	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 953 1118;ID=match$44_953_1118;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1739	1893	7.9E-57	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1739 1893;ID=match$44_1739_1893;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	669	823	4.5E-57	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 669 823;ID=match$44_669_823;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	514	668	2.9E-57	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 514 668;ID=match$44_514_668;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1274	1428	4.5E-57	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1274 1428;ID=match$44_1274_1428;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1119	1273	1.7E-56	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1119 1273;ID=match$44_1119_1273;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1429	1583	4.3E-57	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1429 1583;ID=match$44_1429_1583;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1894	2049	1.3E-55	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1894 2049;ID=match$44_1894_2049;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	1584	1738	9.6E-58	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1584 1738;ID=match$44_1584_1738;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	282	307	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 282 307;Ontology_term="GO:0005509";ID=match$45_282_307;signature_desc=Calcium-binding EGF-like domain signature.;Name=PS01187;status=T;Dbxref="InterPro:IPR018097"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	180	191	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 180 191;ID=match$46_180_191;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1430	1583	1.11E-51	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1430 1583;ID=match$47_1430_1583;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	125	163	19.19	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 125 163;ID=match$48_125_163;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	322	356	4.8E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 322 356;ID=match$49_322_356;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	651	667	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 651 667;ID=match$50_651_667;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	203	230	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 203 230;Ontology_term="GO:0005509";ID=match$51_203_230;signature_desc=Calcium-binding EGF-like domain signature.;Name=PS01187;status=T;Dbxref="InterPro:IPR018097"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	165	200	1.37655E-12	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 165 200;ID=match$52_165_200;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1876	1892	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1876 1892;ID=match$53_1876_1892;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Phobius	protein_match	4	15	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 4 15;ID=match$54_4_15;signature_desc=Hydrophobic region of a signal peptide.;Name=SIGNAL_PEPTIDE_H_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	133	161	1.2E-7	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 133 161;ID=match$55_133_161;signature_desc=EGF-like domain;Name=PF00008;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	286	317	5.0E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 286 317;ID=match$55_286_317;signature_desc=EGF-like domain;Name=PF00008;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Pfam	protein_match	90	121	6.7E-5	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 90 121;ID=match$55_90_121;signature_desc=EGF-like domain;Name=PF00008;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1275	1427	39.851	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1275 1427;ID=match$56_1275_1427;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Coils	protein_match	71	91	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 71 91;ID=match$57_71_91;Name=Coil;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	189	200	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 189 200;ID=match$58_189_200;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	518	666	5.07217E-45	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 518 666;ID=match$59_518_666;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	244	280	21.63	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 244 280;ID=match$60_244_280;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	128	163	2.2E-6	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 128 163;ID=match$61_128_163;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	206	242	5.0E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 206 242;ID=match$61_206_242;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	168	201	5.2E-4	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 168 201;ID=match$61_168_201;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	324	357	0.0013	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 324 357;ID=match$61_324_357;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	89	123	3.9E-5	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 89 123;ID=match$61_89_123;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	247	280	7.8E-7	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 247 280;ID=match$61_247_280;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	285	319	9.3E-8	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 285 319;ID=match$61_285_319;Name=SM00181;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	128	166	6.2E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 128 166;ID=match$62_128_166;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1585	1738	6.04E-52	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1585 1738;ID=match$63_1585_1738;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	298	309	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 298 309;ID=match$64_298_309;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	221	232	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 221 232;ID=match$65_221_232;signature_desc=Aspartic acid and asparagine hydroxylation site.;Name=PS00010;status=T;Dbxref="InterPro:IPR000152"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	670	822	39.66	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 670 822;ID=match$66_670_822;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	321	361	2.74E-9	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 361;ID=match$67_321_361;Name=SSF57196;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	321	357	20.266	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 357;ID=match$68_321_357;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1739	1892	40.151	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1739 1892;ID=match$69_1739_1892;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1585	1737	40.998	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1585 1737;ID=match$70_1585_1737;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1721	1737	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1721 1737;ID=match$71_1721_1737;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1588	1736	3.64858E-45	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1588 1736;ID=match$72_1588_1736;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	282	326	3.51E-9	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 282 326;ID=match$73_282_326;Name=SSF57196;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	282	319	23.875	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 282 319;ID=match$74_282_319;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Phobius	protein_match	1	3	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1 3;ID=match$75_1_3;signature_desc=N-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_N_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1101	1117	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1101 1117;ID=match$76_1101_1117;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	307	318	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 307 318;ID=match$77_307_318;signature_desc=EGF-like domain signature 2.;Name=PS01186;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	230	241	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 230 241;ID=match$78_230_241;signature_desc=EGF-like domain signature 2.;Name=PS01186;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1895	2047	37.366	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1895 2047;ID=match$79_1895_2047;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	203	242	6.16917E-14	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 203 242;ID=match$80_203_242;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	321	345	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 345;Ontology_term="GO:0005509";ID=match$81_321_345;signature_desc=Calcium-binding EGF-like domain signature.;Name=PS01187;status=T;Dbxref="InterPro:IPR018097"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	86	123	17.696	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 86 123;ID=match$82_86_123;signature_desc=EGF-like domain profile.;Name=PS50026;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1895	2048	3.4E-50	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1895 2048;ID=match$83_1895_2048;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1566	1582	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1566 1582;ID=match$84_1566_1582;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	230	241	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 230 241;ID=match$85_230_241;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	167	205	1.5E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 167 205;ID=match$86_167_205;Name=G3DSA:2.10.25.10;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	1744	1891	2.08715E-44	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1744 1891;ID=match$87_1744_1891;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	1256	1272	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1256 1272;ID=match$88_1256_1272;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	363	511	1.01847E-47	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 363 511;ID=match$89_363_511;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	1275	1428	4.42E-52	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1275 1428;ID=match$90_1275_1428;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SUPERFAMILY	protein_match	825	934	2.04E-30	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 825 934;ID=match$91_825_934;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	946	1117	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 946 1117;ID=match$92_946_1117;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	828	934	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 828 934;ID=match$92_828_934;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1587	1737	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1587 1737;ID=match$92_1587_1737;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	518	667	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 518 667;ID=match$92_518_667;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	672	822	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 672 822;ID=match$92_672_822;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1122	1272	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1122 1272;ID=match$92_1122_1272;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1897	2049	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1897 2049;ID=match$92_1897_2049;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1742	1892	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1742 1892;ID=match$92_1742_1892;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1277	1429	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1277 1429;ID=match$92_1277_1429;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	317	512	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 317 512;ID=match$92_317_512;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	PANTHER	protein_match	1432	1582	0.0	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1432 1582;ID=match$92_1432_1582;Name=PTHR24543;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	189	201	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 189 201;ID=match$93_189_201;signature_desc=EGF-like domain signature 2.;Name=PS01186;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SignalP_EUK	protein_match	1	21	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1 21;ID=match$94_1_21;Name=SignalP-noTM;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	CDD	protein_match	321	357	5.50993E-10	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 357;ID=match$95_321_357;signature_desc=EGF_CA;Name=cd00054;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSitePatterns	protein_match	111	122	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 111 122;ID=match$96_111_122;signature_desc=EGF-like domain signature 1.;Name=PS00022;status=T;Dbxref="InterPro:IPR000742"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	1120	1272	39.141	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 1120 1272;ID=match$97_1120_1272;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	965	1117	40.889	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 965 1117;ID=match$98_965_1117;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	244	280	1.9E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 244 280;Ontology_term="GO:0005509";ID=match$99_244_280;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	81	123	0.024	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 81 123;Ontology_term="GO:0005509";ID=match$99_81_123;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	128	163	0.0011	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 128 163;Ontology_term="GO:0005509";ID=match$99_128_163;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	203	242	7.2E-12	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 203 242;Ontology_term="GO:0005509";ID=match$99_203_242;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	321	357	7.7E-9	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 321 357;Ontology_term="GO:0005509";ID=match$99_321_357;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	165	201	1.8E-11	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 165 201;Ontology_term="GO:0005509";ID=match$99_165_201;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	SMART	protein_match	282	319	1.1E-13	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 282 319;Ontology_term="GO:0005509";ID=match$99_282_319;Name=SM00179;status=T;Dbxref="InterPro:IPR001881"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	ProSiteProfiles	protein_match	825	920	21.937	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 825 920;ID=match$100_825_920;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	824	952	9.8E-34	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 824 952;ID=match$101_824_952;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66	Gene3D	protein_match	283	321	8.1E-14	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66 283 321;ID=match$102_283_321;Name=G3DSA:2.10.25.10;status=T
+##FASTA
+>Pocillopora_damicornis_Uncharacterized_protein_A0A3M6TW66
+MAVLCLQLSFAIFTLTTVVGGYRSKNEQYFTVGREIEDAKSYDFIRDERSRYGYYDEYES
+LIAEAKRSRYVDEAEALIAADEDEIEELSCLENPCRYGGTCVVTSCGSYECKCRPGFSGK
+HCDCVVKECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCEIDIDECDALACSNEATC
+INTVGSYMCKCRPGFKGKTCCSDINECESSDGDPCENGGTCENTYGSFWCACPSGFVGKR
+CERDRNECVNWPCENGGKCINTRGSYECSCPETYQGEHCERDVDECLTNNPCKNGATCTN
+LPGDYKCDCPKGWEGKNCDQDVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCEQAC
+NAALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVKL
+PSNTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIVY
+HELNPPIEARYVRLRPTAWHNHISLRMELYGCEVCVQALGMESGDIVDAQITASSEFDGN
+HAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIKLPGYTKITRFATQGRNAFNQWVTQYK
+LEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFNHISM
+RMEIYGCPACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTN
+DVNQWIQIRFPGYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFV
+GNTDSNTIVTHELFPPIQAHYIRLRPSTWVNHISLRMEVYGCRACVQALGMENGDIKDAQ
+ITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTKITRFATQGRN
+AFNQWVKQYKLEYSEDGVSFHYYHEPGQSAAKVLRRLQRYNNTNNLFSDALKLHKWVFLL
+QSSTCAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQW
+IQVKLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDS
+NTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCPACTKPLGMESGAILDAQITASS
+EFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTRITRFATQGRNAFNQW
+VTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPPIQSLYIRVRPTAWF
+NHVSMRMEIYGCPACTKPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSW
+SARTNDVNQWIQVKLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSA
+AKIFHGNTDSNTIVTHELLPPIQALYIRLRPTFWFNHISMRMEIYGCPTCAKSLGMENGA
+ILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVKLLRYTKITRFA
+TQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPPIQAL
+YIRLRPTAWFSHISMRMEIYGCPACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNF
+LAVPGKAGSWSARTNDASQWIQVKLPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTF
+HYYHEPGQSAAKLFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCPAC
+AKSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVKL
+PGYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIVT
+HELLPPIQALYIRLRPTAWFNHISMRMEIYGCPACAKPLGMESGAILDAQITASSEFNGN
+HAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTKITQFATQGRNAFNQWVTKYK
+LEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPHIQVLYIRLRPTAWFNHISV
+RMELYGCEGTSS
+>match$1_1123_1271
+PLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPG
+YTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHE
+LLPPIQSLYIRVRPTAWFNHVSMRMEIYG
+>match$2_21_2052
+GYRSKNEQYFTVGREIEDAKSYDFIRDERSRYGYYDEYESLIAEAKRSRYVDEAEALIAA
+DEDEIEELSCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHCDCVVKECDFDKNPCRHNA
+TCIDMGSDYICKCPSGIKGRHCEIDIDECDALACSNEATCINTVGSYMCKCRPGFKGKTC
+CSDINECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCERDRNECVNWPCENGGKCI
+NTRGSYECSCPETYQGEHCERDVDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCDQ
+DVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCEQACNAALGMESGAILGEQIIASS
+EYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVKLPSNTKISRFSTQGRNAYNQW
+VTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIVYHELNPPIEARYVRLRPTAWH
+NHISLRMELYGCEVCVQALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSW
+SSRTNDVNQWIQIKLPGYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSA
+PKIFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCPACTKPLGMESGA
+ILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIRFPGYTKITQFA
+TQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIVTHELFPPIQAH
+YIRLRPSTWVNHISLRMEVYGCRACVQALGMENGDIKDAQITASSEFDGNHAAKQGRLNF
+LAVPGKAGSWSARTNDVNQWIQVKLPGYTKITRFATQGRNAFNQWVKQYKLEYSEDGVSF
+HYYHEPGQSAAKVLRRLQRYNNTNNLFSDALKLHKWVFLLQSSTCAEPLGMESGAISDAQ
+ITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTRITRFATQGRN
+AFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTHELLPPIQALYIRLR
+PTAWFNHISMRMEIYGCPACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPG
+KAGSWSARTNDVNQWIQVKLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHE
+PGQSVAKIFHGNTDSNTIVTHELLPPIQSLYIRVRPTAWFNHVSMRMEIYGCPACTKPLG
+MESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTR
+ITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTHELLP
+PIQALYIRLRPTFWFNHISMRMEIYGCPTCAKSLGMENGAILDAQITASSEFDGNHAATQ
+GRLNFLAVPGKAGSWSSRTNDVNQWIQVKLLRYTKITRFATQGRNAFNQWVTQYKLEYSE
+DGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFSHISMRMEIY
+GCPACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQW
+IQVKLPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDS
+NTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCPACAKSLGMESGAILDAQITASS
+EFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVKLPGYTKITQFATQGRNAFNQW
+VKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIVTHELLPPIQALYIRLRPTAWF
+NHISMRMEIYGCPACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSW
+SARTNDVNQWIQVKLPGYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSV
+AKIFHGNTDSNTIVTHELLPHIQVLYIRLRPTAWFNHISVRMELYGCEGTSS
+>match$3_1411_1427
+PTFWFNHISMRMEIYGC
+>match$4_670_823
+CTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIR
+FPGYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIV
+THELFPPIQAHYIRLRPSTWVNHISLRMEVYGCR
+>match$5_244_280
+DRNECVNWPCENGGKCINTRGSYECSCPETYQGEHCE
+>match$6_357_513
+EQACNAALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWI
+QVKLPSNTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSE
+TIVYHELNPPIEARYVRLRPTAWHNHISLRMELYGCE
+>match$7_345_356
+CLCTYRHSGVLC
+>match$8_1898_2046
+PLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPG
+YTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHE
+LLPHIQVLYIRLRPTAWFNHISVRMELYG
+>match$9_359_512
+ACNAALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQV
+KLPSNTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETI
+VYHELNPPIEARYVRLRPTAWHNHISLRMELYGC
+>match$9_514_667
+VCVQALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQI
+KLPGYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$9_669_822
+ACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQI
+RFPGYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTI
+VTHELFPPIQAHYIRLRPSTWVNHISLRMEVYGC
+>match$9_824_953
+ACVQALGMENGDIKDAQITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTKITRFATQGRNAFNQWVKQYKLEYSEDGVSFHYYHEPGQSAAKVLRRLQRYNNT
+NNLFSDALKL
+>match$9_964_1117
+TCAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$9_1119_1272
+ACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPPIQSLYIRVRPTAWFNHVSMRMEIYGC
+>match$9_1274_1427
+ACTKPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTFWFNHISMRMEIYGC
+>match$9_1429_1582
+TCAKSLGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQV
+KLLRYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFSHISMRMEIYGC
+>match$9_1584_1737
+ACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQV
+KLPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$9_1739_1892
+ACAKSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQV
+KLPGYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$9_1894_2047
+ACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPHIQVLYIRLRPTAWFNHISVRMELYGC
+>match$10_142_153
+CIDMGSDYICKC
+>match$11_259_270
+CINTRGSYECSC
+>match$12_206_243
+ECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCER
+>match$12_244_282
+DRNECVNWPCENGGKCINTRGSYECSCPETYQGEHCERD
+>match$13_282_318
+DVDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNC
+>match$14_126_165
+VKECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCEID
+>match$15_360_513
+CNAALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVK
+LPSNTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIV
+YHELNPPIEARYVRLRPTAWHNHISLRMELYGCE
+>match$16_46_127
+RDERSRYGYYDEYESLIAEAKRSRYVDEAEALIAADEDEIEELSCLENPCRYGGTCVVTS
+CGSYECKCRPGFSGKHCDCVVK
+>match$17_268_279
+CSCPETYQGEHC
+>match$18_1_20
+MAVLCLQLSFAIFTLTTVVG
+>match$19_89_130
+SCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHCDCVVKECD
+>match$20_515_667
+CVQALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIK
+LPGYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$21_126_163
+VKECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCE
+>match$22_336_347
+CVNLHGSFECLC
+>match$23_1278_1426
+PLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPG
+YTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTHE
+LLPPIQALYIRLRPTFWFNHISMRMEIYG
+>match$24_203_242
+DINECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCE
+>match$25_967_1116
+EPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLP
+GYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTH
+ELLPPIQALYIRLRPTAWFNHISMRMEIYG
+>match$26_165_201
+DIDECDALACSNEATCINTVGSYMCKCRPGFKGKTCC
+>match$27_307_318
+CDCPKGWEGKNC
+>match$28_673_821
+PLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIRFPG
+YTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIVTHE
+LFPPIQAHYIRLRPSTWVNHISLRMEVYG
+>match$29_152_287
+KCPSGIKGRHCEIDIDECDALACSNEATCINTVGSYMCKCRPGFKGKTCCSDINECESSD
+GDPCENGGTCENTYGSFWCACPSGFVGKRCERDRNECVNWPCENGGKCINTRGSYECSCP
+ETYQGEHCERDVDECL
+>match$30_151_162
+CKCPSGIKGRHC
+>match$31_965_1118
+CAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$32_165_198
+DIDECDALACSNEATCINTVGSYMCKCRPGFKGK
+>match$32_203_237
+DINECESSDGDPCENGGTCENTYGSFWCACPSGFV
+>match$32_244_275
+DRNECVNWPCENGGKCINTRGSYECSCPETYQ
+>match$32_321_348
+DVNECTSTPCKNGGTCVNLHGSFECLCT
+>match$33_1120_1273
+CTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPPIQSLYIRVRPTAWFNHVSMRMEIYGCP
+>match$34_1430_1582
+CAKSLGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVK
+LLRYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFSHISMRMEIYGC
+>match$35_1740_1893
+CAKSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVK
+LPGYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$36_1434_1581
+LGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVKLLRY
+TKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHEL
+LPPIQALYIRLRPTAWFSHISMRMEIYG
+>match$37_806_822
+PSTWVNHISLRMEVYGC
+>match$38_496_512
+PTAWHNHISLRMELYGC
+>match$39_16_20
+TTVVG
+>match$40_360_512
+CNAALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVK
+LPSNTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIV
+YHELNPPIEARYVRLRPTAWHNHISLRMELYGC
+>match$41_515_668
+CVQALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIK
+LPGYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$42_81_122
+DEDEIEELSCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHC
+>match$43_375_509
+QIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVKLPSNTKISRFSTQGR
+NAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIVYHELNPPIEARYVRL
+RPTAWHNHISLRMEL
+>match$43_530_664
+QITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIKLPGYTKITRFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIVTHELLPPIQALYIRL
+RPTAWFNHISMRMEI
+>match$43_685_819
+QITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIRFPGYTKITQFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIVTHELFPPIQAHYIRL
+RPSTWVNHISLRMEV
+>match$43_840_930
+QITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTKITRFATQGR
+NAFNQWVKQYKLEYSEDGVSFHYYHEPGQSA
+>match$43_980_1114
+QITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTRITRFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTHELLPPIQALYIRL
+RPTAWFNHISMRMEI
+>match$43_1135_1269
+QITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTRITRFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPPIQSLYIRV
+RPTAWFNHVSMRMEI
+>match$43_1290_1424
+QITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTRITRFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTHELLPPIQALYIRL
+RPTFWFNHISMRMEI
+>match$43_1445_1579
+QITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVKLLRYTKITRFATQGR
+NAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPPIQALYIRL
+RPTAWFSHISMRMEI
+>match$43_1600_1734
+QITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQVKLPGYTKITQFATQGR
+NAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTIVTHELLPPIQALYIRL
+RPTAWFNHISMRMEI
+>match$43_1755_1889
+QITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVKLPGYTKITQFATQGR
+NAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIVTHELLPPIQALYIRL
+RPTAWFNHISMRMEI
+>match$43_1910_2044
+QITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPGYTKITQFATQGR
+NAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTHELLPHIQVLYIRL
+RPTAWFNHISVRMEL
+>match$44_514_668
+VCVQALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQI
+KLPGYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$44_669_823
+ACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQI
+RFPGYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTI
+VTHELFPPIQAHYIRLRPSTWVNHISLRMEVYGCR
+>match$44_953_1118
+LHKWVFLLQSSTCAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSA
+RTNDVNQWIQVKLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAK
+IFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$44_1119_1273
+ACTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPPIQSLYIRVRPTAWFNHVSMRMEIYGCP
+>match$44_1274_1428
+ACTKPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTFWFNHISMRMEIYGCP
+>match$44_1429_1583
+TCAKSLGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQV
+KLLRYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFSHISMRMEIYGCP
+>match$44_1584_1738
+ACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQV
+KLPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$44_1739_1893
+ACAKSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQV
+KLPGYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$44_1894_2049
+ACAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTI
+VTHELLPHIQVLYIRLRPTAWFNHISVRMELYGCEG
+>match$45_282_307
+DVDECLTNNPCKNGATCTNLPGDYKC
+>match$46_180_191
+CINTVGSYMCKC
+>match$47_1430_1583
+CAKSLGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVK
+LLRYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFSHISMRMEIYGCP
+>match$48_125_163
+VVKECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCE
+>match$49_322_356
+VNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLC
+>match$50_651_667
+PTAWFNHISMRMEIYGC
+>match$51_203_230
+DINECESSDGDPCENGGTCENTYGSFWC
+>match$52_165_200
+DIDECDALACSNEATCINTVGSYMCKCRPGFKGKTC
+>match$53_1876_1892
+PTAWFNHISMRMEIYGC
+>match$54_4_15
+LCLQLSFAIFTL
+>match$55_90_121
+CLENPCRYGGTCVVTSCGSYECKCRPGFSGKH
+>match$55_133_161
+KNPCRHNATCIDMGSDYICKCPSGIKGRH
+>match$55_286_317
+CLTNNPCKNGATCTNLPGDYKCDCPKGWEGKN
+>match$56_1275_1427
+CTKPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTFWFNHISMRMEIYGC
+>match$57_71_91
+VDEAEALIAADEDEIEELSCL
+>match$58_189_200
+CKCRPGFKGKTC
+>match$59_518_666
+ALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIKLPG
+YTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIVTHE
+LLPPIQALYIRLRPTAWFNHISMRMEIYG
+>match$60_244_280
+DRNECVNWPCENGGKCINTRGSYECSCPETYQGEHCE
+>match$61_89_123
+SCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHCD
+>match$61_128_163
+ECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCE
+>match$61_168_201
+ECDALACSNEATCINTVGSYMCKCRPGFKGKTCC
+>match$61_206_242
+ECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCE
+>match$61_247_280
+ECVNWPCENGGKCINTRGSYECSCPETYQGEHCE
+>match$61_285_319
+ECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCD
+>match$61_324_357
+ECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCE
+>match$62_128_166
+ECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCEIDI
+>match$63_1585_1738
+CAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQVK
+LPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGCP
+>match$64_298_309
+CTNLPGDYKCDC
+>match$65_221_232
+CENTYGSFWCAC
+>match$66_670_822
+CTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIR
+FPGYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIV
+THELFPPIQAHYIRLRPSTWVNHISLRMEVYGC
+>match$67_321_361
+DVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCEQACN
+>match$68_321_357
+DVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCE
+>match$69_1739_1892
+ACAKSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQV
+KLPGYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTI
+VTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$70_1585_1737
+CAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQVK
+LPGYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$71_1721_1737
+PTAWFNHISMRMEIYGC
+>match$72_1588_1736
+PLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQVKLPG
+YTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTIVTHE
+LLPPIQALYIRLRPTAWFNHISMRMEIYG
+>match$73_282_326
+DVDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCDQDVNECT
+>match$74_282_319
+DVDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCD
+>match$75_1_3
+MAV
+>match$76_1101_1117
+PTAWFNHISMRMEIYGC
+>match$77_307_318
+CDCPKGWEGKNC
+>match$78_230_241
+CACPSGFVGKRC
+>match$79_1895_2047
+CAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPHIQVLYIRLRPTAWFNHISVRMELYGC
+>match$80_203_242
+DINECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCE
+>match$81_321_345
+DVNECTSTPCKNGGTCVNLHGSFEC
+>match$82_86_123
+EELSCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHCD
+>match$83_1895_2048
+CAKPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPHIQVLYIRLRPTAWFNHISVRMELYGCE
+>match$84_1566_1582
+PTAWFSHISMRMEIYGC
+>match$85_230_241
+CACPSGFVGKRC
+>match$86_167_205
+DECDALACSNEATCINTVGSYMCKCRPGFKGKTCCSDIN
+>match$87_1744_1891
+LGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVKLPGY
+TKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIVTHEL
+LPPIQALYIRLRPTAWFNHISMRMEIYG
+>match$88_1256_1272
+PTAWFNHVSMRMEIYGC
+>match$89_363_511
+ALGMESGAILGEQIIASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVKLPS
+NTKISRFSTQGRNAYNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIVYHE
+LNPPIEARYVRLRPTAWHNHISLRMELYG
+>match$90_1275_1428
+CTKPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTFWFNHISMRMEIYGCP
+>match$91_825_934
+CVQALGMENGDIKDAQITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTKITRFATQGRNAFNQWVKQYKLEYSEDGVSFHYYHEPGQSAAKVL
+>match$92_317_512
+NCDQDVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCEQACNAALGMESGAILGEQI
+IASSEYDGNHAAKQGRLNFQAVPGKAGSWSARTNDANQWIQVKLPSNTKISRFSTQGRNA
+YNQWVTKYQLMYSEDGLNFHYYHERGQSSPKEFQGNSDSETIVYHELNPPIEARYVRLRP
+TAWHNHISLRMELYGC
+>match$92_518_667
+ALGMESGDIVDAQITASSEFDGNHAAKQGRLNFQAVPGKAGSWSSRTNDVNQWIQIKLPG
+YTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKIFHGNTDSNTIVTHE
+LLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$92_672_822
+KPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQIRFP
+GYTKITQFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAPKEFVGNTDSNTIVTH
+ELFPPIQAHYIRLRPSTWVNHISLRMEVYGC
+>match$92_828_934
+ALGMENGDIKDAQITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLPG
+YTKITRFATQGRNAFNQWVKQYKLEYSEDGVSFHYYHEPGQSAAKVL
+>match$92_946_1117
+LFSDALKLHKWVFLLQSSTCAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPG
+KAGSWSARTNDVNQWIQVKLPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHE
+PGQSAAKIFHGNTDSNTIVTHELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$92_1122_1272
+KPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLP
+GYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTH
+ELLPPIQSLYIRVRPTAWFNHVSMRMEIYGC
+>match$92_1277_1429
+KPLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLP
+GYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIVTH
+ELLPPIQALYIRLRPTFWFNHISMRMEIYGCPT
+>match$92_1432_1582
+KSLGMENGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSSRTNDVNQWIQVKLL
+RYTKITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTH
+ELLPPIQALYIRLRPTAWFSHISMRMEIYGC
+>match$92_1587_1737
+KPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDASQWIQVKLP
+GYTKITQFATQGRNAFNQWVTKYKIEYSEDGVTFHYYHEPGQSAAKLFHGNTDSNTIVTH
+ELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$92_1742_1892
+KSLGMESGAILDAQITASSEFDGNHAATQGRLNFLAVPGKAGSWSARTNDASQWIQVKLP
+GYTKITQFATQGRNAFNQWVKKYKIEYSEDGVTFHYYHEAGQSAAKIFRGNTDSNTIVTH
+ELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$92_1897_2049
+KPLGMESGAILDAQITASSEFNGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVKLP
+GYTKITQFATQGRNAFNQWVTKYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIVTH
+ELLPHIQVLYIRLRPTAWFNHISVRMELYGCEG
+>match$93_189_201
+CKCRPGFKGKTCC
+>match$94_1_21
+MAVLCLQLSFAIFTLTTVVGG
+>match$95_321_357
+DVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCE
+>match$96_111_122
+CKCRPGFSGKHC
+>match$97_1120_1272
+CTKPLGMESGAILDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSVAKIFHGNTDSNTIV
+THELLPPIQSLYIRVRPTAWFNHVSMRMEIYGC
+>match$98_965_1117
+CAEPLGMESGAISDAQITASSEFNGNHAATQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTRITRFATQGRNAFNQWVTQYKLEYSEDGVTFHYYHEPGQSAAKIFHGNTDSNTIV
+THELLPPIQALYIRLRPTAWFNHISMRMEIYGC
+>match$99_81_123
+DEDEIEELSCLENPCRYGGTCVVTSCGSYECKCRPGFSGKHCD
+>match$99_128_163
+ECDFDKNPCRHNATCIDMGSDYICKCPSGIKGRHCE
+>match$99_165_201
+DIDECDALACSNEATCINTVGSYMCKCRPGFKGKTCC
+>match$99_203_242
+DINECESSDGDPCENGGTCENTYGSFWCACPSGFVGKRCE
+>match$99_244_280
+DRNECVNWPCENGGKCINTRGSYECSCPETYQGEHCE
+>match$99_282_319
+DVDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCD
+>match$99_321_357
+DVNECTSTPCKNGGTCVNLHGSFECLCTYRHSGVLCE
+>match$100_825_920
+CVQALGMENGDIKDAQITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQVK
+LPGYTKITRFATQGRNAFNQWVKQYKLEYSEDGVSF
+>match$101_824_952
+ACVQALGMENGDIKDAQITASSEFDGNHAAKQGRLNFLAVPGKAGSWSARTNDVNQWIQV
+KLPGYTKITRFATQGRNAFNQWVKQYKLEYSEDGVSFHYYHEPGQSAAKVLRRLQRYNNT
+NNLFSDALK
+>match$102_283_321
+VDECLTNNPCKNGATCTNLPGDYKCDCPKGWEGKNCDQD

@@ -1,0 +1,4159 @@
+{
+ "interproscan-version": "5.47-82.0",
+"results": [ {
+  "sequence" : "MAVIAGSPSLLLLSLWLATALAGDCTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQYTNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDDCSKEYSFICKTLKGAPAPTQPTLMPPTTLTPLSCDAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTLRAYVCEKPNGQSLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDWGTVSCTTTNAYVCKKTRASSKCDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDLGLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVANIMLKDPINARFVRIYPSSWSNNICLRIEIYGCASQAYSRKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCGQFRPFICKRKLGSNNTPKLSRTANWISTADYYWPLDNIIQGRALGTANAKVTGNVSHPEILQNGHDVLQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDSSAASWTNRVFLVDTIGDERFASSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHHVMITWHKTAGLIYYLNGRESGVMAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLAIWTRVLDANDVTDIYNSEFGNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVREYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMPCYSGNSYICKAKKAYVPFGGSVNPTTAPETKIICEFSSAILSCPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFGNDPCPSVTKYLETTYTCTKGTVVTPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCKMFRRNYTPPPPSPTTAATGPCPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMCKRTRPSRATPSRPPTSTPSPTTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVFSEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDGRWNDQNCNLKRTFVCRKHNNTIFPPFTMIPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVCETDALPLGPTTAPPTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSAVDCGLKNSFMCKIYKGEPHVTPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICKSKLECSFALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYPETWSNNPCAKIEFYGCPFECESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKRLTKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLPVAGSPDGKCLRFDFYGCASACLEPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMRVRQIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKAVRGQYFRLKPLTWSRNICIRVELYGCLPNNAPTVSPPTEKPSGNPTDGTVAPTEPPYVVYRAKIRLTATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDTDSLAFKEVAVNSFRRGSVIADFNVTFITDLAEGANVTGKLRAAVRSGKVGELQVDPDYFYITKVVSSGGKSQRQKGDQSSGLSPGGKAAIAVVFVIALLIGGAVATWYYFKKYRGGKLQFKHQTFDNPIHFSSKAYDIDA",
+  "md5" : "0214ea683d88467fda6b311fc3876fcb",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1977,
+      "end" : 2094,
+      "score" : 27.239,
+      "alignment" : "FDKFCYLFSGIsaYVTWSQARSTCTRQ--GAD-LVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAgnRLWNDYSCSQQRGYICK",
+      "location-fragments" : [ {
+        "start" : 1977,
+        "end" : 2094,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "PS50022",
+      "name" : "FA58C_3",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2099,
+      "end" : 2243,
+      "score" : 34.198,
+      "alignment" : "CSFA-LGMSSGGITNTQLTSSLSQPGY-GPSMARLN---GSTAWCA-NVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVkgQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYP-ETWSNNPCAKIEFYGC",
+      "location-fragments" : [ {
+        "start" : 2099,
+        "end" : 2243,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50022"
+  }, {
+    "signature" : {
+      "accession" : "PS50022",
+      "name" : "FA58C_3",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 455,
+      "end" : 606,
+      "score" : 35.536,
+      "alignment" : "CDAP-FGLADYTIDDSLLTASSSDRTSVpAFARLRLQSkPGSSGAWCSAKNTLGEYLQVDLGLRRQVTHIAIQGRPKS--TDFVKTFYLKYGNDGSTFNYYGAnateNYLVLNGSSDSDTVANIMLKDPINARFVRIYP-SSWSNNICLRIEIYGC",
+      "location-fragments" : [ {
+        "start" : 455,
+        "end" : 606,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50022"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 623,
+      "end" : 742,
+      "score" : 23.015,
+      "alignment" : "PDSTCYQFNTDsRKIWADARATCLGQ--GGD-LLSIVTNNEKAYIETRVKALDssaGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPsrAAWRDVDCGQFRPFICK",
+      "location-fragments" : [ {
+        "start" : 623,
+        "end" : 742,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "SSF49785",
+      "name" : "Galactose-binding domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2098,
+      "end" : 2244,
+      "hmmLength" : 159,
+      "location-fragments" : [ {
+        "start" : 2098,
+        "end" : 2244,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.17E-38,
+    "model-ac" : "0036298"
+  }, {
+    "signature" : {
+      "accession" : "PS01286",
+      "name" : "FA58C_2",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 2.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 590,
+      "end" : 606,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M8I2M1I2M1I2M",
+      "alignment" : "PsswsnnicLRiEIyGC",
+      "location-fragments" : [ {
+        "start" : 590,
+        "end" : 606,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01286"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1386,
+      "end" : 1501,
+      "score" : 25.037,
+      "alignment" : "YRSACYRVFMSPTTWTGARDACRATGDNTD-LVSMHDSGESLFVQSLTNNSL-TLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKStGYWGDVGCYATRPYMCK",
+      "location-fragments" : [ {
+        "start" : 1386,
+        "end" : 1501,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "SM00231",
+      "name" : "disc_4",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2098,
+      "end" : 2243,
+      "hmmStart" : 1,
+      "hmmEnd" : 199,
+      "hmmLength" : 199,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.5E-22,
+      "score" : 89.7,
+      "location-fragments" : [ {
+        "start" : 2098,
+        "end" : 2243,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2246,
+      "end" : 2391,
+      "hmmStart" : 1,
+      "hmmEnd" : 199,
+      "hmmLength" : 199,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.1E-23,
+      "score" : 92.8,
+      "location-fragments" : [ {
+        "start" : 2246,
+        "end" : 2391,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2394,
+      "end" : 2540,
+      "hmmStart" : 1,
+      "hmmEnd" : 199,
+      "hmmLength" : 199,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.7E-18,
+      "score" : 77.5,
+      "location-fragments" : [ {
+        "start" : 2394,
+        "end" : 2540,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 454,
+      "end" : 606,
+      "hmmStart" : 1,
+      "hmmEnd" : 199,
+      "hmmLength" : 199,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-19,
+      "score" : 80.3,
+      "location-fragments" : [ {
+        "start" : 454,
+        "end" : 606,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-97,
+    "score" : 340.3,
+    "model-ac" : "SM00231"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1839,
+      "end" : 1955,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 1949,
+          "end" : 1949,
+          "residue" : "N"
+        }, {
+          "start" : 1939,
+          "end" : 1939,
+          "residue" : "R"
+        }, {
+          "start" : 1942,
+          "end" : 1942,
+          "residue" : "A"
+        }, {
+          "start" : 1931,
+          "end" : 1931,
+          "residue" : "N"
+        }, {
+          "start" : 1943,
+          "end" : 1943,
+          "residue" : "V"
+        }, {
+          "start" : 1929,
+          "end" : 1929,
+          "residue" : "Q"
+        }, {
+          "start" : 1947,
+          "end" : 1947,
+          "residue" : "L"
+        }, {
+          "start" : 1941,
+          "end" : 1941,
+          "residue" : "S"
+        }, {
+          "start" : 1944,
+          "end" : 1944,
+          "residue" : "D"
+        }, {
+          "start" : 1948,
+          "end" : 1948,
+          "residue" : "K"
+        }, {
+          "start" : 1925,
+          "end" : 1925,
+          "residue" : "Q"
+        } ]
+      } ],
+      "evalue" : 1.15913E-22,
+      "score" : 93.4533,
+      "location-fragments" : [ {
+        "start" : 1839,
+        "end" : 1955,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2070,
+      "end" : 2093,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M8I6M5I3M",
+      "alignment" : "CGemvagnrlWNDYSCsqqrgYIC",
+      "location-fragments" : [ {
+        "start" : 2070,
+        "end" : 2093,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "SSF82671",
+      "name" : "SEA domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036364",
+        "name" : "SEA_dom_sf",
+        "description" : "SEA domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2565,
+      "end" : 2680,
+      "hmmLength" : 132,
+      "location-fragments" : [ {
+        "start" : 2565,
+        "end" : 2680,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-10,
+    "model-ac" : "0047452"
+  }, {
+    "signature" : {
+      "accession" : "PTHR22803:SF133",
+      "name" : "WU:FA56D06",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1376,
+      "end" : 1542,
+      "hmmStart" : 234,
+      "hmmEnd" : 399,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1369,
+      "envelopeEnd" : 1544,
+      "location-fragments" : [ {
+        "start" : 1376,
+        "end" : 1542,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 558,
+      "end" : 610,
+      "hmmStart" : 715,
+      "hmmEnd" : 764,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 466,
+      "envelopeEnd" : 615,
+      "location-fragments" : [ {
+        "start" : 558,
+        "end" : 610,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1521,
+      "end" : 2276,
+      "hmmStart" : 232,
+      "hmmEnd" : 793,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1509,
+      "envelopeEnd" : 2277,
+      "location-fragments" : [ {
+        "start" : 1521,
+        "end" : 2276,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1142,
+      "end" : 1375,
+      "hmmStart" : 218,
+      "hmmEnd" : 377,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1136,
+      "envelopeEnd" : 1379,
+      "location-fragments" : [ {
+        "start" : 1142,
+        "end" : 1375,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2315,
+      "end" : 2423,
+      "hmmStart" : 694,
+      "hmmEnd" : 786,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2293,
+      "envelopeEnd" : 2439,
+      "location-fragments" : [ {
+        "start" : 2315,
+        "end" : 2423,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 312,
+      "end" : 466,
+      "hmmStart" : 1,
+      "hmmEnd" : 155,
+      "hmmLength" : 793,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 312,
+      "envelopeEnd" : 486,
+      "location-fragments" : [ {
+        "start" : 312,
+        "end" : 466,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 612,
+      "end" : 1125,
+      "hmmStart" : 141,
+      "hmmEnd" : 377,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 607,
+      "envelopeEnd" : 1138,
+      "location-fragments" : [ {
+        "start" : 612,
+        "end" : 1125,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 179,
+      "end" : 310,
+      "hmmStart" : 238,
+      "hmmEnd" : 365,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 178,
+      "envelopeEnd" : 311,
+      "location-fragments" : [ {
+        "start" : 179,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 25,
+      "end" : 256,
+      "hmmStart" : 237,
+      "hmmEnd" : 458,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 16,
+      "envelopeEnd" : 262,
+      "location-fragments" : [ {
+        "start" : 25,
+        "end" : 256,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 1940.4,
+    "model-ac" : "PTHR22803:SF133"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2254,
+      "end" : 2288,
+      "location-fragments" : [ {
+        "start" : 2254,
+        "end" : 2288,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 32,
+      "end" : 154,
+      "score" : 27.354,
+      "alignment" : "LGGSCYKFIVSsltvrGQSWENAENLCQSY--GGH-LASISDQSEQNFITGRIKQYTnEHFWVGFNDRANESSYNWTDGTaKPFYTNWRRGEPNNFQDNEDCTELLYqdGLWNDDDCSKEYSFICK",
+      "location-fragments" : [ {
+        "start" : 32,
+        "end" : 154,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1503,
+      "end" : 1523,
+      "location-fragments" : [ {
+        "start" : 1503,
+        "end" : 1523,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF00754",
+      "name" : "F5_F8_type_C",
+      "description" : "F5/8 type C domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 472,
+      "end" : 603,
+      "hmmStart" : 3,
+      "hmmEnd" : 127,
+      "hmmLength" : 127,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 3.5E-23,
+      "score" : 82.1,
+      "envelopeStart" : 471,
+      "envelopeEnd" : 603,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 472,
+        "end" : 603,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2262,
+      "end" : 2382,
+      "hmmStart" : 1,
+      "hmmEnd" : 121,
+      "hmmLength" : 127,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 5.0E-23,
+      "score" : 81.6,
+      "envelopeStart" : 2262,
+      "envelopeEnd" : 2388,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2262,
+        "end" : 2382,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2116,
+      "end" : 2236,
+      "hmmStart" : 3,
+      "hmmEnd" : 123,
+      "hmmLength" : 127,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 4.3E-24,
+      "score" : 85.0,
+      "envelopeStart" : 2114,
+      "envelopeEnd" : 2240,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2116,
+        "end" : 2236,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2411,
+      "end" : 2537,
+      "hmmStart" : 2,
+      "hmmEnd" : 127,
+      "hmmLength" : 127,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 4.2E-22,
+      "score" : 78.6,
+      "envelopeStart" : 2410,
+      "envelopeEnd" : 2537,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2411,
+        "end" : 2537,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.2E-100,
+    "score" : 330.0,
+    "model-ac" : "PF00754"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 718,
+      "end" : 741,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M8I6M5I3M",
+      "alignment" : "CVelvpsraaWRDVDCgqfrpFIC",
+      "location-fragments" : [ {
+        "start" : 718,
+        "end" : 741,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "PF13385",
+      "name" : "Laminin_G_3",
+      "description" : "Concanavalin A-like lectin/glucanases superfamily",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 824,
+      "end" : 971,
+      "hmmStart" : 13,
+      "hmmEnd" : 151,
+      "hmmLength" : 152,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.8E-11,
+      "score" : 42.3,
+      "envelopeStart" : 809,
+      "envelopeEnd" : 972,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 824,
+        "end" : 971,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.9E-11,
+    "score" : 43.0,
+    "model-ac" : "PF13385"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 989,
+      "end" : 1109,
+      "score" : 26.791,
+      "alignment" : "FGQFCYQFNMEKKSWSAARQQCQAN--GGD-LVSIQSPVEQAHITLEVGQFGvrEYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHephavGRWNDMPCYSGNSYICK",
+      "location-fragments" : [ {
+        "start" : 989,
+        "end" : 1109,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 188,
+      "end" : 307,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 284,
+          "end" : 284,
+          "residue" : "Y"
+        }, {
+          "start" : 294,
+          "end" : 294,
+          "residue" : "D"
+        }, {
+          "start" : 299,
+          "end" : 299,
+          "residue" : "T"
+        }, {
+          "start" : 293,
+          "end" : 293,
+          "residue" : "N"
+        }, {
+          "start" : 278,
+          "end" : 278,
+          "residue" : "E"
+        }, {
+          "start" : 296,
+          "end" : 296,
+          "residue" : "Y"
+        }, {
+          "start" : 295,
+          "end" : 295,
+          "residue" : "D"
+        }, {
+          "start" : 282,
+          "end" : 282,
+          "residue" : "S"
+        }, {
+          "start" : 300,
+          "end" : 300,
+          "residue" : "L"
+        }, {
+          "start" : 291,
+          "end" : 291,
+          "residue" : "F"
+        }, {
+          "start" : 301,
+          "end" : 301,
+          "residue" : "R"
+        } ]
+      } ],
+      "evalue" : 3.07659E-30,
+      "score" : 115.024,
+      "location-fragments" : [ {
+        "start" : 188,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1366,
+      "end" : 1503,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 1366,
+        "end" : 1503,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.12E-37,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1823,
+      "end" : 1958,
+      "hmmLength" : 143,
+      "location-fragments" : [ {
+        "start" : 1823,
+        "end" : 1958,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.21E-34,
+    "model-ac" : "0049565"
+  }, {
+    "signature" : {
+      "accession" : "SSF49785",
+      "name" : "Galactose-binding domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2247,
+      "end" : 2391,
+      "hmmLength" : 156,
+      "location-fragments" : [ {
+        "start" : 2247,
+        "end" : 2391,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.35E-37,
+    "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PTHR22803",
+      "name" : "MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "15.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 179,
+      "end" : 310,
+      "hmmStart" : 238,
+      "hmmEnd" : 365,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 178,
+      "envelopeEnd" : 311,
+      "location-fragments" : [ {
+        "start" : 179,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2315,
+      "end" : 2423,
+      "hmmStart" : 694,
+      "hmmEnd" : 786,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2293,
+      "envelopeEnd" : 2439,
+      "location-fragments" : [ {
+        "start" : 2315,
+        "end" : 2423,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 612,
+      "end" : 1125,
+      "hmmStart" : 141,
+      "hmmEnd" : 377,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 607,
+      "envelopeEnd" : 1138,
+      "location-fragments" : [ {
+        "start" : 612,
+        "end" : 1125,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1142,
+      "end" : 1375,
+      "hmmStart" : 218,
+      "hmmEnd" : 377,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1136,
+      "envelopeEnd" : 1379,
+      "location-fragments" : [ {
+        "start" : 1142,
+        "end" : 1375,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 558,
+      "end" : 610,
+      "hmmStart" : 715,
+      "hmmEnd" : 764,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 466,
+      "envelopeEnd" : 615,
+      "location-fragments" : [ {
+        "start" : 558,
+        "end" : 610,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1521,
+      "end" : 2276,
+      "hmmStart" : 232,
+      "hmmEnd" : 793,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1509,
+      "envelopeEnd" : 2277,
+      "location-fragments" : [ {
+        "start" : 1521,
+        "end" : 2276,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 25,
+      "end" : 256,
+      "hmmStart" : 237,
+      "hmmEnd" : 458,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 16,
+      "envelopeEnd" : 262,
+      "location-fragments" : [ {
+        "start" : 25,
+        "end" : 256,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 312,
+      "end" : 466,
+      "hmmStart" : 1,
+      "hmmEnd" : 155,
+      "hmmLength" : 793,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 312,
+      "envelopeEnd" : 486,
+      "location-fragments" : [ {
+        "start" : 312,
+        "end" : 466,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1376,
+      "end" : 1542,
+      "hmmStart" : 234,
+      "hmmEnd" : 399,
+      "hmmLength" : 793,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1369,
+      "envelopeEnd" : 1544,
+      "location-fragments" : [ {
+        "start" : 1376,
+        "end" : 1542,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "familyName" : "Not available",
+    "score" : 1940.4,
+    "model-ac" : "PTHR22803"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1235,
+      "end" : 1350,
+      "score" : 20.877,
+      "alignment" : "DGNVCYGLILDKKTWPDARDSCRAQ--GAE-LASIHTGWESALVTSLLVTSWdaGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMtvssrdwMYWVDSDCTE-------",
+      "location-fragments" : [ {
+        "start" : 1235,
+        "end" : 1350,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1390,
+      "end" : 1502,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 1496,
+          "end" : 1496,
+          "residue" : "R"
+        }, {
+          "start" : 1482,
+          "end" : 1482,
+          "residue" : "K"
+        }, {
+          "start" : 1475,
+          "end" : 1475,
+          "residue" : "Q"
+        }, {
+          "start" : 1494,
+          "end" : 1494,
+          "residue" : "A"
+        }, {
+          "start" : 1489,
+          "end" : 1489,
+          "residue" : "D"
+        }, {
+          "start" : 1495,
+          "end" : 1495,
+          "residue" : "T"
+        }, {
+          "start" : 1490,
+          "end" : 1490,
+          "residue" : "V"
+        }, {
+          "start" : 1488,
+          "end" : 1488,
+          "residue" : "G"
+        }, {
+          "start" : 1480,
+          "end" : 1480,
+          "residue" : "V"
+        }, {
+          "start" : 1491,
+          "end" : 1491,
+          "residue" : "G"
+        }, {
+          "start" : 1486,
+          "end" : 1486,
+          "residue" : "Y"
+        } ]
+      } ],
+      "evalue" : 7.72102E-24,
+      "score" : 96.5349,
+      "location-fragments" : [ {
+        "start" : 1390,
+        "end" : 1502,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 130,
+      "end" : 153,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M8I6M5I3M",
+      "alignment" : "CTellyqdglWNDDDCskeysFIC",
+      "location-fragments" : [ {
+        "start" : 130,
+        "end" : 153,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1535,
+      "end" : 1656,
+      "score" : 26.688,
+      "alignment" : "WGGLCYYFSNAttadLKTWMEARDFCRKSR--GD-LVSLRTANENAFVFSEIKTRYyyWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRfdGRWNDQNCNLKRTFVCR",
+      "location-fragments" : [ {
+        "start" : 1535,
+        "end" : 1656,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1376,
+      "end" : 1504,
+      "hmmStart" : 5,
+      "hmmEnd" : 149,
+      "hmmLength" : 157,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 7.1E-35,
+      "score" : 122.3,
+      "envelopeStart" : 1376,
+      "envelopeEnd" : 1504,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1376,
+        "end" : 1504,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1266.4,
+    "model-ac" : "3aluA00"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_C_REGION",
+      "name" : "Signal peptide C-region",
+      "description" : "C-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 22,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 22,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_C_REGION"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-TM",
+      "name" : "SignalP-TM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_GRAM_POSITIVE",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 22,
+      "score" : 0.499,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 22,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "GRAM_POSITIVE",
+    "model-ac" : "SignalP-TM"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1478,
+      "end" : 1500,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M7I6M5I3M",
+      "alignment" : "CVvlkstgyWGDVGCyatrpYMC",
+      "location-fragments" : [ {
+        "start" : 1478,
+        "end" : 1500,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "NON_CYTOPLASMIC_DOMAIN",
+      "name" : "Non cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 23,
+      "end" : 2705,
+      "location-fragments" : [ {
+        "start" : 23,
+        "end" : 2705,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "NON_CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "cd03590",
+      "name" : "CLECT_DC-SIGN_like",
+      "description" : "CLECT_DC-SIGN_like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR033989",
+        "name" : "CD209-like_CTLD",
+        "description" : "CD209-like, C-type lectin-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1970,
+      "end" : 2094,
+      "sites" : [ {
+        "description" : "carbohydrate binding site",
+        "numLocations" : 10,
+        "siteLocations" : [ {
+          "start" : 2075,
+          "end" : 2075,
+          "residue" : "A"
+        }, {
+          "start" : 2083,
+          "end" : 2083,
+          "residue" : "Y"
+        }, {
+          "start" : 2068,
+          "end" : 2068,
+          "residue" : "E"
+        }, {
+          "start" : 2060,
+          "end" : 2060,
+          "residue" : "E"
+        }, {
+          "start" : 2084,
+          "end" : 2084,
+          "residue" : "S"
+        }, {
+          "start" : 2074,
+          "end" : 2074,
+          "residue" : "V"
+        }, {
+          "start" : 2062,
+          "end" : 2062,
+          "residue" : "N"
+        }, {
+          "start" : 2081,
+          "end" : 2081,
+          "residue" : "N"
+        }, {
+          "start" : 2082,
+          "end" : 2082,
+          "residue" : "D"
+        }, {
+          "start" : 2029,
+          "end" : 2029,
+          "residue" : "S"
+        } ]
+      }, {
+        "description" : "calcium binding site 1",
+        "numLocations" : 5,
+        "siteLocations" : [ {
+          "start" : 2069,
+          "end" : 2069,
+          "residue" : "N"
+        }, {
+          "start" : 2068,
+          "end" : 2068,
+          "residue" : "E"
+        }, {
+          "start" : 2036,
+          "end" : 2036,
+          "residue" : "D"
+        }, {
+          "start" : 2063,
+          "end" : 2063,
+          "residue" : "D"
+        }, {
+          "start" : 2040,
+          "end" : 2040,
+          "residue" : "E"
+        } ]
+      }, {
+        "description" : "calcium binding site 3",
+        "numLocations" : 2,
+        "siteLocations" : [ {
+          "start" : 2069,
+          "end" : 2069,
+          "residue" : "N"
+        }, {
+          "start" : 2040,
+          "end" : 2040,
+          "residue" : "E"
+        } ]
+      } ],
+      "evalue" : 6.48428E-34,
+      "score" : 125.88,
+      "location-fragments" : [ {
+        "start" : 1970,
+        "end" : 2094,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03590"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.200",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 775,
+      "end" : 976,
+      "hmmStart" : 59,
+      "hmmEnd" : 243,
+      "hmmLength" : 246,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.6E-19,
+      "score" : 71.6,
+      "envelopeStart" : 775,
+      "envelopeEnd" : 977,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 775,
+        "end" : 976,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.6E-19,
+    "score" : 71.6,
+    "model-ac" : "1a8dA01"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_H_REGION",
+      "name" : "Signal peptide H-region",
+      "description" : "Hydrophobic region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 17,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 17,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_H_REGION"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1820,
+      "end" : 1956,
+      "hmmStart" : 26,
+      "hmmEnd" : 151,
+      "hmmLength" : 155,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 5.0E-31,
+      "score" : 109.4,
+      "envelopeStart" : 1820,
+      "envelopeEnd" : 1957,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1820,
+        "end" : 1956,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 311,
+      "end" : 449,
+      "hmmStart" : 25,
+      "hmmEnd" : 151,
+      "hmmLength" : 155,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.1E-35,
+      "score" : 123.6,
+      "envelopeStart" : 308,
+      "envelopeEnd" : 450,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 311,
+        "end" : 449,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 16,
+      "end" : 156,
+      "hmmStart" : 25,
+      "hmmEnd" : 150,
+      "hmmLength" : 155,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.6E-40,
+      "score" : 139.5,
+      "envelopeStart" : 16,
+      "envelopeEnd" : 156,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 16,
+        "end" : 156,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1303.4,
+    "model-ac" : "4yliE00"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 22,
+      "score" : 0.786,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 22,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "GRAM_NEGATIVE",
+    "model-ac" : "SignalP-noTM"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.260",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2246,
+      "end" : 2393,
+      "hmmStart" : 17,
+      "hmmEnd" : 174,
+      "hmmLength" : 178,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.3E-42,
+      "score" : 146.6,
+      "envelopeStart" : 2244,
+      "envelopeEnd" : 2394,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2246,
+        "end" : 2393,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 612.1,
+    "model-ac" : "2wuhA00"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1690,
+      "end" : 1810,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 1798,
+          "end" : 1798,
+          "residue" : "V"
+        }, {
+          "start" : 1787,
+          "end" : 1787,
+          "residue" : "S"
+        }, {
+          "start" : 1785,
+          "end" : 1785,
+          "residue" : "G"
+        }, {
+          "start" : 1804,
+          "end" : 1804,
+          "residue" : "F"
+        }, {
+          "start" : 1799,
+          "end" : 1799,
+          "residue" : "E"
+        }, {
+          "start" : 1800,
+          "end" : 1800,
+          "residue" : "V"
+        }, {
+          "start" : 1797,
+          "end" : 1797,
+          "residue" : "D"
+        }, {
+          "start" : 1803,
+          "end" : 1803,
+          "residue" : "G"
+        }, {
+          "start" : 1781,
+          "end" : 1781,
+          "residue" : "A"
+        }, {
+          "start" : 1795,
+          "end" : 1795,
+          "residue" : "E"
+        }, {
+          "start" : 1805,
+          "end" : 1805,
+          "residue" : "Q"
+        } ]
+      } ],
+      "evalue" : 1.41427E-25,
+      "score" : 101.542,
+      "location-fragments" : [ {
+        "start" : 1690,
+        "end" : 1810,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "PS50024",
+      "name" : "SEA",
+      "description" : "SEA domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000082",
+        "name" : "SEA_dom",
+        "description" : "SEA domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2570,
+      "end" : 2684,
+      "score" : 17.962,
+      "alignment" : "PYVVYRAKIRLTATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDtdSLAFKEVAVNSFR--RGSVIADFNVTFITDLAEG-ANVTGKLRAAVRSGK-VGELQVDPDYFYITKVVS",
+      "location-fragments" : [ {
+        "start" : 2570,
+        "end" : 2684,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50024"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 154,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 141,
+          "end" : 141,
+          "residue" : "N"
+        }, {
+          "start" : 142,
+          "end" : 142,
+          "residue" : "D"
+        }, {
+          "start" : 149,
+          "end" : 149,
+          "residue" : "Y"
+        }, {
+          "start" : 148,
+          "end" : 148,
+          "residue" : "E"
+        }, {
+          "start" : 132,
+          "end" : 132,
+          "residue" : "E"
+        }, {
+          "start" : 134,
+          "end" : 134,
+          "residue" : "L"
+        }, {
+          "start" : 143,
+          "end" : 143,
+          "residue" : "D"
+        }, {
+          "start" : 139,
+          "end" : 139,
+          "residue" : "L"
+        }, {
+          "start" : 147,
+          "end" : 147,
+          "residue" : "K"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "D"
+        }, {
+          "start" : 128,
+          "end" : 128,
+          "residue" : "E"
+        } ]
+      } ],
+      "evalue" : 2.90501E-34,
+      "score" : 126.58,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 154,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "PS01285",
+      "name" : "FA58C_1",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2433,
+      "end" : 2462,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M9I2M1I2M6I1M2I1M1I3M",
+      "alignment" : "GWcaatsdkdqYLtINlnrpmrVrqIaTQG",
+      "location-fragments" : [ {
+        "start" : 2433,
+        "end" : 2462,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01285"
+  }, {
+    "signature" : {
+      "accession" : "cd00057",
+      "name" : "FA58C",
+      "description" : "FA58C",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2102,
+      "end" : 2242,
+      "sites" : [ {
+        "description" : "sugar binding site",
+        "numLocations" : 3,
+        "siteLocations" : [ {
+          "start" : 2165,
+          "end" : 2165,
+          "residue" : "L"
+        }, {
+          "start" : 2172,
+          "end" : 2172,
+          "residue" : "S"
+        }, {
+          "start" : 2138,
+          "end" : 2138,
+          "residue" : "C"
+        } ]
+      } ],
+      "evalue" : 2.40126E-36,
+      "score" : 133.246,
+      "location-fragments" : [ {
+        "start" : 2102,
+        "end" : 2242,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00057"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1223,
+      "end" : 1366,
+      "hmmStart" : 4,
+      "hmmEnd" : 138,
+      "hmmLength" : 147,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-32,
+      "score" : 114.4,
+      "envelopeStart" : 1223,
+      "envelopeEnd" : 1366,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1223,
+        "end" : 1366,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 613,
+      "end" : 752,
+      "hmmStart" : 4,
+      "hmmEnd" : 139,
+      "hmmLength" : 147,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.5E-31,
+      "score" : 111.2,
+      "envelopeStart" : 612,
+      "envelopeEnd" : 752,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 613,
+        "end" : 752,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1211.4,
+    "model-ac" : "1eggA00"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 312,
+      "end" : 449,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 312,
+        "end" : 449,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.62E-35,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 591,
+      "end" : 745,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 591,
+        "end" : 745,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.62E-32,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 980,
+      "end" : 1113,
+      "hmmLength" : 143,
+      "location-fragments" : [ {
+        "start" : 980,
+        "end" : 1113,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.76E-41,
+    "model-ac" : "0049565"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 627,
+      "end" : 743,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 10,
+        "siteLocations" : [ {
+          "start" : 732,
+          "end" : 732,
+          "residue" : "D"
+        }, {
+          "start" : 737,
+          "end" : 737,
+          "residue" : "R"
+        }, {
+          "start" : 729,
+          "end" : 729,
+          "residue" : "R"
+        }, {
+          "start" : 730,
+          "end" : 730,
+          "residue" : "D"
+        }, {
+          "start" : 722,
+          "end" : 722,
+          "residue" : "V"
+        }, {
+          "start" : 716,
+          "end" : 716,
+          "residue" : "R"
+        }, {
+          "start" : 735,
+          "end" : 735,
+          "residue" : "Q"
+        }, {
+          "start" : 720,
+          "end" : 720,
+          "residue" : "E"
+        }, {
+          "start" : 736,
+          "end" : 736,
+          "residue" : "F"
+        }, {
+          "start" : 731,
+          "end" : 731,
+          "residue" : "V"
+        } ]
+      } ],
+      "evalue" : 1.40568E-21,
+      "score" : 90.3717,
+      "location-fragments" : [ {
+        "start" : 627,
+        "end" : 743,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "cd00057",
+      "name" : "FA58C",
+      "description" : "FA58C",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2397,
+      "end" : 2539,
+      "sites" : [ ],
+      "evalue" : 5.05246E-31,
+      "score" : 118.224,
+      "location-fragments" : [ {
+        "start" : 2397,
+        "end" : 2539,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00057"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE_N_REGION",
+      "name" : "Signal peptide N-region",
+      "description" : "N-terminal region of a signal peptide.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 1,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 1,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE_N_REGION"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1239,
+      "end" : 1359,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 1350,
+          "end" : 1350,
+          "residue" : "E"
+        }, {
+          "start" : 1347,
+          "end" : 1347,
+          "residue" : "D"
+        }, {
+          "start" : 1353,
+          "end" : 1353,
+          "residue" : "H"
+        }, {
+          "start" : 1334,
+          "end" : 1334,
+          "residue" : "T"
+        }, {
+          "start" : 1345,
+          "end" : 1345,
+          "residue" : "D"
+        }, {
+          "start" : 1346,
+          "end" : 1346,
+          "residue" : "S"
+        }, {
+          "start" : 1344,
+          "end" : 1344,
+          "residue" : "V"
+        }, {
+          "start" : 1342,
+          "end" : 1342,
+          "residue" : "Y"
+        }, {
+          "start" : 1326,
+          "end" : 1326,
+          "residue" : "G"
+        }, {
+          "start" : 1352,
+          "end" : 1352,
+          "residue" : "S"
+        }, {
+          "start" : 1336,
+          "end" : 1336,
+          "residue" : "S"
+        } ]
+      } ],
+      "evalue" : 4.67622E-26,
+      "score" : 103.083,
+      "location-fragments" : [ {
+        "start" : 1239,
+        "end" : 1359,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "CYTOPLASMIC_DOMAIN",
+      "name" : "Cytoplasmic domain",
+      "description" : "Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2729,
+      "end" : 2758,
+      "location-fragments" : [ {
+        "start" : 2729,
+        "end" : 2758,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "CYTOPLASMIC_DOMAIN"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1516,
+      "end" : 1659,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 1516,
+        "end" : 1659,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.16E-41,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "PS01285",
+      "name" : "FA58C_1",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 498,
+      "end" : 527,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M9I2M1I2M6I1M2I1M1I3M",
+      "alignment" : "AWcsakntlgeYLqVDlglrrqVthIaIQG",
+      "location-fragments" : [ {
+        "start" : 498,
+        "end" : 527,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01285"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.740",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR043159",
+        "name" : "Lectin_gal-bd_sf",
+        "description" : "D-galactoside/L-rhamnose binding SUEL lectin domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1120,
+      "end" : 1222,
+      "hmmStart" : 8,
+      "hmmEnd" : 105,
+      "hmmLength" : 112,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.2E-21,
+      "score" : 77.1,
+      "envelopeStart" : 1120,
+      "envelopeEnd" : 1222,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1120,
+        "end" : 1222,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.4E-21,
+    "score" : 77.9,
+    "model-ac" : "5afbA01"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.260",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2394,
+      "end" : 2541,
+      "hmmStart" : 8,
+      "hmmEnd" : 158,
+      "hmmLength" : 161,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 7.3E-45,
+      "score" : 154.8,
+      "envelopeStart" : 2392,
+      "envelopeEnd" : 2541,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2394,
+        "end" : 2541,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 604.3,
+    "model-ac" : "5c7gA00"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 166,
+      "end" : 309,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 166,
+        "end" : 309,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.3E-40,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "cd00057",
+      "name" : "FA58C",
+      "description" : "FA58C",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2249,
+      "end" : 2390,
+      "sites" : [ ],
+      "evalue" : 3.17345E-31,
+      "score" : 118.609,
+      "location-fragments" : [ {
+        "start" : 2249,
+        "end" : 2390,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00057"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1632,
+      "end" : 1655,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M8I6M5I3M",
+      "alignment" : "CGemsrfdgrWNDQNCnlkrtFVC",
+      "location-fragments" : [ {
+        "start" : 1632,
+        "end" : 1655,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1957,
+      "end" : 2098,
+      "hmmStart" : 48,
+      "hmmEnd" : 177,
+      "hmmLength" : 184,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.7E-44,
+      "score" : 151.3,
+      "envelopeStart" : 1955,
+      "envelopeEnd" : 2100,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1957,
+        "end" : 2098,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1513,
+      "end" : 1662,
+      "hmmStart" : 48,
+      "hmmEnd" : 177,
+      "hmmLength" : 184,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.0E-39,
+      "score" : 136.9,
+      "envelopeStart" : 1513,
+      "envelopeEnd" : 1662,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1513,
+        "end" : 1662,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1288.5,
+    "model-ac" : "1sl6A00"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 13,
+      "end" : 156,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 13,
+        "end" : 156,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.25E-39,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "PS50022",
+      "name" : "FA58C_3",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2395,
+      "end" : 2540,
+      "score" : 33.051,
+      "alignment" : "CLEPQ-GLEQGTIEDSWIEASSELDGDHGAAMARLN---APYGWCAATSDKDQYLTINLNRPMRVRQIATQGSPDG--TGYVKSFALVFKREDTKWKNIQDfdnSIKTFTANTDGSTVVTTTFPKAVRGQYFRLKP-LTWSRNICIRVELYGC",
+      "location-fragments" : [ {
+        "start" : 2395,
+        "end" : 2540,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50022"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1836,
+      "end" : 1954,
+      "score" : 22.362,
+      "alignment" : "YGESCYLMYYNKLNWKEAGEVCQKD--GAQ-LISIHGVKEQAYMIKNLKDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNsitsnGRWSAVDCGLKNSFMCK",
+      "location-fragments" : [ {
+        "start" : 1836,
+        "end" : 1954,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "PF02140",
+      "name" : "Gal_Lectin",
+      "description" : "Galactose binding lectin domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR000922",
+        "name" : "Lectin_gal-bd_dom",
+        "description" : "D-galactoside/L-rhamnose binding SUEL lectin domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "carbohydrate binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0030246"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1140,
+      "end" : 1216,
+      "hmmStart" : 1,
+      "hmmEnd" : 79,
+      "hmmLength" : 79,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.0E-16,
+      "score" : 59.5,
+      "envelopeStart" : 1140,
+      "envelopeEnd" : 1216,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1140,
+        "end" : 1216,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.4E-17,
+    "score" : 61.7,
+    "model-ac" : "PF02140"
+  }, {
+    "signature" : {
+      "accession" : "SIGNAL_PEPTIDE",
+      "name" : "Signal Peptide",
+      "description" : "Signal peptide region",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 22,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 22,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "SIGNAL_PEPTIDE"
+  }, {
+    "signature" : {
+      "accession" : "SSF49785",
+      "name" : "Galactose-binding domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 455,
+      "end" : 606,
+      "hmmLength" : 156,
+      "location-fragments" : [ {
+        "start" : 455,
+        "end" : 606,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.69E-39,
+    "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PR01504",
+      "name" : "PNCREATITSAP",
+      "description" : "Pancreatitis-associated protein signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1964,
+      "end" : 1982,
+      "pvalue" : 0.0101,
+      "score" : 30.18,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 1964,
+        "end" : 1982,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2015,
+      "end" : 2037,
+      "pvalue" : 0.00174,
+      "score" : 33.04,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 2015,
+        "end" : 2037,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2043,
+      "end" : 2061,
+      "pvalue" : 1.52E-4,
+      "score" : 36.14,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 2043,
+        "end" : 2061,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2082,
+      "end" : 2096,
+      "pvalue" : 6.78E-4,
+      "score" : 37.78,
+      "motifNumber" : 6,
+      "location-fragments" : [ {
+        "start" : 2082,
+        "end" : 2096,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-6,
+    "graphscan" : "I.II.I",
+    "model-ac" : "PR01504"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1222,
+      "end" : 1366,
+      "hmmLength" : 143,
+      "location-fragments" : [ {
+        "start" : 1222,
+        "end" : 1366,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.19E-34,
+    "model-ac" : "0049565"
+  }, {
+    "signature" : {
+      "accession" : "cd03590",
+      "name" : "CLECT_DC-SIGN_like",
+      "description" : "CLECT_DC-SIGN_like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR033989",
+        "name" : "CD209-like_CTLD",
+        "description" : "CD209-like, C-type lectin-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1528,
+      "end" : 1657,
+      "sites" : [ {
+        "description" : "calcium binding site 1",
+        "numLocations" : 5,
+        "siteLocations" : [ {
+          "start" : 1630,
+          "end" : 1630,
+          "residue" : "E"
+        }, {
+          "start" : 1598,
+          "end" : 1598,
+          "residue" : "D"
+        }, {
+          "start" : 1602,
+          "end" : 1602,
+          "residue" : "E"
+        }, {
+          "start" : 1631,
+          "end" : 1631,
+          "residue" : "D"
+        }, {
+          "start" : 1625,
+          "end" : 1625,
+          "residue" : "N"
+        } ]
+      }, {
+        "description" : "calcium binding site 3",
+        "numLocations" : 2,
+        "siteLocations" : [ {
+          "start" : 1602,
+          "end" : 1602,
+          "residue" : "E"
+        }, {
+          "start" : 1631,
+          "end" : 1631,
+          "residue" : "D"
+        } ]
+      }, {
+        "description" : "carbohydrate binding site",
+        "numLocations" : 10,
+        "siteLocations" : [ {
+          "start" : 1630,
+          "end" : 1630,
+          "residue" : "E"
+        }, {
+          "start" : 1622,
+          "end" : 1622,
+          "residue" : "E"
+        }, {
+          "start" : 1588,
+          "end" : 1588,
+          "residue" : "Y"
+        }, {
+          "start" : 1624,
+          "end" : 1624,
+          "residue" : "N"
+        }, {
+          "start" : 1643,
+          "end" : 1643,
+          "residue" : "N"
+        }, {
+          "start" : 1636,
+          "end" : 1636,
+          "residue" : "S"
+        }, {
+          "start" : 1644,
+          "end" : 1644,
+          "residue" : "D"
+        }, {
+          "start" : 1646,
+          "end" : 1646,
+          "residue" : "N"
+        }, {
+          "start" : 1637,
+          "end" : 1637,
+          "residue" : "R"
+        }, {
+          "start" : 1645,
+          "end" : 1645,
+          "residue" : "Q"
+        } ]
+      } ],
+      "evalue" : 4.15823E-32,
+      "score" : 120.487,
+      "location-fragments" : [ {
+        "start" : 1528,
+        "end" : 1657,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03590"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 280,
+      "end" : 305,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M10I6M5I3M",
+      "alignment" : "CIsmysgslggfWNDDYCdtlraYVC",
+      "location-fragments" : [ {
+        "start" : 280,
+        "end" : 305,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 321,
+      "end" : 447,
+      "score" : 25.92,
+      "alignment" : "YKDSCYHFNTHqaqLVTWEKAYNVCQAAMPGSD-LLSILEKDEQQFIEQVLSDRKsGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKyGSDSRDCVSLIPwtpfgsGDWGTVSCTTTNAYVCK",
+      "location-fragments" : [ {
+        "start" : 321,
+        "end" : 447,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "PS50228",
+      "name" : "SUEL_LECTIN",
+      "description" : "SUEL-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000922",
+        "name" : "Lectin_gal-bd_dom",
+        "description" : "D-galactoside/L-rhamnose binding SUEL lectin domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ {
+          "name" : "carbohydrate binding",
+          "databaseName" : "GO",
+          "category" : "MOLECULAR_FUNCTION",
+          "id" : "GO:0030246"
+        } ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1132,
+      "end" : 1217,
+      "score" : 13.033,
+      "alignment" : "ICEFSSAILSCPASTTITIQSANFGRtSSAPCGLISVTNCVNN-VTDRMKDLCEGKNFCSVRPVTGLFGNDPCPSVTKYLETTYTCT",
+      "location-fragments" : [ {
+        "start" : 1132,
+        "end" : 1217,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50228"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.260",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 450,
+      "end" : 612,
+      "hmmStart" : 7,
+      "hmmEnd" : 165,
+      "hmmLength" : 173,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 3.6E-45,
+      "score" : 155.7,
+      "envelopeStart" : 449,
+      "envelopeEnd" : 612,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 450,
+        "end" : 612,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 605.8,
+    "model-ac" : "2z4fA00"
+  }, {
+    "signature" : {
+      "accession" : "SSF49899",
+      "name" : "Concanavalin A-like lectins/glucanases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR013320",
+        "name" : "ConA-like_dom_sf",
+        "description" : "Concanavalin A-like lectin/glucanase domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 802,
+      "end" : 977,
+      "hmmLength" : 196,
+      "location-fragments" : [ {
+        "start" : 802,
+        "end" : 977,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.58E-21,
+    "model-ac" : "0053302"
+  }, {
+    "signature" : {
+      "accession" : "PF01390",
+      "name" : "SEA",
+      "description" : "SEA domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR000082",
+        "name" : "SEA_dom",
+        "description" : "SEA domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2573,
+      "end" : 2657,
+      "hmmStart" : 2,
+      "hmmEnd" : 87,
+      "hmmLength" : 106,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.2E-12,
+      "score" : 47.9,
+      "envelopeStart" : 2572,
+      "envelopeEnd" : 2673,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2573,
+        "end" : 2657,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.3E-13,
+    "score" : 49.1,
+    "model-ac" : "PF01390"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "2.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2255,
+      "end" : 2276,
+      "location-fragments" : [ {
+        "start" : 2255,
+        "end" : 2276,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polar"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "cd00057",
+      "name" : "FA58C",
+      "description" : "FA58C",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 458,
+      "end" : 605,
+      "sites" : [ {
+        "description" : "sugar binding site",
+        "numLocations" : 3,
+        "siteLocations" : [ {
+          "start" : 528,
+          "end" : 528,
+          "residue" : "R"
+        }, {
+          "start" : 500,
+          "end" : 500,
+          "residue" : "C"
+        }, {
+          "start" : 533,
+          "end" : 533,
+          "residue" : "D"
+        } ]
+      } ],
+      "evalue" : 2.12592E-32,
+      "score" : 122.076,
+      "location-fragments" : [ {
+        "start" : 458,
+        "end" : 605,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00057"
+  }, {
+    "signature" : {
+      "accession" : "TMhelix",
+      "name" : null,
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "TMHMM",
+        "version" : "2.0c"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2706,
+      "end" : 2728,
+      "prediction" : null,
+      "score" : -1.0,
+      "location-fragments" : [ {
+        "start" : 2706,
+        "end" : 2728,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TMhelix"
+  }, {
+    "signature" : {
+      "accession" : "cd00037",
+      "name" : "CLECT",
+      "description" : "CLECT",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.17"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 324,
+      "end" : 448,
+      "sites" : [ {
+        "description" : "ligand binding surface",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 442,
+          "end" : 442,
+          "residue" : "N"
+        }, {
+          "start" : 423,
+          "end" : 423,
+          "residue" : "I"
+        }, {
+          "start" : 435,
+          "end" : 435,
+          "residue" : "T"
+        }, {
+          "start" : 441,
+          "end" : 441,
+          "residue" : "T"
+        }, {
+          "start" : 436,
+          "end" : 436,
+          "residue" : "V"
+        }, {
+          "start" : 434,
+          "end" : 434,
+          "residue" : "G"
+        }, {
+          "start" : 415,
+          "end" : 415,
+          "residue" : "D"
+        }, {
+          "start" : 437,
+          "end" : 437,
+          "residue" : "S"
+        }, {
+          "start" : 432,
+          "end" : 432,
+          "residue" : "D"
+        }, {
+          "start" : 421,
+          "end" : 421,
+          "residue" : "S"
+        }, {
+          "start" : 440,
+          "end" : 440,
+          "residue" : "T"
+        } ]
+      } ],
+      "evalue" : 1.08817E-25,
+      "score" : 101.928,
+      "location-fragments" : [ {
+        "start" : 324,
+        "end" : 448,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00037"
+  }, {
+    "signature" : {
+      "accession" : "PF00059",
+      "name" : "Lectin_C",
+      "description" : "Lectin C-type domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "33.1"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 999,
+      "end" : 1109,
+      "hmmStart" : 1,
+      "hmmEnd" : 107,
+      "hmmLength" : 108,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 4.4E-22,
+      "score" : 78.9,
+      "envelopeStart" : 999,
+      "envelopeEnd" : 1110,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 999,
+        "end" : 1109,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 635,
+      "end" : 743,
+      "hmmStart" : 2,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 6.6E-18,
+      "score" : 65.4,
+      "envelopeStart" : 634,
+      "envelopeEnd" : 743,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 635,
+        "end" : 743,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1699,
+      "end" : 1811,
+      "hmmStart" : 2,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.2E-15,
+      "score" : 58.2,
+      "envelopeStart" : 1698,
+      "envelopeEnd" : 1811,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1699,
+        "end" : 1811,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 196,
+      "end" : 307,
+      "hmmStart" : 2,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 2.0E-19,
+      "score" : 70.3,
+      "envelopeStart" : 195,
+      "envelopeEnd" : 307,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 196,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1992,
+      "end" : 2094,
+      "hmmStart" : 4,
+      "hmmEnd" : 107,
+      "hmmLength" : 108,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 4.3E-24,
+      "score" : 85.3,
+      "envelopeStart" : 1990,
+      "envelopeEnd" : 2095,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1992,
+        "end" : 2094,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 336,
+      "end" : 448,
+      "hmmStart" : 3,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.7E-19,
+      "score" : 68.9,
+      "envelopeStart" : 334,
+      "envelopeEnd" : 448,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 336,
+        "end" : 448,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1397,
+      "end" : 1502,
+      "hmmStart" : 2,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.4E-15,
+      "score" : 57.9,
+      "envelopeStart" : 1396,
+      "envelopeEnd" : 1502,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1397,
+        "end" : 1502,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 49,
+      "end" : 155,
+      "hmmStart" : 3,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 2.6E-23,
+      "score" : 82.8,
+      "envelopeStart" : 47,
+      "envelopeEnd" : 155,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 49,
+        "end" : 155,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1847,
+      "end" : 1954,
+      "hmmStart" : 2,
+      "hmmEnd" : 107,
+      "hmmLength" : 108,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 3.5E-14,
+      "score" : 53.4,
+      "envelopeStart" : 1846,
+      "envelopeEnd" : 1955,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1847,
+        "end" : 1954,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1246,
+      "end" : 1359,
+      "hmmStart" : 2,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.4E-15,
+      "score" : 58.0,
+      "envelopeStart" : 1245,
+      "envelopeEnd" : 1359,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1246,
+        "end" : 1359,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1551,
+      "end" : 1657,
+      "hmmStart" : 3,
+      "hmmEnd" : 108,
+      "hmmLength" : 108,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.2E-22,
+      "score" : 80.7,
+      "envelopeStart" : 1549,
+      "envelopeEnd" : 1657,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1551,
+        "end" : 1657,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 711.3,
+    "model-ac" : "PF00059"
+  }, {
+    "signature" : {
+      "accession" : "TRANSMEMBRANE",
+      "name" : "Transmembrane region",
+      "description" : "Region of a membrane-bound protein predicted to be embedded in the membrane.",
+      "signatureLibraryRelease" : {
+        "library" : "PHOBIUS",
+        "version" : "1.01"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2706,
+      "end" : 2728,
+      "location-fragments" : [ {
+        "start" : 2706,
+        "end" : 2728,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "TRANSMEMBRANE"
+  }, {
+    "signature" : {
+      "accession" : "SignalP-noTM",
+      "name" : "SignalP-noTM",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SIGNALP_EUK",
+        "version" : "4.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 22,
+      "score" : 0.869,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 22,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "orgType" : "EUK",
+    "model-ac" : "SignalP-noTM"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1963,
+      "end" : 2097,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 1963,
+        "end" : 2097,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.19E-43,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SSF49785",
+      "name" : "Galactose-binding domain-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2395,
+      "end" : 2540,
+      "hmmLength" : 156,
+      "location-fragments" : [ {
+        "start" : 2395,
+        "end" : 2540,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.21E-40,
+    "model-ac" : "0054621"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1687,
+      "end" : 1810,
+      "score" : 24.167,
+      "alignment" : "YDKSCYKFVFDqRQNWVNAESVCSQGlnsTNSGH-LVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKP-GWSYWADCVGMSTsssslGEWDVEVCSGFQGYVCE",
+      "location-fragments" : [ {
+        "start" : 1687,
+        "end" : 1810,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.60.120.260",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR008979",
+        "name" : "Galactose-bd-like_sf",
+        "description" : "Galactose-binding-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2099,
+      "end" : 2245,
+      "hmmStart" : 4,
+      "hmmEnd" : 159,
+      "hmmLength" : 169,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.4E-46,
+      "score" : 158.1,
+      "envelopeStart" : 2096,
+      "envelopeEnd" : 2246,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2099,
+        "end" : 2245,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 611.1,
+    "model-ac" : "4pt6A00"
+  }, {
+    "signature" : {
+      "accession" : "PS50022",
+      "name" : "FA58C_3",
+      "description" : "Coagulation factors 5/8 type C domain (FA58C) profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR000421",
+        "name" : "FA58C",
+        "description" : "Coagulation factor 5/8 C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2247,
+      "end" : 2391,
+      "score" : 37.311,
+      "alignment" : "CESPR-GMSSGKMNDDQITASSSNSDARTPPQAKLA----GNGWCPKTSDPQPWIQLTYKDEKRLTKVVTWGGGSSG--GYVSKYRLAYSDDGVAWIDYTEkgVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLPVAGSPDGKCLRFDFYGC",
+      "location-fragments" : [ {
+        "start" : 2247,
+        "end" : 2391,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50022"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1669,
+      "end" : 1814,
+      "hmmStart" : 21,
+      "hmmEnd" : 150,
+      "hmmLength" : 156,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.3E-32,
+      "score" : 113.3,
+      "envelopeStart" : 1669,
+      "envelopeEnd" : 1814,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1669,
+        "end" : 1814,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1290.5,
+    "model-ac" : "3whdA00"
+  }, {
+    "signature" : {
+      "accession" : "PS00615",
+      "name" : "C_TYPE_LECTIN_1",
+      "description" : "C-type lectin domain signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR018378",
+        "name" : "C-type_lectin_CS",
+        "description" : "C-type lectin, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1082,
+      "end" : 1108,
+      "level" : "STRONG",
+      "cigarAlignment" : "2M11I6M5I3M",
+      "alignment" : "CAhtyhephavgrWNDMPCysgnsYIC",
+      "location-fragments" : [ {
+        "start" : 1082,
+        "end" : 1108,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00615"
+  }, {
+    "signature" : {
+      "accession" : "PS50041",
+      "name" : "C_TYPE_LECTIN_2",
+      "description" : "C-type lectin domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2019_11"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 185,
+      "end" : 306,
+      "score" : 25.511,
+      "alignment" : "YGASCYKFSTSSKTWLIAQQDCHQS--GGY-LVKVDNSDEQHFLSYMMKTVMkQAAWIGLNDRAIEGTYVWEGDNtklGQNYSHWYSGEPNDHASVEDCISMYSgslgGFWNDDYCDTLRAYVCE",
+      "location-fragments" : [ {
+        "start" : 185,
+        "end" : 306,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50041"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1667,
+      "end" : 1813,
+      "hmmLength" : 179,
+      "location-fragments" : [ {
+        "start" : 1667,
+        "end" : 1813,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.71E-33,
+    "model-ac" : "0049420"
+  }, {
+    "signature" : {
+      "accession" : "SM00034",
+      "name" : "CLECT_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "7.1"
+      },
+      "entry" : {
+        "accession" : "IPR001304",
+        "name" : "C-type_lectin-like",
+        "description" : "C-type lectin-like",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 615,
+      "end" : 742,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.1E-27,
+      "score" : 108.0,
+      "location-fragments" : [ {
+        "start" : 615,
+        "end" : 742,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1680,
+      "end" : 1810,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.6E-23,
+      "score" : 94.1,
+      "location-fragments" : [ {
+        "start" : 1680,
+        "end" : 1810,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 178,
+      "end" : 306,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.0E-32,
+      "score" : 123.7,
+      "location-fragments" : [ {
+        "start" : 178,
+        "end" : 306,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1829,
+      "end" : 1954,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.4E-29,
+      "score" : 112.6,
+      "location-fragments" : [ {
+        "start" : 1829,
+        "end" : 1954,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 982,
+      "end" : 1109,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.1E-33,
+      "score" : 128.0,
+      "location-fragments" : [ {
+        "start" : 982,
+        "end" : 1109,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 314,
+      "end" : 447,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.1E-32,
+      "score" : 124.5,
+      "location-fragments" : [ {
+        "start" : 314,
+        "end" : 447,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1970,
+      "end" : 2094,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.6E-38,
+      "score" : 144.0,
+      "location-fragments" : [ {
+        "start" : 1970,
+        "end" : 2094,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1226,
+      "end" : 1358,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.1E-30,
+      "score" : 116.4,
+      "location-fragments" : [ {
+        "start" : 1226,
+        "end" : 1358,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1528,
+      "end" : 1656,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 8.6E-34,
+      "score" : 128.3,
+      "location-fragments" : [ {
+        "start" : 1528,
+        "end" : 1656,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 1379,
+      "end" : 1501,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.4E-33,
+      "score" : 126.8,
+      "location-fragments" : [ {
+        "start" : 1379,
+        "end" : 1501,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 25,
+      "end" : 154,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 8.9E-36,
+      "score" : 134.9,
+      "location-fragments" : [ {
+        "start" : 25,
+        "end" : 154,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1341.2,
+    "model-ac" : "SM00034"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.10.100.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.2.0"
+      },
+      "entry" : {
+        "accession" : "IPR016186",
+        "name" : "C-type_lectin-like/link_sf",
+        "description" : "C-type lectin-like/link domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 174,
+      "end" : 310,
+      "hmmStart" : 7,
+      "hmmEnd" : 135,
+      "hmmLength" : 147,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.0E-39,
+      "score" : 136.1,
+      "envelopeStart" : 174,
+      "envelopeEnd" : 313,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 174,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 977,
+      "end" : 1116,
+      "hmmStart" : 7,
+      "hmmEnd" : 135,
+      "hmmLength" : 147,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 2.1E-41,
+      "score" : 143.0,
+      "envelopeStart" : 976,
+      "envelopeEnd" : 1116,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 977,
+        "end" : 1116,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1292.6,
+    "model-ac" : "3wh2A00"
+  } ],
+  "xref" : [ {
+    "name" : "Nematostella_Vectensis_XP_032222765.1",
+    "id" : "Nematostella_Vectensis_XP_032222765.1"
+  } ]
+} ]
+}

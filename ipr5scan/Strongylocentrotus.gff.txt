@@ -5,8 +5,8 @@
 Strongylocentrotus	.	polypeptide	1	1349	.	+	.	ID=Strongylocentrotus;md5=69d9b6f8b3235dcf24b42cf5c4d8d142
 Strongylocentrotus	SUPERFAMILY	protein_match	19	126	5.77E-30	+	.	date=22-10-2020;Target=Strongylocentrotus 19 126;ID=match$1_19_126;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
 Strongylocentrotus	CDD	protein_match	282	415	4.96549E-21	+	.	date=22-10-2020;Target=Strongylocentrotus 282 415;ID=match$2_282_415;signature_desc=CLECT;Name=cd00037;status=T
-Strongylocentrotus	Gene3D	protein_match	564	680	3.6E-18	+	.	date=22-10-2020;Target=Strongylocentrotus 564 680;ID=match$3_564_680;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
-Strongylocentrotus	ProSitePatterns	protein_match	1320	1343	.	+	.	date=22-10-2020;Target=Strongylocentrotus 1320 1343;ID=match$4_1320_1343;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	ProSitePatterns	protein_match	523	548	.	+	.	date=22-10-2020;Target=Strongylocentrotus 523 548;ID=match$3_523_548;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	Gene3D	protein_match	564	680	3.6E-18	+	.	date=22-10-2020;Target=Strongylocentrotus 564 680;ID=match$4_564_680;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
 Strongylocentrotus	Gene3D	protein_match	267	414	3.9E-31	+	.	date=22-10-2020;Target=Strongylocentrotus 267 414;ID=match$5_267_414;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
 Strongylocentrotus	SMART	protein_match	1064	1189	6.9E-30	+	.	date=22-10-2020;Target=Strongylocentrotus 1064 1189;ID=match$6_1064_1189;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
 Strongylocentrotus	SMART	protein_match	568	677	1.5E-13	+	.	date=22-10-2020;Target=Strongylocentrotus 568 677;ID=match$6_568_677;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
@@ -21,26 +21,26 @@ Strongylocentrotus	CDD	protein_match	856	903	7.12317E-11	+	.	date=22-10-2020;Tar
 Strongylocentrotus	CDD	protein_match	34	208	5.15588E-20	+	.	date=22-10-2020;Target=Strongylocentrotus 34 208;ID=match$9_34_208;signature_desc=CLECT;Name=cd00037;status=T
 Strongylocentrotus	ProSiteProfiles	protein_match	1071	1189	23.706	+	.	date=22-10-2020;Target=Strongylocentrotus 1071 1189;ID=match$10_1071_1189;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
 Strongylocentrotus	CDD	protein_match	1074	1190	1.26654E-23	+	.	date=22-10-2020;Target=Strongylocentrotus 1074 1190;ID=match$11_1074_1190;signature_desc=CLECT;Name=cd00037;status=T
-Strongylocentrotus	ProSitePatterns	protein_match	184	206	.	+	.	date=22-10-2020;Target=Strongylocentrotus 184 206;ID=match$12_184_206;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
-Strongylocentrotus	SUPERFAMILY	protein_match	686	828	6.09E-40	+	.	date=22-10-2020;Target=Strongylocentrotus 686 828;ID=match$13_686_828;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
-Strongylocentrotus	Pfam	protein_match	833	902	3.4E-11	+	.	date=22-10-2020;Target=Strongylocentrotus 833 902;ID=match$14_833_902;signature_desc=PAN domain;Name=PF00024;status=T;Dbxref="InterPro:IPR003609"
-Strongylocentrotus	ProSiteProfiles	protein_match	427	549	24.679	+	.	date=22-10-2020;Target=Strongylocentrotus 427 549;ID=match$15_427_549;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	SUPERFAMILY	protein_match	1057	1191	2.62E-34	+	.	date=22-10-2020;Target=Strongylocentrotus 1057 1191;ID=match$16_1057_1191;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
-Strongylocentrotus	PANTHER	protein_match	137	217	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 137 217;ID=match$17_137_217;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	268	417	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 268 417;ID=match$17_268_417;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	22	124	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 22 124;ID=match$17_22_124;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	903	1060	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 903 1060;ID=match$17_903_1060;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	1202	1347	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1202 1347;ID=match$17_1202_1347;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	566	682	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 566 682;ID=match$17_566_682;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	1071	1192	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1071 1192;ID=match$17_1071_1192;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	416	554	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 416 554;ID=match$17_416_554;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	PANTHER	protein_match	698	828	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 698 828;ID=match$17_698_828;Name=PTHR22803:SF110;status=T
-Strongylocentrotus	Gene3D	protein_match	1055	1192	2.8E-30	+	.	date=22-10-2020;Target=Strongylocentrotus 1055 1192;ID=match$18_1055_1192;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
-Strongylocentrotus	Gene3D	protein_match	9	128	3.2E-29	+	.	date=22-10-2020;Target=Strongylocentrotus 9 128;ID=match$18_9_128;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
-Strongylocentrotus	Gene3D	protein_match	1203	1348	1.6E-37	+	.	date=22-10-2020;Target=Strongylocentrotus 1203 1348;ID=match$18_1203_1348;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
-Strongylocentrotus	ProSiteProfiles	protein_match	31	207	16.692	+	.	date=22-10-2020;Target=Strongylocentrotus 31 207;ID=match$19_31_207;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	CDD	protein_match	712	826	2.69274E-31	+	.	date=22-10-2020;Target=Strongylocentrotus 712 826;ID=match$20_712_826;signature_desc=CLECT;Name=cd00037;status=T
-Strongylocentrotus	SUPERFAMILY	protein_match	1203	1346	9.45E-39	+	.	date=22-10-2020;Target=Strongylocentrotus 1203 1346;ID=match$21_1203_1346;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus	SUPERFAMILY	protein_match	686	828	6.09E-40	+	.	date=22-10-2020;Target=Strongylocentrotus 686 828;ID=match$12_686_828;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus	Pfam	protein_match	833	902	3.4E-11	+	.	date=22-10-2020;Target=Strongylocentrotus 833 902;ID=match$13_833_902;signature_desc=PAN domain;Name=PF00024;status=T;Dbxref="InterPro:IPR003609"
+Strongylocentrotus	ProSiteProfiles	protein_match	427	549	24.679	+	.	date=22-10-2020;Target=Strongylocentrotus 427 549;ID=match$14_427_549;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	SUPERFAMILY	protein_match	1057	1191	2.62E-34	+	.	date=22-10-2020;Target=Strongylocentrotus 1057 1191;ID=match$15_1057_1191;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus	PANTHER	protein_match	137	217	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 137 217;ID=match$16_137_217;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	268	417	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 268 417;ID=match$16_268_417;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	22	124	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 22 124;ID=match$16_22_124;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	903	1060	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 903 1060;ID=match$16_903_1060;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	1202	1347	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1202 1347;ID=match$16_1202_1347;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	566	682	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 566 682;ID=match$16_566_682;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	1071	1192	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1071 1192;ID=match$16_1071_1192;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	416	554	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 416 554;ID=match$16_416_554;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	PANTHER	protein_match	698	828	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 698 828;ID=match$16_698_828;Name=PTHR22803:SF110;status=T
+Strongylocentrotus	Gene3D	protein_match	1055	1192	2.8E-30	+	.	date=22-10-2020;Target=Strongylocentrotus 1055 1192;ID=match$17_1055_1192;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus	Gene3D	protein_match	9	128	3.2E-29	+	.	date=22-10-2020;Target=Strongylocentrotus 9 128;ID=match$17_9_128;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus	Gene3D	protein_match	1203	1348	1.6E-37	+	.	date=22-10-2020;Target=Strongylocentrotus 1203 1348;ID=match$17_1203_1348;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus	ProSiteProfiles	protein_match	31	207	16.692	+	.	date=22-10-2020;Target=Strongylocentrotus 31 207;ID=match$18_31_207;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	CDD	protein_match	712	826	2.69274E-31	+	.	date=22-10-2020;Target=Strongylocentrotus 712 826;ID=match$19_712_826;signature_desc=CLECT;Name=cd00037;status=T
+Strongylocentrotus	SUPERFAMILY	protein_match	1203	1346	9.45E-39	+	.	date=22-10-2020;Target=Strongylocentrotus 1203 1346;ID=match$20_1203_1346;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus	ProSitePatterns	protein_match	184	206	.	+	.	date=22-10-2020;Target=Strongylocentrotus 184 206;ID=match$21_184_206;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
 Strongylocentrotus	SUPERFAMILY	protein_match	417	557	8.44E-38	+	.	date=22-10-2020;Target=Strongylocentrotus 417 557;ID=match$22_417_557;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
 Strongylocentrotus	Gene3D	protein_match	694	830	8.0E-39	+	.	date=22-10-2020;Target=Strongylocentrotus 694 830;ID=match$23_694_830;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
 Strongylocentrotus	Gene3D	protein_match	418	553	2.5E-33	+	.	date=22-10-2020;Target=Strongylocentrotus 418 553;ID=match$24_418_553;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
@@ -48,9 +48,9 @@ Strongylocentrotus	ProSiteProfiles	protein_match	928	1046	24.039	+	.	date=22-10-
 Strongylocentrotus	ProSiteProfiles	protein_match	279	414	21.927	+	.	date=22-10-2020;Target=Strongylocentrotus 279 414;ID=match$26_279_414;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
 Strongylocentrotus	SUPERFAMILY	protein_match	255	416	2.62E-33	+	.	date=22-10-2020;Target=Strongylocentrotus 255 416;ID=match$27_255_416;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
 Strongylocentrotus	Gene3D	protein_match	831	906	5.7E-9	+	.	date=22-10-2020;Target=Strongylocentrotus 831 906;ID=match$28_831_906;Name=G3DSA:3.50.4.10;status=T
-Strongylocentrotus	ProSiteProfiles	protein_match	709	825	26.88	+	.	date=22-10-2020;Target=Strongylocentrotus 709 825;ID=match$29_709_825;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	ProSiteProfiles	protein_match	1223	1344	24.525	+	.	date=22-10-2020;Target=Strongylocentrotus 1223 1344;ID=match$30_1223_1344;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	ProSitePatterns	protein_match	523	548	.	+	.	date=22-10-2020;Target=Strongylocentrotus 523 548;ID=match$31_523_548;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	ProSitePatterns	protein_match	1320	1343	.	+	.	date=22-10-2020;Target=Strongylocentrotus 1320 1343;ID=match$29_1320_1343;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	ProSiteProfiles	protein_match	709	825	26.88	+	.	date=22-10-2020;Target=Strongylocentrotus 709 825;ID=match$30_709_825;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	ProSiteProfiles	protein_match	1223	1344	24.525	+	.	date=22-10-2020;Target=Strongylocentrotus 1223 1344;ID=match$31_1223_1344;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
 Strongylocentrotus	PRINTS	protein_match	414	432	2.0E-5	+	.	date=22-10-2020;Target=Strongylocentrotus 414 432;ID=match$32_414_432;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
 Strongylocentrotus	PRINTS	protein_match	468	490	2.0E-5	+	.	date=22-10-2020;Target=Strongylocentrotus 468 490;ID=match$32_468_490;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
 Strongylocentrotus	PRINTS	protein_match	496	514	2.0E-5	+	.	date=22-10-2020;Target=Strongylocentrotus 496 514;ID=match$32_496_514;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
@@ -58,28 +58,28 @@ Strongylocentrotus	PRINTS	protein_match	537	551	2.0E-5	+	.	date=22-10-2020;Targe
 Strongylocentrotus	Gene3D	protein_match	907	1049	3.7E-37	+	.	date=22-10-2020;Target=Strongylocentrotus 907 1049;ID=match$33_907_1049;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
 Strongylocentrotus	SUPERFAMILY	protein_match	129	209	6.18E-20	+	.	date=22-10-2020;Target=Strongylocentrotus 129 209;ID=match$34_129_209;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
 Strongylocentrotus	SUPERFAMILY	protein_match	831	905	3.73E-11	+	.	date=22-10-2020;Target=Strongylocentrotus 831 905;ID=match$35_831_905;Name=SSF57414;status=T
-Strongylocentrotus	PANTHER	protein_match	416	554	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 416 554;ID=match$36_416_554;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	268	417	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 268 417;ID=match$36_268_417;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	22	124	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 22 124;ID=match$36_22_124;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	566	682	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 566 682;ID=match$36_566_682;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	903	1060	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 903 1060;ID=match$36_903_1060;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	698	828	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 698 828;ID=match$36_698_828;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	1202	1347	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1202 1347;ID=match$36_1202_1347;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	137	217	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 137 217;ID=match$36_137_217;Name=PTHR22803;status=T
-Strongylocentrotus	PANTHER	protein_match	1071	1192	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1071 1192;ID=match$36_1071_1192;Name=PTHR22803;status=T
-Strongylocentrotus	SUPERFAMILY	protein_match	565	681	2.62E-26	+	.	date=22-10-2020;Target=Strongylocentrotus 565 681;ID=match$37_565_681;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
-Strongylocentrotus	Gene3D	protein_match	129	209	8.3E-21	+	.	date=22-10-2020;Target=Strongylocentrotus 129 209;ID=match$38_129_209;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
-Strongylocentrotus	SMART	protein_match	829	904	1.7E-10	+	.	date=22-10-2020;Target=Strongylocentrotus 829 904;ID=match$39_829_904;Name=SM00473;status=T;Dbxref="InterPro:IPR003609"
-Strongylocentrotus	Pfam	protein_match	142	208	2.4E-9	+	.	date=22-10-2020;Target=Strongylocentrotus 142 208;ID=match$40_142_208;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	1082	1190	1.0E-16	+	.	date=22-10-2020;Target=Strongylocentrotus 1082 1190;ID=match$40_1082_1190;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	442	549	1.5E-16	+	.	date=22-10-2020;Target=Strongylocentrotus 442 549;ID=match$40_442_549;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	1240	1344	1.0E-21	+	.	date=22-10-2020;Target=Strongylocentrotus 1240 1344;ID=match$40_1240_1344;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	940	1047	1.6E-18	+	.	date=22-10-2020;Target=Strongylocentrotus 940 1047;ID=match$40_940_1047;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	291	415	1.4E-15	+	.	date=22-10-2020;Target=Strongylocentrotus 291 415;ID=match$40_291_415;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	42	126	5.8E-8	+	.	date=22-10-2020;Target=Strongylocentrotus 42 126;ID=match$40_42_126;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	605	678	1.1E-7	+	.	date=22-10-2020;Target=Strongylocentrotus 605 678;ID=match$40_605_678;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	Pfam	protein_match	722	826	8.7E-22	+	.	date=22-10-2020;Target=Strongylocentrotus 722 826;ID=match$40_722_826;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
-Strongylocentrotus	ProSitePatterns	protein_match	801	824	.	+	.	date=22-10-2020;Target=Strongylocentrotus 801 824;ID=match$41_801_824;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	ProSitePatterns	protein_match	801	824	.	+	.	date=22-10-2020;Target=Strongylocentrotus 801 824;ID=match$36_801_824;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Strongylocentrotus	PANTHER	protein_match	416	554	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 416 554;ID=match$37_416_554;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	268	417	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 268 417;ID=match$37_268_417;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	22	124	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 22 124;ID=match$37_22_124;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	566	682	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 566 682;ID=match$37_566_682;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	903	1060	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 903 1060;ID=match$37_903_1060;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	698	828	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 698 828;ID=match$37_698_828;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	1202	1347	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1202 1347;ID=match$37_1202_1347;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	137	217	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 137 217;ID=match$37_137_217;Name=PTHR22803;status=T
+Strongylocentrotus	PANTHER	protein_match	1071	1192	0.0	+	.	date=22-10-2020;Target=Strongylocentrotus 1071 1192;ID=match$37_1071_1192;Name=PTHR22803;status=T
+Strongylocentrotus	SUPERFAMILY	protein_match	565	681	2.62E-26	+	.	date=22-10-2020;Target=Strongylocentrotus 565 681;ID=match$38_565_681;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Strongylocentrotus	Gene3D	protein_match	129	209	8.3E-21	+	.	date=22-10-2020;Target=Strongylocentrotus 129 209;ID=match$39_129_209;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Strongylocentrotus	SMART	protein_match	829	904	1.7E-10	+	.	date=22-10-2020;Target=Strongylocentrotus 829 904;ID=match$40_829_904;Name=SM00473;status=T;Dbxref="InterPro:IPR003609"
+Strongylocentrotus	Pfam	protein_match	142	208	2.4E-9	+	.	date=22-10-2020;Target=Strongylocentrotus 142 208;ID=match$41_142_208;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	1082	1190	1.0E-16	+	.	date=22-10-2020;Target=Strongylocentrotus 1082 1190;ID=match$41_1082_1190;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	442	549	1.5E-16	+	.	date=22-10-2020;Target=Strongylocentrotus 442 549;ID=match$41_442_549;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	1240	1344	1.0E-21	+	.	date=22-10-2020;Target=Strongylocentrotus 1240 1344;ID=match$41_1240_1344;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	940	1047	1.6E-18	+	.	date=22-10-2020;Target=Strongylocentrotus 940 1047;ID=match$41_940_1047;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	291	415	1.4E-15	+	.	date=22-10-2020;Target=Strongylocentrotus 291 415;ID=match$41_291_415;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	42	126	5.8E-8	+	.	date=22-10-2020;Target=Strongylocentrotus 42 126;ID=match$41_42_126;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	605	678	1.1E-7	+	.	date=22-10-2020;Target=Strongylocentrotus 605 678;ID=match$41_605_678;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Strongylocentrotus	Pfam	protein_match	722	826	8.7E-22	+	.	date=22-10-2020;Target=Strongylocentrotus 722 826;ID=match$41_722_826;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
 Strongylocentrotus	ProSiteProfiles	protein_match	824	905	9.459	+	.	date=22-10-2020;Target=Strongylocentrotus 824 905;ID=match$42_824_905;signature_desc=PAN/Apple domain profile.;Name=PS50948;status=T;Dbxref="InterPro:IPR003609"
 Strongylocentrotus	CDD	protein_match	430	550	2.40771E-24	+	.	date=22-10-2020;Target=Strongylocentrotus 430 550;ID=match$43_430_550;signature_desc=CLECT;Name=cd00037;status=T
 Strongylocentrotus	ProSiteProfiles	protein_match	575	664	14.644	+	.	date=22-10-2020;Target=Strongylocentrotus 575 664;ID=match$44_575_664;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
@@ -115,11 +115,11 @@ GVNAALLGLHDLATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDCAT
 KCFKFFGFTRTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVSKANVWLGLSDTLIGG
 DHDEIKEKKHVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGGDCVEITQSATDGKWS
 TAACTNAKKFMCER
->match$3_564_680
+>match$3_523_548
+CIYITTGDGTGKWSSTDCESTNAYIC
+>match$4_564_680
 GVHTCDDGWTLNGDSCFYFDRTARYYKDADTNCQTLVRARMGGAYLWIGFHDYNTENVFA
 WADGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWNDIDGDVSKLASVCKKPS
->match$4_1320_1343
-CTEVFLNGRKWNDIYCTNLNDWIC
 >match$5_267_414
 PLACDEGSSWYGVAGKCFKFFGFTRTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVS
 KANVWLGLSDTLIGGDHDEIKEKKHVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGG
@@ -172,78 +172,78 @@ DVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCE
 >match$11_1074_1190
 SCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLTSILGSQDGSLFWTGLSDVE
 NPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCER
->match$12_184_206
-CVTVWSSGGWNDISCTNTLSYLC
->match$13_686_828
+>match$12_686_828
 VIPPVIPTPVFDPRCGNGWDYDVTGQNCYLFRYSDYMSWADAREYCQVQGGDLASIASKD
 EQTYMNGRLSSIENDMWIGGTDFTNEGGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIF
 TKTDTWNDNKCDIERGFICKKNG
->match$14_833_902
+>match$13_833_902
 HFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECSFNDGSTTTP
 ISDGNMDYYE
->match$15_427_549
+>match$14_427_549
 YSGSCYQFNIQLPTIWKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDYHDIAVESSWLG
 LSDTETDGSFVWVEGSSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKWSSTDCESTNAY
 ICK
->match$16_1057_1191
+>match$15_1057_1191
 EPITPSGCSLGDIANGGSCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLTSI
 LGSQDGSLFWTGLSDVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWR
 NIDCASTNKYLCERG
->match$17_22_124
+>match$16_22_124
 QMCPSGWSLYDGSCYKLYTDAKTYYEAQQVCKQMDGDLAMAKTTPVNDLLARLLTSEGVN
 AALLGLHDLATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDC
->match$17_137_217
+>match$16_137_217
 GVNAALLGLHDLATEQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVWSSGGWNDI
 SCTNTLSYLCERSNVTGSPAS
->match$17_268_417
+>match$16_268_417
 LACDEGSSWYGVAGKCFKFFGFTRTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVSK
 ANVWLGLSDTLIGGDHDEIKEKKHVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGGD
 CVEITQSATDGKWSTAACTNAKKFMCERPE
->match$17_416_554
+>match$16_416_554
 PEGSCPAGWHLYSGSCYQFNIQLPTIWKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDY
 HDIAVESSWLGLSDTETDGSFVWVEGSSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKW
 SSTDCESTNAYICKIKADI
->match$17_566_682
+>match$16_566_682
 HTCDDGWTLNGDSCFYFDRTARYYKDADTNCQTLVRARMGGAYLWIGFHDYNTENVFAWA
 DGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWNDIDGDVSKLASVCKKPSKA
->match$17_698_828
+>match$16_698_828
 PRCGNGWDYDVTGQNCYLFRYSDYMSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSI
 ENDMWIGGTDFTNEGGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCD
 IERGFICKKNG
->match$17_903_1060
+>match$16_903_1060
 RLMDVRDPEVTTLGPGYRCPEGWSGYGNNCYHMYTLTKLSSSDVQQKCKDLGGDLASIHD
 LNENSFILALARDNGMDDEFWIGLNDRNSPMSFQWEDETPVDFTLWNTNEPNNYAGTAED
 CVEMYMFGYWNDNLCSVKQHGACKRPKENLGPTLEPIT
->match$17_1071_1192
+>match$16_1071_1192
 NGGSCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLTSILGSQDGSLFWTGLS
 DVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCER
 GR
->match$17_1202_1347
+>match$16_1202_1347
 GPTTLATAPSDVGCHDSNWKGYGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFH
 SQAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCT
 EVFLNGRKWNDIYCTNLNDWICKISK
->match$18_9_128
+>match$17_9_128
 GSGKKIDHGALFCQMCPSGWSLYDGSCYKLYTDAKTYYEAQQVCKQMDGDLAMAKTTPVN
 DLLARLLTSEGVNAALLGLHDLATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDCATDL
->match$18_1055_1192
+>match$17_1055_1192
 TLEPITPSGCSLGDIANGGSCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLT
 SILGSQDGSLFWTGLSDVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGL
 WRNIDCASTNKYLCERGR
->match$18_1203_1348
+>match$17_1203_1348
 PTTLATAPSDVGCHDSNWKGYGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFHS
 QAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCTE
 VFLNGRKWNDIYCTNLNDWICKISKS
->match$19_31_207
+>match$18_31_207
 YDGSCYKLYTDAKTYYEAQQVCKQMDGDLAMAKTTPVNDLLARLLTSEGVNAALLGLHDL
 ATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDCATDLLARLLTSEGVNAALLGLHDLAT
 EQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVWSSGGWNDISCTNTLSYLCE
->match$20_712_826
+>match$19_712_826
 NCYLFRYSDYMSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSIENDMWIGGTDFTNE
 GGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCDIERGFICKK
->match$21_1203_1346
+>match$20_1203_1346
 PTTLATAPSDVGCHDSNWKGYGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFHS
 QAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCTE
 VFLNGRKWNDIYCTNLNDWICKIS
+>match$21_184_206
+CVTVWSSGGWNDISCTNTLSYLC
 >match$22_417_557
 EGSCPAGWHLYSGSCYQFNIQLPTIWKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDYH
 DIAVESSWLGLSDTETDGSFVWVEGSSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKWS
@@ -270,15 +270,15 @@ DQPDDRYYTAGGDCVEITQSATDGKWSTAACTNAKKFMCERP
 >match$28_831_906
 TTHFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECSFNDGSTT
 TPISDGNMDYYERLMD
->match$29_709_825
+>match$29_1320_1343
+CTEVFLNGRKWNDIYCTNLNDWIC
+>match$30_709_825
 TGQNCYLFRYSDYMSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSIENDMWIGGTDF
 TNEGGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCDIERGFICK
->match$30_1223_1344
+>match$31_1223_1344
 YGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFHSQAEEDYILSGYPDSTASLYV
 GLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCTEVFLNGRKWNDIYCTNLNDWI
 CK
->match$31_523_548
-CIYITTGDGTGKWSSTDCESTNAYIC
 >match$32_414_432
 ERPEGSCPAGWHLYSGSCY
 >match$32_468_490
@@ -297,78 +297,78 @@ SSGGWNDISCTNTLSYLCERS
 >match$35_831_905
 TTHFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECSFNDGSTT
 TPISDGNMDYYERLM
->match$36_22_124
+>match$36_801_824
+CMEIFTKTDTWNDNKCDIERGFIC
+>match$37_22_124
 QMCPSGWSLYDGSCYKLYTDAKTYYEAQQVCKQMDGDLAMAKTTPVNDLLARLLTSEGVN
 AALLGLHDLATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDC
->match$36_137_217
+>match$37_137_217
 GVNAALLGLHDLATEQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVWSSGGWNDI
 SCTNTLSYLCERSNVTGSPAS
->match$36_268_417
+>match$37_268_417
 LACDEGSSWYGVAGKCFKFFGFTRTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVSK
 ANVWLGLSDTLIGGDHDEIKEKKHVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGGD
 CVEITQSATDGKWSTAACTNAKKFMCERPE
->match$36_416_554
+>match$37_416_554
 PEGSCPAGWHLYSGSCYQFNIQLPTIWKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDY
 HDIAVESSWLGLSDTETDGSFVWVEGSSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKW
 SSTDCESTNAYICKIKADI
->match$36_566_682
+>match$37_566_682
 HTCDDGWTLNGDSCFYFDRTARYYKDADTNCQTLVRARMGGAYLWIGFHDYNTENVFAWA
 DGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWNDIDGDVSKLASVCKKPSKA
->match$36_698_828
+>match$37_698_828
 PRCGNGWDYDVTGQNCYLFRYSDYMSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSI
 ENDMWIGGTDFTNEGGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCD
 IERGFICKKNG
->match$36_903_1060
+>match$37_903_1060
 RLMDVRDPEVTTLGPGYRCPEGWSGYGNNCYHMYTLTKLSSSDVQQKCKDLGGDLASIHD
 LNENSFILALARDNGMDDEFWIGLNDRNSPMSFQWEDETPVDFTLWNTNEPNNYAGTAED
 CVEMYMFGYWNDNLCSVKQHGACKRPKENLGPTLEPIT
->match$36_1071_1192
+>match$37_1071_1192
 NGGSCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLTSILGSQDGSLFWTGLS
 DVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCER
 GR
->match$36_1202_1347
+>match$37_1202_1347
 GPTTLATAPSDVGCHDSNWKGYGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFH
 SQAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCT
 EVFLNGRKWNDIYCTNLNDWICKISK
->match$37_565_681
+>match$38_565_681
 VHTCDDGWTLNGDSCFYFDRTARYYKDADTNCQTLVRARMGGAYLWIGFHDYNTENVFAW
 ADGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWNDIDGDVSKLASVCKKPSK
->match$38_129_209
+>match$39_129_209
 LARLLTSEGVNAALLGLHDLATEQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVW
 SSGGWNDISCTNTLSYLCERS
->match$39_829_904
+>match$40_829_904
 YLTTHFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECSFNDGS
 TTTPISDGNMDYYERL
->match$40_42_126
+>match$41_42_126
 AKTYYEAQQVCKQMDGDLAMAKTTPVNDLLARLLTSEGVNAALLGLHDLATEQAFYWVDG
 TALTASTSHWNPGEPNDYSGEDCAT
->match$40_142_208
+>match$41_142_208
 LLGLHDLATEQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVWSSGGWNDISCTNT
 LSYLCER
->match$40_291_415
+>match$41_291_415
 RTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVSKANVWLGLSDTLIGGDHDEIKEKK
 HVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGGDCVEITQSATDGKWSTAACTNAKK
 FMCER
->match$40_442_549
+>match$41_442_549
 WKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDYHDIAVESSWLGLSDTETDGSFVWVEG
 SSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKWSSTDCESTNAYICK
->match$40_605_678
+>match$41_605_678
 GGAYLWIGFHDYNTENVFAWADGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWND
 IDGDVSKLASVCKK
->match$40_722_826
+>match$41_722_826
 MSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSIENDMWIGGTDFTNEGGWEWTDGSG
 FSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCDIERGFICKK
->match$40_940_1047
+>match$41_940_1047
 KLSSSDVQQKCKDLGGDLASIHDLNENSFILALARDNGMDDEFWIGLNDRNSPMSFQWED
 ETPVDFTLWNTNEPNNYAGTAEDCVEMYMFGYWNDNLCSVKQHGACKR
->match$40_1082_1190
+>match$41_1082_1190
 PKSWADARADCAGFSPRGNLVSIADRYEQSVLTSILGSQDGSLFWTGLSDVENPGQYSWS
 DNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCER
->match$40_1240_1344
+>match$41_1240_1344
 RRNWDDARMYCLAMGADLASFHSQAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGT
 PVEHTNWNTGEPNNWGPGEDCTEVFLNGRKWNDIYCTNLNDWICK
->match$41_801_824
-CMEIFTKTDTWNDNKCDIERGFIC
 >match$42_824_905
 CKKNGYLTTHFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECS
 FNDGSTTTPISDGNMDYYERLM

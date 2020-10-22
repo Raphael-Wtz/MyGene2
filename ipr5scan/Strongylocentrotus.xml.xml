@@ -1,7 +1,7 @@
 <?xml version="1.0"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.47-82.0">
   <protein>
     <sequence md5="69d9b6f8b3235dcf24b42cf5c4d8d142">MVKEKVWNGSGKKIDHGALFCQMCPSGWSLYDGSCYKLYTDAKTYYEAQQVCKQMDGDLAMAKTTPVNDLLARLLTSEGVNAALLGLHDLATEQAFYWVDGTALTASTSHWNPGEPNDYSGEDCATDLLARLLTSEGVNAALLGLHDLATEQAFYWVDGTALTAAGSTSHWNPGEPNDYSGEDCVTVWSSGGWNDISCTNTLSYLCERSNVTGSPASLTITVPARTVQPYGQQLGGMMYHVLSLILTCVKGVMIETFGHYFTPPELPLACDEGSSWYGVAGKCFKFFGFTRTWINADNYCRGVGGTLVVIGSDEEQAMVANRVSVSKANVWLGLSDTLIGGDHDEIKEKKHVGGAAGNYKWSTGESLTYTKWDTDQPDDRYYTAGGDCVEITQSATDGKWSTAACTNAKKFMCERPEGSCPAGWHLYSGSCYQFNIQLPTIWKTAKFTCEAQGAYLLTSLSSAENAYIVDKMVDYHDIAVESSWLGLSDTETDGSFVWVEGSSLSYSNWDTNQPTNRATSEDCIYITTGDGTGKWSSTDCESTNAYICKIKADIPISILDPAVGVHTCDDGWTLNGDSCFYFDRTARYYKDADTNCQTLVRARMGGAYLWIGFHDYNTENVFAWADGSEVDFYNWATGQPDNWKSKEDAVHMRSNELDAGKWNDIDGDVSKLASVCKKPSKAGTIVIPPVIPTPVFDPRCGNGWDYDVTGQNCYLFRYSDYMSWADAREYCQVQGGDLASIASKDEQTYMNGRLSSIENDMWIGGTDFTNEGGWEWTDGSGFSYLNWAPNEPNNVGDSEHCMEIFTKTDTWNDNKCDIERGFICKKNGYLTTHFLVTPHAYMNGPGQLVLSGVYPDECASRCVKMTDFICKSFNYNRVSHECSFNDGSTTTPISDGNMDYYERLMDVRDPEVTTLGPGYRCPEGWSGYGNNCYHMYTLTKLSSSDVQQKCKDLGGDLASIHDLNENSFILALARDNGMDDEFWIGLNDRNSPMSFQWEDETPVDFTLWNTNEPNNYAGTAEDCVEMYMFGYWNDNLCSVKQHGACKRPKENLGPTLEPITPSGCSLGDIANGGSCYFVMDTPKSWADARADCAGFSPRGNLVSIADRYEQSVLTSILGSQDGSLFWTGLSDVENPGQYSWSDNTAVTLTNWDYAQPDDTKGNCVASTSGMMAGLWRNIDCASTNKYLCERGRGGYSAPQTIGPTTLATAPSDVGCHDSNWKGYGANCYMIVLSDVSGATRRNWDDARMYCLAMGADLASFHSQAEEDYILSGYPDSTASLYVGLHDQSEEGGFTWTDGTPVEHTNWNTGEPNNWGPGEDCTEVFLNGRKWNDIYCTNLNDWICKISKSL</sequence>
-    <xref id="Strongylocentrotus" name="Strongylocentrotus purpuratus_Uncharacterized_protein_W4Y9R4_STRPU"/>
+    <xref id="Strongylocentrotus" name="Strongylocentrotus purpuratus_Uncharacterized_protein_W4Y9R4"/>
     <matches>
       <fingerprints-match evalue="2.0E-5" graphscan="I.iI.I">
         <signature ac="PR01504" desc="Pancreatitis-associated protein signature" name="PNCREATITSAP">
@@ -396,11 +396,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="1320" end="1343">
+          <patternscan-location level="STRONG" start="523" end="548">
             <location-fragments>
-              <patternscan-location-fragment start="1320" end="1343" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="523" end="548" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CTevflngrkWNDIYCtnlndWIC</alignment>
+            <alignment>CIyittgdgtgkWSSTDCestnaYIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>
@@ -426,11 +426,11 @@
         </signature>
         <model-ac>PS00615</model-ac>
         <locations>
-          <patternscan-location level="STRONG" start="523" end="548">
+          <patternscan-location level="STRONG" start="1320" end="1343">
             <location-fragments>
-              <patternscan-location-fragment start="523" end="548" dc-status="CONTINUOUS"/>
+              <patternscan-location-fragment start="1320" end="1343" dc-status="CONTINUOUS"/>
             </location-fragments>
-            <alignment>CIyittgdgtgkWSSTDCestnaYIC</alignment>
+            <alignment>CTevflngrkWNDIYCtnlndWIC</alignment>
           </patternscan-location>
         </locations>
       </patternscan-match>

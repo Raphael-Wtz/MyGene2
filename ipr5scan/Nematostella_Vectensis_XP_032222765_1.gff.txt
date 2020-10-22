@@ -1,0 +1,765 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Nematostella_Vectensis_XP_032222765.1 1 2758
+Nematostella_Vectensis_XP_032222765.1	.	polypeptide	1	2758	.	+	.	ID=Nematostella_Vectensis_XP_032222765.1;md5=0214ea683d88467fda6b311fc3876fcb
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1977	2094	27.239	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1977 2094;ID=match$1_1977_2094;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	2099	2243	34.198	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2099 2243;ID=match$2_2099_2243;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	455	606	35.536	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 455 606;ID=match$3_455_606;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	623	742	23.015	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 623 742;ID=match$4_623_742;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	2098	2244	6.17E-38	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2098 2244;ID=match$5_2098_2244;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	590	606	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 590 606;ID=match$6_590_606;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 2.;Name=PS01286;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1386	1501	25.037	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1386 1501;ID=match$7_1386_1501;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	2098	2243	3.5E-22	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2098 2243;ID=match$8_2098_2243;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	2246	2391	4.1E-23	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2246 2391;ID=match$8_2246_2391;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	2394	2540	1.7E-18	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2394 2540;ID=match$8_2394_2540;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	454	606	2.3E-19	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 454 606;ID=match$8_454_606;Name=SM00231;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1839	1955	1.15913E-22	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1839 1955;ID=match$9_1839_1955;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	2070	2093	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2070 2093;ID=match$10_2070_2093;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	2565	2680	1.2E-10	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2565 2680;ID=match$11_2565_2680;Name=SSF82671;status=T;Dbxref="InterPro:IPR036364"
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1376	1542	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1376 1542;ID=match$12_1376_1542;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	558	610	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 558 610;ID=match$12_558_610;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1521	2276	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1521 2276;ID=match$12_1521_2276;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1142	1375	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1142 1375;ID=match$12_1142_1375;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	2315	2423	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2315 2423;ID=match$12_2315_2423;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	312	466	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 312 466;ID=match$12_312_466;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	612	1125	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 612 1125;ID=match$12_612_1125;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	179	310	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 179 310;ID=match$12_179_310;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	25	256	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 25 256;ID=match$12_25_256;Name=PTHR22803:SF133;status=T
+Nematostella_Vectensis_XP_032222765.1	MobiDBLite	protein_match	2254	2288	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2254 2288;ID=match$13_2254_2288;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	32	154	27.354	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 32 154;ID=match$14_32_154;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	MobiDBLite	protein_match	1503	1523	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1503 1523;ID=match$15_1503_1523;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	472	603	3.5E-23	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 472 603;ID=match$16_472_603;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	2262	2382	5.0E-23	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2262 2382;ID=match$16_2262_2382;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	2116	2236	4.3E-24	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2116 2236;ID=match$16_2116_2236;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	2411	2537	4.2E-22	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2411 2537;ID=match$16_2411_2537;signature_desc=F5/8 type C domain;Name=PF00754;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	718	741	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 718 741;ID=match$17_718_741;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	824	971	7.8E-11	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 824 971;ID=match$18_824_971;signature_desc=Concanavalin A-like lectin/glucanases superfamily;Name=PF13385;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	989	1109	26.791	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 989 1109;ID=match$19_989_1109;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	188	307	3.07659E-30	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 188 307;ID=match$20_188_307;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1366	1503	1.12E-37	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1366 1503;ID=match$21_1366_1503;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1823	1958	3.21E-34	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1823 1958;ID=match$22_1823_1958;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	2247	2391	1.35E-37	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2247 2391;ID=match$23_2247_2391;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	179	310	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 179 310;ID=match$24_179_310;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	2315	2423	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2315 2423;ID=match$24_2315_2423;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	612	1125	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 612 1125;ID=match$24_612_1125;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1142	1375	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1142 1375;ID=match$24_1142_1375;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	558	610	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 558 610;ID=match$24_558_610;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1521	2276	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1521 2276;ID=match$24_1521_2276;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	25	256	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 25 256;ID=match$24_25_256;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	312	466	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 312 466;ID=match$24_312_466;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	PANTHER	protein_match	1376	1542	0.0	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1376 1542;ID=match$24_1376_1542;Name=PTHR22803;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1235	1350	20.877	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1235 1350;ID=match$25_1235_1350;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1390	1502	7.72102E-24	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1390 1502;ID=match$26_1390_1502;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	130	153	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 130 153;ID=match$27_130_153;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1535	1656	26.688	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1535 1656;ID=match$28_1535_1656;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1376	1504	7.1E-35	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1376 1504;ID=match$29_1376_1504;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	18	22	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 18 22;ID=match$30_18_22;signature_desc=C-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_C_REGION;status=T
+Nematostella_Vectensis_XP_032222765.1	SignalP_GRAM_POSITIVE	protein_match	1	22	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1 22;ID=match$31_1_22;Name=SignalP-TM;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	1478	1500	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1478 1500;ID=match$32_1478_1500;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	23	2705	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 23 2705;ID=match$33_23_2705;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1970	2094	6.48428E-34	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1970 2094;ID=match$34_1970_2094;signature_desc=CLECT_DC-SIGN_like;Name=cd03590;status=T;Dbxref="InterPro:IPR033989"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	775	976	3.6E-19	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 775 976;ID=match$35_775_976;Name=G3DSA:2.60.120.200;status=T
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	2	17	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2 17;ID=match$36_2_17;signature_desc=Hydrophobic region of a signal peptide.;Name=SIGNAL_PEPTIDE_H_REGION;status=T
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1820	1956	5.0E-31	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1820 1956;ID=match$37_1820_1956;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	311	449	2.1E-35	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 311 449;ID=match$37_311_449;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	16	156	2.6E-40	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 16 156;ID=match$37_16_156;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	SignalP_EUK	protein_match	1	22	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1 22;ID=match$38_1_22;Name=SignalP-noTM;status=T
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	2246	2393	2.3E-42	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2246 2393;ID=match$39_2246_2393;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1690	1810	1.41427E-25	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1690 1810;ID=match$40_1690_1810;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	2570	2684	17.962	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2570 2684;ID=match$41_2570_2684;signature_desc=SEA domain profile.;Name=PS50024;status=T;Dbxref="InterPro:IPR000082"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	35	154	2.90501E-34	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 35 154;ID=match$42_35_154;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	2433	2462	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2433 2462;ID=match$43_2433_2462;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 1.;Name=PS01285;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	2102	2242	2.40126E-36	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2102 2242;ID=match$44_2102_2242;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1223	1366	1.5E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1223 1366;ID=match$45_1223_1366;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	613	752	1.5E-31	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 613 752;ID=match$45_613_752;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	312	449	2.62E-35	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 312 449;ID=match$46_312_449;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	591	745	2.62E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 591 745;ID=match$47_591_745;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	980	1113	7.76E-41	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 980 1113;ID=match$48_980_1113;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	627	743	1.40568E-21	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 627 743;ID=match$49_627_743;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	2397	2539	5.05246E-31	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2397 2539;ID=match$50_2397_2539;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	1	1	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1 1;ID=match$51_1_1;signature_desc=N-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_N_REGION;status=T
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1239	1359	4.67622E-26	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1239 1359;ID=match$52_1239_1359;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	2729	2758	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2729 2758;ID=match$53_2729_2758;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.;Name=CYTOPLASMIC_DOMAIN;status=T
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1516	1659	1.16E-41	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1516 1659;ID=match$54_1516_1659;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	498	527	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 498 527;ID=match$55_498_527;signature_desc=Coagulation factors 5/8 type C domain (FA58C) signature 1.;Name=PS01285;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1120	1222	4.2E-21	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1120 1222;ID=match$56_1120_1222;Name=G3DSA:2.60.120.740;status=T;Dbxref="InterPro:IPR043159"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	2394	2541	7.3E-45	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2394 2541;ID=match$57_2394_2541;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	166	309	6.3E-40	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 166 309;ID=match$58_166_309;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	2249	2390	3.17345E-31	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2249 2390;ID=match$59_2249_2390;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	1632	1655	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1632 1655;ID=match$60_1632_1655;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1957	2098	7.7E-44	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1957 2098;ID=match$61_1957_2098;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1513	1662	2.0E-39	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1513 1662;ID=match$61_1513_1662;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	13	156	1.25E-39	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 13 156;ID=match$62_13_156;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	2395	2540	33.051	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2395 2540;ID=match$63_2395_2540;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1836	1954	22.362	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1836 1954;ID=match$64_1836_1954;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1140	1216	3.0E-16	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1140 1216;Ontology_term="GO:0030246";ID=match$65_1140_1216;signature_desc=Galactose binding lectin domain;Name=PF02140;status=T;Dbxref="InterPro:IPR000922"
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	1	22	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1 22;ID=match$66_1_22;signature_desc=Signal peptide region;Name=SIGNAL_PEPTIDE;status=T
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	455	606	3.69E-39	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 455 606;ID=match$67_455_606;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	PRINTS	protein_match	1964	1982	2.0E-6	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1964 1982;ID=match$68_1964_1982;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
+Nematostella_Vectensis_XP_032222765.1	PRINTS	protein_match	2015	2037	2.0E-6	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2015 2037;ID=match$68_2015_2037;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
+Nematostella_Vectensis_XP_032222765.1	PRINTS	protein_match	2043	2061	2.0E-6	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2043 2061;ID=match$68_2043_2061;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
+Nematostella_Vectensis_XP_032222765.1	PRINTS	protein_match	2082	2096	2.0E-6	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2082 2096;ID=match$68_2082_2096;signature_desc=Pancreatitis-associated protein signature;Name=PR01504;status=T
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1222	1366	2.19E-34	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1222 1366;ID=match$69_1222_1366;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	1528	1657	4.15823E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1528 1657;ID=match$70_1528_1657;signature_desc=CLECT_DC-SIGN_like;Name=cd03590;status=T;Dbxref="InterPro:IPR033989"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	280	305	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 280 305;ID=match$71_280_305;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	321	447	25.92	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 321 447;ID=match$72_321_447;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1132	1217	13.033	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1132 1217;Ontology_term="GO:0030246";ID=match$73_1132_1217;signature_desc=SUEL-type lectin domain profile.;Name=PS50228;status=T;Dbxref="InterPro:IPR000922"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	450	612	3.6E-45	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 450 612;ID=match$74_450_612;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	802	977	1.58E-21	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 802 977;ID=match$75_802_977;Name=SSF49899;status=T;Dbxref="InterPro:IPR013320"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	2573	2657	1.2E-12	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2573 2657;ID=match$76_2573_2657;signature_desc=SEA domain;Name=PF01390;status=T;Dbxref="InterPro:IPR000082"
+Nematostella_Vectensis_XP_032222765.1	MobiDBLite	protein_match	2255	2276	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2255 2276;ID=match$77_2255_2276;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	458	605	2.12592E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 458 605;ID=match$78_458_605;signature_desc=FA58C;Name=cd00057;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	TMHMM	protein_match	2706	2728	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2706 2728;ID=match$79_2706_2728;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TMhelix;status=T
+Nematostella_Vectensis_XP_032222765.1	CDD	protein_match	324	448	1.08817E-25	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 324 448;ID=match$80_324_448;signature_desc=CLECT;Name=cd00037;status=T
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	999	1109	4.4E-22	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 999 1109;ID=match$81_999_1109;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	635	743	6.6E-18	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 635 743;ID=match$81_635_743;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1699	1811	1.2E-15	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1699 1811;ID=match$81_1699_1811;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	196	307	2.0E-19	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 196 307;ID=match$81_196_307;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1992	2094	4.3E-24	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1992 2094;ID=match$81_1992_2094;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	336	448	5.7E-19	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 336 448;ID=match$81_336_448;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1397	1502	1.4E-15	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1397 1502;ID=match$81_1397_1502;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	49	155	2.6E-23	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 49 155;ID=match$81_49_155;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1847	1954	3.5E-14	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1847 1954;ID=match$81_1847_1954;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1246	1359	1.4E-15	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1246 1359;ID=match$81_1246_1359;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Pfam	protein_match	1551	1657	1.2E-22	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1551 1657;ID=match$81_1551_1657;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Phobius	protein_match	2706	2728	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2706 2728;ID=match$82_2706_2728;signature_desc=Region of a membrane-bound protein predicted to be embedded in the membrane.;Name=TRANSMEMBRANE;status=T
+Nematostella_Vectensis_XP_032222765.1	SignalP_EUK	protein_match	1	22	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1 22;ID=match$83_1_22;Name=SignalP-noTM;status=T
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1963	2097	2.19E-43	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1963 2097;ID=match$84_1963_2097;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	2395	2540	1.21E-40	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2395 2540;ID=match$85_2395_2540;Name=SSF49785;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	1687	1810	24.167	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1687 1810;ID=match$86_1687_1810;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	2099	2245	7.4E-46	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2099 2245;ID=match$87_2099_2245;Name=G3DSA:2.60.120.260;status=T;Dbxref="InterPro:IPR008979"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	2247	2391	37.311	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 2247 2391;ID=match$88_2247_2391;signature_desc=Coagulation factors 5/8 type C domain (FA58C) profile.;Name=PS50022;status=T;Dbxref="InterPro:IPR000421"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	1669	1814	3.3E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1669 1814;ID=match$89_1669_1814;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	ProSitePatterns	protein_match	1082	1108	.	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1082 1108;ID=match$90_1082_1108;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Nematostella_Vectensis_XP_032222765.1	ProSiteProfiles	protein_match	185	306	25.511	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 185 306;ID=match$91_185_306;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SUPERFAMILY	protein_match	1667	1813	1.71E-33	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1667 1813;ID=match$92_1667_1813;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	615	742	1.1E-27	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 615 742;ID=match$93_615_742;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1680	1810	1.6E-23	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1680 1810;ID=match$93_1680_1810;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	178	306	2.0E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 178 306;ID=match$93_178_306;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1829	1954	4.4E-29	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1829 1954;ID=match$93_1829_1954;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	982	1109	1.1E-33	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 982 1109;ID=match$93_982_1109;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	314	447	1.1E-32	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 314 447;ID=match$93_314_447;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1970	2094	1.6E-38	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1970 2094;ID=match$93_1970_2094;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1226	1358	3.1E-30	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1226 1358;ID=match$93_1226_1358;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1528	1656	8.6E-34	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1528 1656;ID=match$93_1528_1656;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	1379	1501	2.4E-33	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 1379 1501;ID=match$93_1379_1501;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	SMART	protein_match	25	154	8.9E-36	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 25 154;ID=match$93_25_154;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	174	310	3.0E-39	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 174 310;ID=match$94_174_310;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Nematostella_Vectensis_XP_032222765.1	Gene3D	protein_match	977	1116	2.1E-41	+	.	date=22-10-2020;Target=Nematostella_Vectensis_XP_032222765.1 977 1116;ID=match$94_977_1116;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+##FASTA
+>Nematostella_Vectensis_XP_032222765.1
+MAVIAGSPSLLLLSLWLATALAGDCTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQS
+YGGHLASISDQSEQNFITGRIKQYTNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGE
+PNNFQDNEDCTELLYQDGLWNDDDCSKEYSFICKTLKGAPAPTQPTLMPPTTLTPLSCDA
+GWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIG
+LNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTL
+RAYVCEKPNGQSLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEK
+DEQQFIEQVLSDRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCV
+SLIPWTPFGSGDWGTVSCTTTNAYVCKKTRASSKCDAPFGLADYTIDDSLLTASSSDRTS
+VPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDLGLRRQVTHIAIQGRPKSTDFVKTFYL
+KYGNDGSTFNYYGANATENYLVLNGSSDSDTVANIMLKDPINARFVRIYPSSWSNNICLR
+IEIYGCASQAYSRKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNE
+KAYIETRVKALDSSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVE
+LVPSRAAWRDVDCGQFRPFICKRKLGSNNTPKLSRTANWISTADYYWPLDNIIQGRALGT
+ANAKVTGNVSHPEILQNGHDVLQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDS
+SAASWTNRVFLVDTIGDERFASSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHH
+VMITWHKTAGLIYYLNGRESGVMAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLA
+IWTRVLDANDVTDIYNSEFGNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSI
+QSPVEQAHITLEVGQFGVREYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQE
+DCAHTYHEPHAVGRWNDMPCYSGNSYICKAKKAYVPFGGSVNPTTAPETKIICEFSSAIL
+SCPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFGN
+DPCPSVTKYLETTYTCTKGTVVTPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQG
+AELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPN
+DRGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCKMFRRNYTPPPPSPTTAATGPCP
+FGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWI
+GLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMC
+KRTRPSRATPSRPPTSTPSPTTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFC
+RKSRGDLVSLRTANENAFVFSEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGN
+KEPNNWNGMEDCGEMSRFDGRWNDQNCNLKRTFVCRKHNNTIFPPFTMIPPSPGPAVGKC
+DSGWINYDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASN
+RGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEV
+CSGFQGYVCETDALPLGPTTAPPTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKD
+GAQLISIHGVKEQAYMIKNLKDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQ
+PGTSQTCVQVNNSITSNGRWSAVDCGLKNSFMCKIYKGEPHVTPSLLGECQPGWVKFDKF
+CYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIE
+GGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICKSKLECS
+FALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKI
+AMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDA
+QYLRVYPETWSNNPCAKIEFYGCPFECESPRGMSSGKMNDDQITASSSNSDARTPPQAKL
+AGNGWCPKTSDPQPWIQLTYKDEKRLTKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTE
+KGVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLPVAGSPDGKCLRFDFYGCASACLEPQG
+LEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMRVRQIAT
+QGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKAVRGQYF
+RLKPLTWSRNICIRVELYGCLPNNAPTVSPPTEKPSGNPTDGTVAPTEPPYVVYRAKIRL
+TATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDTDSLAFKEVAVNSFRRGSVIADF
+NVTFITDLAEGANVTGKLRAAVRSGKVGELQVDPDYFYITKVVSSGGKSQRQKGDQSSGL
+SPGGKAAIAVVFVIALLIGGAVATWYYFKKYRGGKLQFKHQTFDNPIHFSSKAYDIDA
+>match$1_1977_2094
+FDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLND
+RNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICK
+>match$2_2099_2243
+CSFALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVT
+KIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPI
+DAQYLRVYPETWSNNPCAKIEFYGC
+>match$3_455_606
+CDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDL
+GLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVAN
+IMLKDPINARFVRIYPSSWSNNICLRIEIYGC
+>match$4_623_742
+PDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSSAGNMWIGL
+NDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCGQFRPFICK
+>match$5_2098_2244
+ECSFALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRV
+TKIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPP
+IDAQYLRVYPETWSNNPCAKIEFYGCP
+>match$6_590_606
+PSSWSNNICLRIEIYGC
+>match$7_1386_1501
+YRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWIGLNDR
+GSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMCK
+>match$8_454_606
+KCDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVD
+LGLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVA
+NIMLKDPINARFVRIYPSSWSNNICLRIEIYGC
+>match$8_2098_2243
+ECSFALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRV
+TKIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPP
+IDAQYLRVYPETWSNNPCAKIEFYGC
+>match$8_2246_2391
+ECESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKR
+LTKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPI
+RTRYVRLLPVAGSPDGKCLRFDFYGC
+>match$8_2394_2540
+ACLEPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPM
+RVRQIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPK
+AVRGQYFRLKPLTWSRNICIRVELYGC
+>match$9_1839_1955
+SCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKDLVGNVWTGMVRMPNSL
+MFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSAVDCGLKNSFMCKI
+>match$10_2070_2093
+CGEMVAGNRLWNDYSCSQQRGYIC
+>match$11_2565_2680
+APTEPPYVVYRAKIRLTATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDTDSLAFK
+EVAVNSFRRGSVIADFNVTFITDLAEGANVTGKLRAAVRSGKVGELQVDPDYFYIT
+>match$12_25_256
+CTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQY
+TNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDD
+CSKEYSFICKTLKGAPAPTQPTLMPPTTLTPLSCDAGWSQYGASCYKFSTSSKTWLIAQQ
+DCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIEGTYVWEGDN
+>match$12_179_310
+DAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAW
+IGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCD
+TLRAYVCEKPNG
+>match$12_312_466
+SLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLS
+DRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSG
+DWGTVSCTTTNAYVCKKTRASSKCDAPFGLADYTI
+>match$12_558_610
+ENYLVLNGSSDSDTVANIMLKDPINARFVRIYPSSWSNNICLRIEIYGCASQA
+>match$12_612_1125
+SRKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKAL
+DSSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDV
+DCGQFRPFICKRKLGSNNTPKLSRTANWISTADYYWPLDNIIQGRALGTANAKVTGNVSH
+PEILQNGHDVLQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDSSAASWTNRVFL
+VDTIGDERFASSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHHVMITWHKTAGL
+IYYLNGRESGVMAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLAIWTRVLDANDV
+TDIYNSEFGNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITL
+EVGQFGVREYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHA
+VGRWNDMPCYSGNSYICKAKKAYVPFGGSVNPTT
+>match$12_1142_1375
+CPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFGND
+PCPSVTKYLETTYTCTKGTVVTPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGA
+ELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPND
+RGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCKMFRRNYTPPPPSPTTAA
+>match$12_1376_1542
+TGPCPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNS
+LTLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYAT
+RPYMCKRTRPSRATPSRPPTSTPSPTTQAPGVCDAGWVYWGGLCYYF
+>match$12_1521_2276
+TTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVF
+SEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDG
+RWNDQNCNLKRTFVCRKHNNTIFPPFTMIPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQ
+NWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWV
+DYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVCETDALPLGPTT
+APPTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNL
+KDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRW
+SAVDCGLKNSFMCKIYKGEPHVTPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTC
+TRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGE
+PNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICKSKLECSFALGMSSGGITNTQLTSSLS
+QPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVRSYTVQ
+YGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYPETWSNNPCAKIEF
+YGCPFECESPRGMSSGKMNDDQITASSSNSDARTPP
+>match$12_2315_2423
+GSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLP
+VAGSPDGKCLRFDFYGCASACLEPQGLEQGTIEDSWIEASSELDGDHGA
+>match$13_2254_2288
+SSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPK
+>match$14_32_154
+LGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQYTNEHFWV
+GFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDDCSKEYSF
+ICK
+>match$15_1503_1523
+TRPSRATPSRPPTSTPSPTTQ
+>match$16_472_603
+TASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDLGLRRQVTHIAIQGRPKS
+TDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVANIMLKDPINARFVRIYPS
+SWSNNICLRIEI
+>match$16_2116_2236
+TSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVR
+SYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYPETWSNNPC
+A
+>match$16_2262_2382
+QITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKRLTKVVTWGGGSSGGYV
+SKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLPVAGSPDG
+K
+>match$16_2411_2537
+IEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMRVRQIATQGSPDGTGYV
+KSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKAVRGQYFRLKPLTWSRN
+ICIRVEL
+>match$17_718_741
+CVELVPSRAAWRDVDCGQFRPFIC
+>match$18_824_971
+ETCNPGFTVSVIIKLDSSAASWTNRVFLVDTIGDERFASSRGFSVYLEGGRIKVEVFTVQ
+RTWSFSTGMPRVGMWHHVMITWHKTAGLIYYLNGRESGVMAWARFVYPQHTINNVALTIG
+SKPTQQATGAFYMRSLAIWTRVLDANDV
+>match$19_989_1109
+FGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVREYAWIGLHD
+ESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMPCYSGNSYIC
+K
+>match$20_188_307
+SCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIE
+GTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTLRAYVCEK
+>match$21_1366_1503
+PPPPSPTTAATGPCPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGES
+LFVQSLTNNSLTLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTG
+YWGDVGCYATRPYMCKRT
+>match$22_1823_1958
+PTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKD
+LVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSA
+VDCGLKNSFMCKIYKG
+>match$23_2247_2391
+CESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKRL
+TKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIR
+TRYVRLLPVAGSPDGKCLRFDFYGC
+>match$24_25_256
+CTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQY
+TNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDD
+CSKEYSFICKTLKGAPAPTQPTLMPPTTLTPLSCDAGWSQYGASCYKFSTSSKTWLIAQQ
+DCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIEGTYVWEGDN
+>match$24_179_310
+DAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAW
+IGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCD
+TLRAYVCEKPNG
+>match$24_312_466
+SLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLS
+DRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSG
+DWGTVSCTTTNAYVCKKTRASSKCDAPFGLADYTI
+>match$24_558_610
+ENYLVLNGSSDSDTVANIMLKDPINARFVRIYPSSWSNNICLRIEIYGCASQA
+>match$24_612_1125
+SRKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKAL
+DSSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDV
+DCGQFRPFICKRKLGSNNTPKLSRTANWISTADYYWPLDNIIQGRALGTANAKVTGNVSH
+PEILQNGHDVLQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDSSAASWTNRVFL
+VDTIGDERFASSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHHVMITWHKTAGL
+IYYLNGRESGVMAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLAIWTRVLDANDV
+TDIYNSEFGNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITL
+EVGQFGVREYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHA
+VGRWNDMPCYSGNSYICKAKKAYVPFGGSVNPTT
+>match$24_1142_1375
+CPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFGND
+PCPSVTKYLETTYTCTKGTVVTPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGA
+ELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPND
+RGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCKMFRRNYTPPPPSPTTAA
+>match$24_1376_1542
+TGPCPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNS
+LTLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYAT
+RPYMCKRTRPSRATPSRPPTSTPSPTTQAPGVCDAGWVYWGGLCYYF
+>match$24_1521_2276
+TTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVF
+SEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDG
+RWNDQNCNLKRTFVCRKHNNTIFPPFTMIPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQ
+NWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWV
+DYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVCETDALPLGPTT
+APPTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNL
+KDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRW
+SAVDCGLKNSFMCKIYKGEPHVTPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTC
+TRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGE
+PNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICKSKLECSFALGMSSGGITNTQLTSSLS
+QPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVRSYTVQ
+YGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYPETWSNNPCAKIEF
+YGCPFECESPRGMSSGKMNDDQITASSSNSDARTPP
+>match$24_2315_2423
+GSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIRTRYVRLLP
+VAGSPDGKCLRFDFYGCASACLEPQGLEQGTIEDSWIEASSELDGDHGA
+>match$25_1235_1350
+DGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTSWDAGDVWIGLTD
+TNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMYWVDSDCTE
+>match$26_1390_1502
+CYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWIGLNDRGSIS
+GHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMCKR
+>match$27_130_153
+CTELLYQDGLWNDDDCSKEYSFIC
+>match$28_1535_1656
+WGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVFSEIKTRYYYWTVWI
+GLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDGRWNDQNCNLKRTFV
+CR
+>match$29_1376_1504
+TGPCPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNS
+LTLWIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYAT
+RPYMCKRTR
+>match$30_18_22
+ATALA
+>match$31_1_22
+MAVIAGSPSLLLLSLWLATALA
+>match$32_1478_1500
+CVVLKSTGYWGDVGCYATRPYMC
+>match$33_23_2705
+GDCTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIK
+QYTNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWND
+DDCSKEYSFICKTLKGAPAPTQPTLMPPTTLTPLSCDAGWSQYGASCYKFSTSSKTWLIA
+QQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIEGTYVWEGDNTKLGQN
+YSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTLRAYVCEKPNGQSLCPVNWVPYK
+DSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDRKSGDIWLGL
+NDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDWGTVSCTTTN
+AYVCKKTRASSKCDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSA
+KNTLGEYLQVDLGLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLV
+LNGSSDSDTVANIMLKDPINARFVRIYPSSWSNNICLRIEIYGCASQAYSRKCGTGWEEG
+PDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSSAGNMWIGL
+NDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCGQFRPFICK
+RKLGSNNTPKLSRTANWISTADYYWPLDNIIQGRALGTANAKVTGNVSHPEILQNGHDVL
+QFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDSSAASWTNRVFLVDTIGDERFAS
+SRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHHVMITWHKTAGLIYYLNGRESGV
+MAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLAIWTRVLDANDVTDIYNSEFGNC
+KTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVREYA
+WIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMPCYS
+GNSYICKAKKAYVPFGGSVNPTTAPETKIICEFSSAILSCPASTTITIQSANFGRTSSAP
+CGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFGNDPCPSVTKYLETTYTCTKGTVV
+TPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTS
+WDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMY
+WVDSDCTENSHAYVCKMFRRNYTPPPPSPTTAATGPCPFGWKVYRSACYRVFMSPTTWTG
+ARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWIGLNDRGSISGHLWSDGTPVQFT
+RWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMCKRTRPSRATPSRPPTSTPSPTT
+QAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVFSE
+IKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDGRW
+NDQNCNLKRTFVCRKHNNTIFPPFTMIPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQNW
+VNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWVDY
+SSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVCETDALPLGPTTAP
+PTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKD
+LVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSA
+VDCGLKNSFMCKIYKGEPHVTPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTCTR
+QGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPN
+DLVGVENCGEMVAGNRLWNDYSCSQQRGYICKSKLECSFALGMSSGGITNTQLTSSLSQP
+GYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIAMKGLNLAGSASYVRSYTVQYG
+SYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQYLRVYPETWSNNPCAKIEFYG
+CPFECESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKD
+EKRLTKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLG
+EPIRTRYVRLLPVAGSPDGKCLRFDFYGCASACLEPQGLEQGTIEDSWIEASSELDGDHG
+AAMARLNAPYGWCAATSDKDQYLTINLNRPMRVRQIATQGSPDGTGYVKSFALVFKREDT
+KWKNIQDFDNSIKTFTANTDGSTVVTTTFPKAVRGQYFRLKPLTWSRNICIRVELYGCLP
+NNAPTVSPPTEKPSGNPTDGTVAPTEPPYVVYRAKIRLTATEWSDDYSKSSSAAFKTLSS
+QVTSSVRSLYSGSSDTDSLAFKEVAVNSFRRGSVIADFNVTFITDLAEGANVTGKLRAAV
+RSGKVGELQVDPDYFYITKVVSSGGKSQRQKGDQSSGLSPGGK
+>match$34_1970_2094
+CQPGWVKFDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRS
+IWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQR
+GYICK
+>match$35_775_976
+GRALGTANAKVTGNVSHPEILQNGHDVLQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSV
+IIKLDSSAASWTNRVFLVDTIGDERFASSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPR
+VGMWHHVMITWHKTAGLIYYLNGRESGVMAWARFVYPQHTINNVALTIGSKPTQQATGAF
+YMRSLAIWTRVLDANDVTDIYN
+>match$36_2_17
+AVIAGSPSLLLLSLWL
+>match$37_16_156
+WLATALAGDCTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQN
+FITGRIKQYTNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLY
+QDGLWNDDDCSKEYSFICKTL
+>match$37_311_449
+QSLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVL
+SDRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGS
+GDWGTVSCTTTNAYVCKKT
+>match$37_1820_1956
+TAPPTPSPDCPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKN
+LKDLVGNVWTGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGR
+WSAVDCGLKNSFMCKIY
+>match$38_1_22
+MAVIAGSPSLLLLSLWLATALA
+>match$39_2246_2393
+ECESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKR
+LTKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPI
+RTRYVRLLPVAGSPDGKCLRFDFYGCAS
+>match$40_1690_1810
+SCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLN
+DLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVC
+E
+>match$41_2570_2684
+PYVVYRAKIRLTATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDTDSLAFKEVAVN
+SFRRGSVIADFNVTFITDLAEGANVTGKLRAAVRSGKVGELQVDPDYFYITKVVS
+>match$42_35_154
+SCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQYTNEHFWVGFN
+DRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDDCSKEYSFICK
+>match$43_2433_2462
+GWCAATSDKDQYLTINLNRPMRVRQIATQG
+>match$44_2102_2242
+ALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVTKIA
+MKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPIDAQ
+YLRVYPETWSNNPCAKIEFYG
+>match$45_613_752
+RKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALD
+SSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVD
+CGQFRPFICKRKLGSNNTPK
+>match$45_1223_1366
+TPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTS
+WDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMY
+WVDSDCTENSHAYVCKMFRRNYTP
+>match$46_312_449
+SLCPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLS
+DRKSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSG
+DWGTVSCTTTNAYVCKKT
+>match$47_591_745
+SSWSNNICLRIEIYGCASQAYSRKCGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGG
+DLLSIVTNNEKAYIETRVKALDSSAGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPN
+DPKNTRSCVELVPSRAAWRDVDCGQFRPFICKRKL
+>match$48_980_1113
+GNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVR
+EYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMP
+CYSGNSYICKAKKA
+>match$49_627_743
+CYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSSAGNMWIGLNDRE
+TSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCGQFRPFICKR
+>match$50_2397_2539
+EPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMRVR
+QIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKAVR
+GQYFRLKPLTWSRNICIRVELYG
+>match$51_1_1
+M
+>match$52_1239_1359
+CYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQR
+GMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCK
+M
+>match$53_2729_2758
+KKYRGGKLQFKHQTFDNPIHFSSKAYDIDA
+>match$54_1516_1659
+STPSPTTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANE
+NAFVFSEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEM
+SRFDGRWNDQNCNLKRTFVCRKHN
+>match$55_498_527
+AWCSAKNTLGEYLQVDLGLRRQVTHIAIQG
+>match$56_1120_1222
+SVNPTTAPETKIICEFSSAILSCPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRM
+KDLCEGKNFCSVRPVTGLFGNDPCPSVTKYLETTYTCTKGTVV
+>match$57_2394_2541
+ACLEPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPM
+RVRQIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPK
+AVRGQYFRLKPLTWSRNICIRVELYGCL
+>match$58_166_309
+TLMPPTTLTPLSCDAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFL
+SYMMKTVMKQAAWIGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYS
+GSLGGFWNDDYCDTLRAYVCEKPN
+>match$59_2249_2390
+SPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKRLTK
+VVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIRTR
+YVRLLPVAGSPDGKCLRFDFYG
+>match$60_1632_1655
+CGEMSRFDGRWNDQNCNLKRTFVC
+>match$61_1513_1662
+PPTSTPSPTTQAPGVCDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRT
+ANENAFVFSEIKTRYYYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDC
+GEMSRFDGRWNDQNCNLKRTFVCRKHNNTI
+>match$61_1957_2098
+KGEPHVTPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQ
+DFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAG
+NRLWNDYSCSQQRGYICKSKLE
+>match$62_13_156
+LSLWLATALAGDCTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQS
+EQNFITGRIKQYTNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTE
+LLYQDGLWNDDDCSKEYSFICKTL
+>match$63_2395_2540
+CLEPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMR
+VRQIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKA
+VRGQYFRLKPLTWSRNICIRVELYGC
+>match$64_1836_1954
+YGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKDLVGNVWTGMVRMP
+NSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSAVDCGLKNSFMCK
+>match$65_1140_1216
+LSCPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSVRPVTGLFG
+NDPCPSVTKYLETTYTC
+>match$66_1_22
+MAVIAGSPSLLLLSLWLATALA
+>match$67_455_606
+CDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDL
+GLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVAN
+IMLKDPINARFVRIYPSSWSNNICLRIEIYGC
+>match$68_1964_1982
+PSLLGECQPGWVKFDKFCY
+>match$68_2015_2037
+EQDFLIYQSKSSYRSIWIGLNDR
+>match$68_2043_2061
+WQWSDGSPLAYVAWNGGEP
+>match$68_2082_2096
+DYSCSQQRGYICKSK
+>match$69_1222_1366
+VTPGCPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVT
+SWDAGDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWM
+YWVDSDCTENSHAYVCKMFRRNYTP
+>match$70_1528_1657
+CDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVFSEIKTRY
+YYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDGRWNDQNC
+NLKRTFVCRK
+>match$71_280_305
+CISMYSGSLGGFWNDDYCDTLRAYVC
+>match$72_321_447
+YKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDRKSGDIWL
+GLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDWGTVSCTT
+TNAYVCK
+>match$73_1132_1217
+ICEFSSAILSCPASTTITIQSANFGRTSSAPCGLISVTNCVNNVTDRMKDLCEGKNFCSV
+RPVTGLFGNDPCPSVTKYLETTYTCT
+>match$74_450_612
+RASSKCDAPFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEY
+LQVDLGLRRQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDS
+DTVANIMLKDPINARFVRIYPSSWSNNICLRIEIYGCASQAYS
+>match$75_802_977
+LQFSPSGSYLSAGDVPGCVSDAETCNPGFTVSVIIKLDSSAASWTNRVFLVDTIGDERFA
+SSRGFSVYLEGGRIKVEVFTVQRTWSFSTGMPRVGMWHHVMITWHKTAGLIYYLNGRESG
+VMAWARFVYPQHTINNVALTIGSKPTQQATGAFYMRSLAIWTRVLDANDVTDIYNS
+>match$76_2573_2657
+VYRAKIRLTATEWSDDYSKSSSAAFKTLSSQVTSSVRSLYSGSSDTDSLAFKEVAVNSFR
+RGSVIADFNVTFITDLAEGANVTGK
+>match$77_2255_2276
+SGKMNDDQITASSSNSDARTPP
+>match$78_458_605
+PFGLADYTIDDSLLTASSSDRTSVPAFARLRLQSKPGSSGAWCSAKNTLGEYLQVDLGLR
+RQVTHIAIQGRPKSTDFVKTFYLKYGNDGSTFNYYGANATENYLVLNGSSDSDTVANIML
+KDPINARFVRIYPSSWSNNICLRIEIYG
+>match$79_2706_2728
+AAIAVVFVIALLIGGAVATWYYF
+>match$80_324_448
+SCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDRKSGDIWLGLN
+DRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDWGTVSCTTTNA
+YVCKK
+>match$81_49_155
+QSWENAENLCQSYGGHLASISDQSEQNFITGRIKQYTNEHFWVGFNDRANESSYNWTDGT
+AKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDDCSKEYSFICKT
+>match$81_196_307
+SKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDRAIEGTYVWEGD
+NTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTLRAYVCEK
+>match$81_336_448
+VTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDRKSGDIWLGLNDRVSEGTFVWSD
+RSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDWGTVSCTTTNAYVCKK
+>match$81_635_743
+RKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSSAGNMWIGLNDRETSRLFSWS
+DQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCGQFRPFICKR
+>match$81_999_1109
+EKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVREYAWIGLHDESVESAWEWS
+DGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMPCYSGNSYICK
+>match$81_1246_1359
+KKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTSWDAGDVWIGLTDTNQRGMYRWTD
+GSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMYWVDSDCTENSHAYVCKM
+>match$81_1397_1502
+PTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTLWIGLNDRGSISGHLWSDG
+TPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPYMCKR
+>match$81_1551_1657
+KTWMEARDFCRKSRGDLVSLRTANENAFVFSEIKTRYYYWTVWIGLNDLGTEGVNTWSDG
+SPMSYINWGNKEPNNWNGMEDCGEMSRFDGRWNDQNCNLKRTFVCRK
+>match$81_1699_1811
+RQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWIGLNDLHTEGTFG
+WVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQGYVCET
+>match$81_1847_1954
+KLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKDLVGNVWTGMVRMPNSLMFTWSDQS
+VKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSAVDCGLKNSFMCK
+>match$81_1992_2094
+TWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRSIWIGLNDRNIEGGWQWSDGSPL
+AYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQRGYICK
+>match$82_2706_2728
+AAIAVVFVIALLIGGAVATWYYF
+>match$83_1_22
+MAVIAGSPSLLLLSLWLATALA
+>match$84_1963_2097
+TPSLLGECQPGWVKFDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQ
+SKSSYRSIWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWND
+YSCSQQRGYICKSKL
+>match$85_2395_2540
+CLEPQGLEQGTIEDSWIEASSELDGDHGAAMARLNAPYGWCAATSDKDQYLTINLNRPMR
+VRQIATQGSPDGTGYVKSFALVFKREDTKWKNIQDFDNSIKTFTANTDGSTVVTTTFPKA
+VRGQYFRLKPLTWSRNICIRVELYGC
+>match$86_1687_1810
+YDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLASNRGNVWI
+GLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVEVCSGFQG
+YVCE
+>match$87_2099_2245
+CSFALGMSSGGITNTQLTSSLSQPGYGPSMARLNGSTAWCANVSQTPYIQVDFLNQTRVT
+KIAMKGLNLAGSASYVRSYTVQYGSYKDQWETYTVKGQTKVCAGNSDTSGVVTVNFDPPI
+DAQYLRVYPETWSNNPCAKIEFYGCPF
+>match$88_2247_2391
+CESPRGMSSGKMNDDQITASSSNSDARTPPQAKLAGNGWCPKTSDPQPWIQLTYKDEKRL
+TKVVTWGGGSSGGYVSKYRLAYSDDGVAWIDYTEKGVVRMFRGNGDTKSHLTHVLGEPIR
+TRYVRLLPVAGSPDGKCLRFDFYGC
+>match$89_1669_1814
+IPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLY
+EQAFLTTMLASNRGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMST
+SSSSLGEWDVEVCSGFQGYVCETDAL
+>match$90_1082_1108
+CAHTYHEPHAVGRWNDMPCYSGNSYIC
+>match$91_185_306
+YGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAAWIGLNDR
+AIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYCDTLRAYV
+CE
+>match$92_1667_1813
+TMIPPSPGPAVGKCDSGWINYDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINN
+LYEQAFLTTMLASNRGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGM
+STSSSSLGEWDVEVCSGFQGYVCETDA
+>match$93_25_154
+CTVGWEALGGSCYKFIVSSLTVRGQSWENAENLCQSYGGHLASISDQSEQNFITGRIKQY
+TNEHFWVGFNDRANESSYNWTDGTAKPFYTNWRRGEPNNFQDNEDCTELLYQDGLWNDDD
+CSKEYSFICK
+>match$93_178_306
+CDAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVMKQAA
+WIGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWNDDYC
+DTLRAYVCE
+>match$93_314_447
+CPVNWVPYKDSCYHFNTHQAQLVTWEKAYNVCQAAMPGSDLLSILEKDEQQFIEQVLSDR
+KSGDIWLGLNDRVSEGTFVWSDRSPVNYTNWGQYEPSKYGSDSRDCVSLIPWTPFGSGDW
+GTVSCTTTNAYVCK
+>match$93_615_742
+CGTGWEEGPDSTCYQFNTDSRKIWADARATCLGQGGDLLSIVTNNEKAYIETRVKALDSS
+AGNMWIGLNDRETSRLFSWSDQSPLAIIRWDAGFPNDPKNTRSCVELVPSRAAWRDVDCG
+QFRPFICK
+>match$93_982_1109
+CKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQFGVREY
+AWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWNDMPCY
+SGNSYICK
+>match$93_1226_1358
+CPVGWKRSPDGNVCYGLILDKKTWPDARDSCRAQGAELASIHTGWESALVTSLLVTSWDA
+GDVWIGLTDTNQRGMYRWTDGSPVDWTHWWNGEPNDRGITGSCVRATMTVSSRDWMYWVD
+SDCTENSHAYVCK
+>match$93_1379_1501
+CPFGWKVYRSACYRVFMSPTTWTGARDACRATGDNTDLVSMHDSGESLFVQSLTNNSLTL
+WIGLNDRGSISGHLWSDGTPVQFTRWGPAEPDSHSGQQPCVVLKSTGYWGDVGCYATRPY
+MCK
+>match$93_1528_1656
+CDAGWVYWGGLCYYFSNATTADLKTWMEARDFCRKSRGDLVSLRTANENAFVFSEIKTRY
+YYWTVWIGLNDLGTEGVNTWSDGSPMSYINWGNKEPNNWNGMEDCGEMSRFDGRWNDQNC
+NLKRTFVCR
+>match$93_1680_1810
+CDSGWINYDKSCYKFVFDQRQNWVNAESVCSQGLNSTNSGHLVVINNLYEQAFLTTMLAS
+NRGNVWIGLNDLHTEGTFGWVDYSSVAYTNWIAGKPGWSYWADCVGMSTSSSSLGEWDVE
+VCSGFQGYVCE
+>match$93_1829_1954
+CPSGYSKYGESCYLMYYNKLNWKEAGEVCQKDGAQLISIHGVKEQAYMIKNLKDLVGNVW
+TGMVRMPNSLMFTWSDQSVKQYTNWARGQPGQPGTSQTCVQVNNSITSNGRWSAVDCGLK
+NSFMCK
+>match$93_1970_2094
+CQPGWVKFDKFCYLFSGISAYVTWSQARSTCTRQGADLVSILNQEEQDFLIYQSKSSYRS
+IWIGLNDRNIEGGWQWSDGSPLAYVAWNGGEPNDLVGVENCGEMVAGNRLWNDYSCSQQR
+GYICK
+>match$94_174_310
+TPLSCDAGWSQYGASCYKFSTSSKTWLIAQQDCHQSGGYLVKVDNSDEQHFLSYMMKTVM
+KQAAWIGLNDRAIEGTYVWEGDNTKLGQNYSHWYSGEPNDHASVEDCISMYSGSLGGFWN
+DDYCDTLRAYVCEKPNG
+>match$94_977_1116
+SEFGNCKTGWKEFGQFCYQFNMEKKSWSAARQQCQANGGDLVSIQSPVEQAHITLEVGQF
+GVREYAWIGLHDESVESAWEWSDGSPVRFTNWYNNQPDNWLAQEDCAHTYHEPHAVGRWN
+DMPCYSGNSYICKAKKAYVP

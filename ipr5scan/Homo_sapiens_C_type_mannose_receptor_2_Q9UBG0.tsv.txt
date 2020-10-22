@@ -1,0 +1,76 @@
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00059	FN2_2	180	228	6.6E-27	T	22-10-2020	IPR000562	Fibronectin type II domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSitePatterns	PS00615	C-type lectin domain signature.	927	950	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	518	653	6.87E-34	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS51092	Fibronectin type-II collagen-binding domain profile.	182	230	20.011	T	22-10-2020	IPR000562	Fibronectin type II domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	681	810	1.6419E-22	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSitePatterns	PS00615	C-type lectin domain signature.	335	359	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	MobiDBLite	mobidb-lite	consensus disorder prediction	1450	1479	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	244	360	25.191	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	1137	1245	1.97428E-13	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF50370	Ricin B-like lectins	41	173	5.53E-26	T	22-10-2020	IPR035992	Ricin B-like lectins		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	837	952	3.01743E-26	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	960	1111	1.57E-33	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	MobiDBLite	mobidb-lite	consensus disorder prediction	1451	1479	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00161	RICIN	43	127	4.23006E-7	T	22-10-2020	IPR000772	Ricin B, lectin domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	827	953	1.06E-33	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00062	FN2	181	228	4.64045E-21	T	22-10-2020	IPR000562	Fibronectin type II domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSitePatterns	PS00023	Fibronectin type-II collagen-binding domain signature.	187	228	-	T	22-10-2020	IPR000562	Fibronectin type II domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSitePatterns	PS00615	C-type lectin domain signature.	481	504	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd03590	CLECT_DC-SIGN_like	382	506	1.70981E-34	T	22-10-2020	IPR033989	CD209-like, C-type lectin-like domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	1412	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	509	646	1.8E-28	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	372	508	1.1E-41	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	982	1109	1.1105E-20	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	235	368	2.82E-37	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50231	Lectin domain of ricin B chain profile.	54	121	12.279	T	22-10-2020	IPR000772	Ricin B, lectin domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	678	809	18.432	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	1132	1238	16.832	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	832	951	23.936	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	979	1101	19.802	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	232	370	2.7E-35	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	666	817	1.4E-29	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	247	361	1.13695E-32	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:2.80.10.50	-	40	173	3.3E-35	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	528	635	19.764	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	1254	1396	3.1E-23	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	818	953	5.0E-31	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	661	811	7.93E-29	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00040	Fibronectin type II domain	187	228	1.5E-15	T	22-10-2020	IPR000562	Fibronectin type II domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	PRINTS	PR00013	Fibronectin type II repeat signature	184	193	4.7E-7	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	PRINTS	PR00013	Fibronectin type II repeat signature	195	207	4.7E-7	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	PRINTS	PR00013	Fibronectin type II repeat signature	212	227	4.7E-7	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	1256	1396	3.15E-27	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00458	ricin_3	41	161	2.5E-15	T	22-10-2020	IPR000772	Ricin B, lectin domain		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	1126	1252	1.3E-24	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	1437	1479	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF57440	Kringle-like	172	230	1.31E-20	T	22-10-2020	IPR013806	Kringle-like fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	1413	1435	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	1413	1436	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:2.10.10.10	-	174	230	1.0E-21	T	22-10-2020	IPR036943	Fibronectin type II domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	531	644	2.954E-25	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Coils	Coil	Coil	1471	1479	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	1124	1244	1.3E-19	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Gene3D	G3DSA:3.10.100.10	-	969	1111	3.5E-31	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	539	645	1.6E-15	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	1288	1394	1.3E-11	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	694	809	5.7E-16	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	1144	1243	6.4E-12	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	256	361	1.5E-22	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	995	1109	2.7E-16	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	844	952	2.2E-19	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	Pfam	PF00059	Lectin C-type domain	400	506	4.2E-23	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	CDD	cd00037	CLECT	1276	1394	1.22927E-15	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	2	1479	0.0	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	1273	1384	16.589	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SUPERFAMILY	SSF56436	C-type lectin-like	376	507	6.07E-42	T	22-10-2020	IPR016187	C-type lectin fold		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	30	-	T	22-10-2020
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	ProSiteProfiles	PS50041	C-type lectin domain profile.	389	505	28.314	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	825	951	6.9E-31	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	1261	1394	2.7E-21	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	1125	1244	1.7E-17	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	521	645	4.7E-25	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	382	505	9.2E-41	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	235	360	1.9E-33	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	669	809	2.8E-29	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	SMART	SM00034	CLECT_2	972	1108	1.3E-34	T	22-10-2020	IPR001304	C-type lectin-like		
+Homo_sapiens_C-type_mannose_receptor_2_Q9UBG0	b79dfc19e9cfbfdac503a0e169a101d8	1479	PANTHER	PTHR22803:SF69	C-TYPE MANNOSE RECEPTOR 2	2	1479	0.0	T	22-10-2020

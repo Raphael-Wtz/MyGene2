@@ -1,0 +1,39 @@
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SUPERFAMILY	SSF56436	C-type lectin-like	16	148	7.98E-40	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SUPERFAMILY	SSF56436	C-type lectin-like	515	658	3.26E-39	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	CDD	cd00037	CLECT	394	502	9.4451E-19	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SMART	SM00034	CLECT_2	241	366	4.3E-36	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SMART	SM00034	CLECT_2	527	656	9.8E-30	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SMART	SM00034	CLECT_2	20	145	8.7E-35	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SMART	SM00034	CLECT_2	384	501	1.5E-22	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SUPERFAMILY	SSF56436	C-type lectin-like	377	503	4.37E-29	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	CDD	cd00037	CLECT	32	146	4.26826E-31	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	CDD	cd01099	PAN_AP_HGF	176	223	7.81726E-11	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Gene3D	G3DSA:3.10.100.10	-	5	150	9.1E-40	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Pfam	PF00024	PAN domain	153	223	1.3E-11	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SMART	SM00473	ntp_6	149	224	1.7E-10	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SUPERFAMILY	SSF56436	C-type lectin-like	235	369	1.3E-40	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Pfam	PF00059	Lectin C-type domain	260	367	1.7E-19	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Pfam	PF00059	Lectin C-type domain	402	502	1.5E-11	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Pfam	PF00059	Lectin C-type domain	552	656	3.8E-22	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Pfam	PF00059	Lectin C-type domain	42	146	6.9E-23	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Gene3D	G3DSA:3.10.100.10	-	515	660	5.6E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Gene3D	G3DSA:3.10.100.10	-	375	504	1.2E-23	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSiteProfiles	PS50041	C-type lectin domain profile.	535	656	24.525	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Gene3D	G3DSA:3.50.4.10	Hepatocyte Growth Factor	151	224	2.3E-9	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSiteProfiles	PS50041	C-type lectin domain profile.	29	145	27.021	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803:SF110	-	223	380	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803:SF110	-	391	504	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803:SF110	-	517	659	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803:SF110	-	9	148	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSiteProfiles	PS50041	C-type lectin domain profile.	391	501	20.736	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSiteProfiles	PS50041	C-type lectin domain profile.	248	366	24.589	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	9	148	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	223	380	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	391	504	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	517	659	3.3E-116	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSitePatterns	PS00615	C-type lectin domain signature.	632	655	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSiteProfiles	PS50948	PAN/Apple domain profile.	144	225	9.459	T	22-10-2020	IPR003609	PAN/Apple domain		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	Gene3D	G3DSA:3.10.100.10	-	225	369	2.7E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	ProSitePatterns	PS00615	C-type lectin domain signature.	121	144	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	CDD	cd00037	CLECT	251	367	6.45224E-27	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R5	0ef499a787f61c5d9137cd6e227ac47f	661	SUPERFAMILY	SSF57414	Hairpin loop containing domain-like	151	225	1.49E-11	T	22-10-2020

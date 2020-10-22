@@ -1,0 +1,33 @@
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	CDD	cd00037	CLECT	568	679	4.89379E-20	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSitePatterns	PS00615	C-type lectin domain signature.	513	539	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Gene3D	G3DSA:3.10.100.10	-	555	683	4.3E-25	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	TMHMM	TMhelix	Region of a membrane-bound protein predicted to be embedded in the membrane.	845	867	-	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SUPERFAMILY	SSF56436	C-type lectin-like	252	399	2.41E-39	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSiteProfiles	PS50041	C-type lectin domain profile.	564	678	19.84	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	PANTHER	PTHR22803:SF104	MACROPHAGE MANNOSE RECEPTOR 1	246	368	6.3E-129	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	PANTHER	PTHR22803:SF104	MACROPHAGE MANNOSE RECEPTOR 1	369	873	6.3E-129	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSiteProfiles	PS50041	C-type lectin domain profile.	263	388	27.136	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	578	678	1.1E-9	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	716	822	1.5E-20	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	281	389	5.8E-24	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Pfam	PF00059	Lectin C-type domain	432	540	1.4E-19	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	CDD	cd00037	CLECT	706	822	6.33689E-29	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SMART	SM00034	CLECT_2	695	821	1.8E-36	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SMART	SM00034	CLECT_2	254	388	1.0E-33	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SMART	SM00034	CLECT_2	557	678	1.4E-17	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SMART	SM00034	CLECT_2	409	540	3.5E-34	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SUPERFAMILY	SSF56436	C-type lectin-like	548	681	7.35E-28	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSitePatterns	PS00615	C-type lectin domain signature.	365	387	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Gene3D	G3DSA:3.10.100.10	-	207	393	5.2E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSiteProfiles	PS50041	C-type lectin domain profile.	416	540	25.831	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSitePatterns	PS00615	C-type lectin domain signature.	797	820	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	246	368	6.3E-129	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	369	873	6.3E-129	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Gene3D	G3DSA:3.10.100.10	-	399	542	2.6E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	ProSiteProfiles	PS50041	C-type lectin domain profile.	702	821	23.885	T	22-10-2020	IPR001304	C-type lectin-like		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	868	914	-	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SUPERFAMILY	SSF56436	C-type lectin-like	397	540	4.37E-39	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	844	-	T	22-10-2020
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	SUPERFAMILY	SSF56436	C-type lectin-like	683	824	1.22E-38	T	22-10-2020	IPR016187	C-type lectin fold		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Gene3D	G3DSA:3.10.100.10	-	684	821	8.5E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R6	31b726d75081a94a2bf80de1f7c59cb3	914	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	845	867	-	T	22-10-2020
