@@ -1,0 +1,1158 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns="http://www.w3.org/2000/svg"
+     id="svgProteinView"
+     viewBox="0 0 1280 1300"
+     version="1.1">
+
+<style type="text/css">
+<![CDATA[
+/*Colours for entries of type domain and repeat.*/
+/*  TYPE Family , site, unintegrated */
+
+.Homologous_superfamily {
+    fill: #399fc7;
+}
+
+.Family {
+    fill: #ffffff;
+}
+
+.Active_site, .Binding_site, .Conserved_site, .PTM, .SITE {
+    fill: #000000;
+}
+
+.uni {
+    fill: #a5a5a5;
+}
+
+    /*  TYPE domain & repeat */
+rect.c1 {
+    fill: #b852d4;
+}
+
+rect.c2 {
+    fill: #00baf0;
+}
+
+rect.c3 {
+    fill: #ff0000;
+}
+
+rect.c4 {
+    fill: #33cc33;
+}
+
+rect.c5 {
+    fill: #ffde00;
+}
+
+rect.c6 {
+    fill: #ffa99e;
+}
+
+rect.c7 {
+    fill: #c571ff;
+}
+
+rect.c8 {
+    fill: #ff9000;
+}
+
+rect.c9 {
+    fill: #c69c6d;
+}
+
+rect.c10 {
+    fill: #ededed;
+}
+
+rect.c11 {
+    fill: #1e82d4;
+}
+
+rect.c12 {
+    fill: #a1e42d;
+}
+
+rect.c13 {
+    fill: #ffff00;
+}
+
+rect.c14 {
+    fill: #cf161d;
+}
+
+rect.c15 {
+    fill: #ff6000;
+}
+
+rect.c16 {
+    fill: #1cbbb4;
+}
+
+rect.c17 {
+    fill: #e354e3;
+}
+
+rect.c18 {
+    fill: #cbcbcb;
+}
+
+rect.c19 {
+    fill: #92acd1
+}
+
+rect.c20 {
+    fill: #a66c32;
+}
+
+rect.c21 {
+    fill: #0000ff;
+}
+
+rect.c22 {
+    fill: #0ff7fa;
+}
+
+rect.c23 {
+    fill: #ecd66d;
+}
+
+rect.c24 {
+    fill: #ffa8fd;
+}
+
+rect.c25 {
+    fill: #9306ff;
+}
+
+rect.c26 {
+    fill: #998675;
+}
+
+rect.c27 {
+    fill: #c3b8f0;
+}
+
+rect.c28 {
+    fill: #7db7ff;
+}
+
+rect.c29 {
+    fill: #00984a
+}
+
+rect.c30 {
+    fill: #bedbfe;
+}
+
+rect.c31 {
+    fill: #ffdfdf;
+}
+
+rect.c32 {
+    fill: #cde6a8;
+}
+
+rect.c33 {
+    fill: #fffdcc;
+}
+
+rect.c34 {
+    fill: #e6e4a8;
+}
+
+rect.c35 {
+    fill: #d5a8e6;
+}
+
+rect.c36 {
+    fill: #e6c4a8;
+}
+
+rect.c37 {
+    fill: #82ca9c;
+}
+
+rect.c38 {
+    fill: #dfffdc;
+}
+
+rect.c39 {
+    fill: #c3b3a1;
+}
+
+rect.c40 {
+    fill: #e7e1ff;
+}
+
+rect.c41 {
+    fill: #950e0e;
+}
+
+rect.c42 {
+    fill: #005e20;
+}
+
+rect.c43 {
+    fill: #a2a420;
+}
+
+rect.c44 {
+    fill: #e8ffa2;
+}
+
+rect.c45 {
+    fill: #ff00ff;
+}
+
+rect.c46 {
+    fill: #604036;
+}
+
+rect.c47 {
+    fill: #717171;
+}
+
+rect.c48 {
+    fill: #6af0a6;
+}
+
+rect.c49 {
+    fill: #5d8ca2;
+}
+
+rect.c50 {
+    fill: #6e2e9d;
+}
+
+rect.c51 {
+    fill: #e56251;
+}
+
+rect.c52 {
+    fill: #a6ff46;
+}
+
+rect.c53 {
+    fill: #bf6b66;
+}
+
+rect.c54 {
+    fill: #6d4afe;
+}
+
+rect.c55 {
+    fill: #a186be;
+}
+
+rect.c56 {
+    fill: #c5209c;
+}
+
+rect.c57 {
+    fill: #d28428;
+}
+
+rect.c58 {
+    fill: #86a185;
+}
+
+rect.c59 {
+    fill: #ffc000;
+}
+
+rect.c60 {
+    fill: #90deda;
+}
+
+rect.c61 {
+    fill: #ffddb2;
+}
+
+]]>
+</style>
+    <title>Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R3_STRPU</title>
+
+    <desc>Auto-generated SVG file produced by InterProScan 5.
+        Tested successfully on the following browsers:
+        *Mozilla Firefox for Ubuntu Version 15.0.1
+        *Chrome/Chromium Version 20.0.1132.47 Ubuntu 12.04
+        *Safari ?
+        *IE ?
+    </desc>
+<defs id="protein_view_defs">
+    <polygon id="blackArrowComponent" points="0,2  8,6  0,10"
+             style="stroke:#660000; fill:black;"/>
+    <svg id="ico_type_homologous_superfamily_small" width="11" height="11" viewBox="0 0 72 72">
+        <defs>
+            <linearGradient id="h-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color:#6caed4" />
+                <stop offset="100%" style="stop-color:#379ec7" />
+            </linearGradient>
+        </defs>
+        <rect
+                x="4" y="4"
+                width="60" height="60"
+                stroke-width="2"
+                stroke="#0886c0"
+                fill="url(#h-gradient)"
+                rx="10"
+                ry="10"
+        />
+        <text
+                x="50%" y="50%"
+                text-anchor="middle"
+                dx="-1px" dy="20px"
+                style="
+               fill: white;
+               font-size: 60px;
+               font-weight:bold;
+               font-family:Arial;
+               ">
+            H
+        </text>
+    </svg>
+
+    <svg id="ico_type_family_small" width="11" height="11" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="family_gradient" gradientUnits="userSpaceOnUse" x1="50.0942" y1="102.2583"
+                            x2="50.0942" y2="3.5391">
+                <stop offset="0" style="stop-color:#D21614"/>
+                <stop offset="1" style="stop-color:#FF3603"/>
+            </linearGradient>
+            <path fill="url(#family_gradient)" d="M16.923,102.258c-8.969,0-16.265-6.863-16.265-15.3V18.841c0-8.438,7.296-15.302,16.265-15.302
+			h66.341c8.969,0,16.266,6.865,16.266,15.302v68.118c0,8.437-7.297,15.3-16.266,15.3H16.923z"/>
+            <path fill="#B00D0C" d="M83.265,4.039c8.693,0,15.766,6.64,15.766,14.802v68.118c0,8.16-7.072,14.8-15.766,14.8H16.923
+			c-8.693,0-15.765-6.64-15.765-14.8V18.841c0-8.162,7.072-14.802,15.765-14.802H83.265 M83.265,3.039H16.923
+			c-9.26,0-16.765,7.073-16.765,15.802v68.118c0,8.723,7.505,15.8,16.765,15.8h66.341c9.258,0,16.766-7.077,16.766-15.8V18.841
+			C100.03,10.111,92.522,3.039,83.265,3.039L83.265,3.039z"/>
+        </g>
+        <text transform="matrix(1 0 0 1 23.4287 86.6528)" fill="#FFFFFF" font-family="Verdana, Helvetica, sans-serif"
+              font-size="93.9316">F
+        </text>
+    </svg>
+    <svg id="ico_type_domain_small" width="11" height="11" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="domain_gradient" gradientUnits="userSpaceOnUse" x1="50.0315" y1="3.7998"
+                            x2="50.0315" y2="102.729" gradientTransform="matrix(1 0 0 -1 0.0449 106.0391)">
+                <stop offset="0" style="stop-color:#54B533"/>
+                <stop offset="1" style="stop-color:#4FD624"/>
+            </linearGradient>
+            <path fill="url(#domain_gradient)" d="M16.837,102.239c-8.987,0-16.3-6.878-16.3-15.333v-68.26c0-8.456,7.313-15.336,16.3-15.336h66.481
+			c8.987,0,16.299,6.88,16.299,15.336v68.26c0,8.455-7.312,15.333-16.299,15.333H16.837z"/>
+            <path fill="#34A218" d="M83.318,3.81c8.712,0,15.799,6.655,15.799,14.836v68.26c0,8.179-7.087,14.833-15.799,14.833H16.837
+				c-8.712,0-15.8-6.654-15.8-14.833v-68.26c0-8.181,7.088-14.836,15.8-14.836H83.318 M83.318,2.81H16.837
+				c-9.279,0-16.8,7.087-16.8,15.836v68.26c0,8.742,7.521,15.833,16.8,15.833h66.481c9.274,0,16.799-7.091,16.799-15.833v-68.26
+				C100.117,9.897,92.594,2.81,83.318,2.81L83.318,2.81z"/>
+        </g>
+        <text transform="matrix(1 0 0 1 18.1262 88.5439)" fill="#FFFFFF" font-family="Verdana, Helvetica, sans-serif"
+              font-size="94.1286">D
+        </text>
+    </svg>
+    <svg id="ico_type_uni_small" width="11" height="11" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="uni_gradient" gradientUnits="userSpaceOnUse" x1="50.0273" y1="102.2642" x2="50.0273"
+                            y2="3.3105">
+                <stop offset="0" style="stop-color:#8E8E8E"/>
+                <stop offset="1" style="stop-color:#A0A0A0"/>
+            </linearGradient>
+            <path fill="url(#uni_gradient)" d="M16.777,102.264c-8.989,0-16.302-6.88-16.302-15.337V18.65c0-8.458,7.313-15.34,16.302-15.34h66.505
+		c8.986,0,16.297,6.881,16.297,15.34v68.277c0,8.457-7.311,15.337-16.297,15.337H16.777z"/>
+            <g>
+                <path fill="#595E63" d="M83.282,3.81c8.71,0,15.797,6.657,15.797,14.84v68.277c0,8.181-7.087,14.837-15.797,14.837H16.777
+			c-8.713,0-15.802-6.656-15.802-14.837V18.65c0-8.183,7.089-14.84,15.802-14.84H83.282 M83.282,2.81H16.777
+			c-9.276,0-16.802,7.089-16.802,15.84v68.277c0,8.745,7.526,15.837,16.802,15.837h66.505c9.271,0,16.797-7.092,16.797-15.837V18.65
+			C100.079,9.899,92.554,2.81,83.282,2.81L83.282,2.81z"/>
+            </g>
+        </g>
+        <text transform="matrix(1 0 0 1 19.7798 89.8755)" fill="#FFFFFF" font-family="Verdana, Helvetica, sans-serif"
+              font-size="94.1525">?
+        </text>
+    </svg>
+    <svg id="ico_type_protein" width="20" height="20" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="protein_type_gradient" gradientUnits="userSpaceOnUse" x1="50.0315" y1="3.7998"
+                            x2="50.0315"
+                            y2="102.729" gradientTransform="matrix(1 0 0 -1 0.0449 106.0391)">
+                <stop offset="0" style="stop-color:#02AEFF"/>
+                <stop offset="1" style="stop-color:#5BC3EA"/>
+            </linearGradient>
+            <path fill="url(#protein_type_gradient)" d="M16.837,102.239c-8.987,0-16.3-6.878-16.3-15.333v-68.26c0-8.456,7.313-15.336,16.3-15.336h66.481
+			c8.987,0,16.299,6.88,16.299,15.336v68.26c0,8.455-7.312,15.333-16.299,15.333H16.837z"/>
+            <path fill="#2E8EE5" d="M83.318,3.81c8.712,0,15.799,6.655,15.799,14.836v68.26c0,8.179-7.087,14.833-15.799,14.833H16.837
+				c-8.712,0-15.8-6.654-15.8-14.833v-68.26c0-8.181,7.088-14.836,15.8-14.836H83.318 M83.318,2.81H16.837
+				c-9.279,0-16.8,7.087-16.8,15.836v68.26c0,8.742,7.521,15.833,16.8,15.833h66.481c9.274,0,16.799-7.091,16.799-15.833v-68.26
+				C100.117,9.897,92.594,2.81,83.318,2.81L83.318,2.81z"/>
+            <text transform="matrix(1 0 0 1 22.0505 88.5439)" fill="#FFFFFF"
+                  font-family="Verdana, Helvetica, sans-serif"
+                  font-size="94.1286">P
+            </text>
+        </g>
+    </svg>
+    <svg id="ico_type_repeat_small" width="11" height="11" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="repeat_gradient" gradientUnits="userSpaceOnUse" x1="50.0315" y1="3.7998" x2="50.0315"
+                            y2="102.729" gradientTransform="matrix(1 0 0 -1 0.0449 106.0391)">
+                <stop offset="0" style="stop-color:#F66D1C"/>
+                <stop offset="0.9879" style="stop-color:#FFB001"/>
+            </linearGradient>
+            <path fill="url(#repeat_gradient)" d="M16.837,102.239c-8.987,0-16.3-6.878-16.3-15.333v-68.26c0-8.456,7.313-15.336,16.3-15.336h66.481
+			c8.987,0,16.299,6.88,16.299,15.336v68.26c0,8.455-7.312,15.333-16.299,15.333H16.837z"/>
+            <path fill="#B27015" d="M83.318,3.81c8.712,0,15.799,6.655,15.799,14.836v68.26c0,8.179-7.087,14.833-15.799,14.833H16.837
+				c-8.712,0-15.8-6.654-15.8-14.833v-68.26c0-8.181,7.088-14.836,15.8-14.836H83.318 M83.318,2.81H16.837
+				c-9.279,0-16.8,7.087-16.8,15.836v68.26c0,8.742,7.521,15.833,16.8,15.833h66.481c9.274,0,16.799-7.091,16.799-15.833v-68.26
+				C100.117,9.897,92.594,2.81,83.318,2.81L83.318,2.81z"/>
+            <text transform="matrix(1 0 0 1 16.8215 88.5439)" fill="#FFFFFF"
+                  font-family="Verdana, Helvetica, sans-serif"
+                  font-size="94.1286">R
+            </text>
+        </g>
+    </svg>
+    <svg id="ico_type_site_small" width="11" height="11" viewBox="0 0 100 106">
+        <g>
+            <linearGradient id="site_gradient" gradientUnits="userSpaceOnUse" x1="50.0315" y1="3.7998" x2="50.0315"
+                            y2="102.729" gradientTransform="matrix(1 0 0 -1 0.0449 106.0391)">
+                <stop offset="0" style="stop-color:#9F31C0"/>
+                <stop offset="1" style="stop-color:#CE6FE1"/>
+            </linearGradient>
+            <path fill="url(#site_gradient)" d="M16.837,102.239c-8.987,0-16.3-6.878-16.3-15.333v-68.26c0-8.456,7.313-15.336,16.3-15.336h66.481
+			c8.987,0,16.299,6.88,16.299,15.336v68.26c0,8.455-7.312,15.333-16.299,15.333H16.837z"/>
+            <path fill="#6312A1" d="M83.318,3.81c8.712,0,15.799,6.655,15.799,14.836v68.26c0,8.179-7.087,14.833-15.799,14.833H16.837
+				c-8.712,0-15.8-6.654-15.8-14.833v-68.26c0-8.181,7.088-14.836,15.8-14.836H83.318 M83.318,2.81H16.837
+				c-9.279,0-16.8,7.087-16.8,15.836v68.26c0,8.742,7.521,15.833,16.8,15.833h66.481c9.274,0,16.799-7.091,16.799-15.833v-68.26
+				C100.117,9.897,92.594,2.81,83.318,2.81L83.318,2.81z"/>
+            <text transform="matrix(1 0 0 1 19.4333 88.5439)" fill="#FFFFFF"
+                  font-family="Verdana, Helvetica, sans-serif"
+                  font-size="94.1286">S
+            </text>
+        </g>
+    </svg>
+</defs>
+    <rect id="background" x="0" y="0" width="1280" height="1300"
+          style="fill: white;"></rect>
+    <rect id="mainBoxBorder"
+          x="30px" y="30px" width="1220"
+          height="1265"
+          style="fill: white; stroke: lightGrey; stroke-width: 1;"></rect>
+        <text x="30px" y="20px" style="fill:#1897E9;font-family:Verdana,Helvetica,sans-serif;
+                             font-size:20">Protein
+    </text>
+
+<svg id="proteinInfo" x="30" y="30" width="1280" height="120"
+     viewBox="0 0 1280 120" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <text x="10px" y="25px">
+        <tspan x="10px" dy="10px" font-size="22" fill="#284ADB" font-family="Verdana, Helvetica, sans-serif"
+               font-weight="normal">
+        Strongylocentrotus_purpuratus_Uncharacterized_protein_W4Y9R3_STRPU
+        </tspan>
+    </text>
+    <text y="50px" font-size="13" font-family="Verdana, Helvetica, sans-serif">
+        <tspan font-weight="bold" x="10px" dy="30px" style="fill: #393939">
+            Length
+        </tspan>
+        <tspan x="10px" dx="100px" fill="#838383">2226 amino acids
+        </tspan>
+    </text>
+
+    <line x1="10" y1="100" x2="1200" y2="100" stroke="#CDCDCD" stroke-width="1"/>
+</svg>
+
+<svg id="proteinFamilyTree" x="40" y="150" width="1200" height="64"
+     viewBox="0 0 1200 64">
+    <text y="13px" style="font-family:Verdana,Helvetica,sans-serif;font-size:13px">
+        <tspan style="fill:#393939;font-weight:bold">
+            Protein family membership
+        </tspan>
+        <tspan dx="15" style="fill:#838383">None predicted.</tspan>
+    </text>
+</svg>
+
+<svg id="summaryHSView" x="40" y="214" width="1200" height="104"
+     viewBox="0 0 1200 104">
+    <text y="13px" style="font-family:Verdana,Helvetica,sans-serif;font-size:13px">
+        <tspan style="fill:#393939;font-weight:bold">Homologous superfamilies</tspan>
+    </text>
+<svg x="123px" y="19px"><rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="Homologous_superfamily" x="5px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '11 - 138', 760, 345)" onmouseout="HideTooltip(evt)"><title>11 - 138</title></rect><rect class="Homologous_superfamily" x="58px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '139 - 270', 760, 345)" onmouseout="HideTooltip(evt)"><title>139 - 270</title></rect><rect class="Homologous_superfamily" x="113px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '271 - 408', 760, 345)" onmouseout="HideTooltip(evt)"><title>271 - 408</title></rect><rect class="Homologous_superfamily" x="174px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '417 - 556', 760, 345)" onmouseout="HideTooltip(evt)"><title>417 - 556</title></rect><rect class="Homologous_superfamily" x="233px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '557 - 692', 760, 345)" onmouseout="HideTooltip(evt)"><title>557 - 692</title></rect><rect class="Homologous_superfamily" x="302px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '723 - 862', 760, 345)" onmouseout="HideTooltip(evt)"><title>723 - 862</title></rect><rect class="Homologous_superfamily" x="365px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '874 - 1010', 760, 345)" onmouseout="HideTooltip(evt)"><title>874 - 1010</title></rect><rect class="Homologous_superfamily" x="455px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1088 - 1232', 760, 345)" onmouseout="HideTooltip(evt)"><title>1088 - 1232</title></rect><rect class="Homologous_superfamily" x="515px" y="5px" width="59px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1233 - 1374', 760, 345)" onmouseout="HideTooltip(evt)"><title>1233 - 1374</title></rect><rect class="Homologous_superfamily" x="580px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1389 - 1534', 760, 345)" onmouseout="HideTooltip(evt)"><title>1389 - 1534</title></rect><rect class="Homologous_superfamily" x="644px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1542 - 1684', 760, 345)" onmouseout="HideTooltip(evt)"><title>1542 - 1684</title></rect><rect class="Homologous_superfamily" x="706px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1691 - 1834', 760, 345)" onmouseout="HideTooltip(evt)"><title>1691 - 1834</title></rect><rect class="Homologous_superfamily" x="772px" y="5px" width="54px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1847 - 1975', 760, 345)" onmouseout="HideTooltip(evt)"><title>1847 - 1975</title></rect><rect class="Homologous_superfamily" x="830px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1986 - 2119', 760, 345)" onmouseout="HideTooltip(evt)"><title>1986 - 2119</title></rect></svg><svg id="domainLink1" x="1058px" y="20px"><use xlink:href="#blackArrowComponent"/><text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;font-size:11px;stroke:none;fill:#525252;">Homologous superfamily</text></svg><svg x="123px" y="36px"><rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="0px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1</text><line x1="209px" y1="0px" x2="209px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="199px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">500</text><line x1="418px" y1="0px" x2="418px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="404px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1000</text><line x1="627px" y1="0px" x2="627px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="613px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1500</text><line x1="930px" y1="0px" x2="930px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="916px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">2226</text><rect class="Homologous_superfamily" x="6px" y="5px" width="51px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '15 - 137', 760, 345)" onmouseout="HideTooltip(evt)"><title>15 - 137</title></rect><rect class="Homologous_superfamily" x="62px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '148 - 271', 760, 345)" onmouseout="HideTooltip(evt)"><title>148 - 271</title></rect><rect class="Homologous_superfamily" x="114px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '274 - 409', 760, 345)" onmouseout="HideTooltip(evt)"><title>274 - 409</title></rect><rect class="Homologous_superfamily" x="175px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '420 - 556', 760, 345)" onmouseout="HideTooltip(evt)"><title>420 - 556</title></rect><rect class="Homologous_superfamily" x="233px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '558 - 691', 760, 345)" onmouseout="HideTooltip(evt)"><title>558 - 691</title></rect><rect class="Homologous_superfamily" x="303px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '726 - 861', 760, 345)" onmouseout="HideTooltip(evt)"><title>726 - 861</title></rect><rect class="Homologous_superfamily" x="363px" y="5px" width="59px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '869 - 1009', 760, 345)" onmouseout="HideTooltip(evt)"><title>869 - 1009</title></rect><rect class="Homologous_superfamily" x="458px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1096 - 1232', 760, 345)" onmouseout="HideTooltip(evt)"><title>1096 - 1232</title></rect><rect class="Homologous_superfamily" x="518px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1239 - 1372', 760, 345)" onmouseout="HideTooltip(evt)"><title>1239 - 1372</title></rect><rect class="Homologous_superfamily" x="579px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1387 - 1531', 760, 345)" onmouseout="HideTooltip(evt)"><title>1387 - 1531</title></rect><rect class="Homologous_superfamily" x="646px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1547 - 1690', 760, 345)" onmouseout="HideTooltip(evt)"><title>1547 - 1690</title></rect><rect class="Homologous_superfamily" x="705px" y="5px" width="62px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1688 - 1835', 760, 345)" onmouseout="HideTooltip(evt)"><title>1688 - 1835</title></rect><rect class="Homologous_superfamily" x="769px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1841 - 1974', 760, 345)" onmouseout="HideTooltip(evt)"><title>1841 - 1974</title></rect><rect class="Homologous_superfamily" x="829px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1984 - 2118', 760, 345)" onmouseout="HideTooltip(evt)"><title>1984 - 2118</title></rect></svg><svg id="domainLink2" x="1058px" y="37px"><use xlink:href="#blackArrowComponent"/><text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;font-size:11px;stroke:none;fill:#525252;">Homologous superfamily</text></svg>
+</svg>
+<svg id="summaryView" x="40" y="318" width="1200" height="104"
+     viewBox="0 0 1200 104">
+    <text y="13px" style="font-family:Verdana,Helvetica,sans-serif;font-size:13px">
+        <tspan style="fill:#393939;font-weight:bold">Domains and repeats</tspan>
+    </text>
+<svg x="123px" y="19px"><rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c32 Domain" x="5px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '13 - 136', 760, 345)" onmouseout="HideTooltip(evt)"><title>13 - 136</title></rect><rect class="c32 Domain" x="60px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '144 - 271', 760, 345)" onmouseout="HideTooltip(evt)"><title>144 - 271</title></rect><rect class="c32 Domain" x="115px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '276 - 406', 760, 345)" onmouseout="HideTooltip(evt)"><title>276 - 406</title></rect><rect class="c32 Domain" x="178px" y="5px" width="54px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '425 - 553', 760, 345)" onmouseout="HideTooltip(evt)"><title>425 - 553</title></rect><rect class="c32 Domain" x="235px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '562 - 689', 760, 345)" onmouseout="HideTooltip(evt)"><title>562 - 689</title></rect><rect class="c32 Domain" x="305px" y="5px" width="54px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '730 - 858', 760, 345)" onmouseout="HideTooltip(evt)"><title>730 - 858</title></rect><rect class="c32 Domain" x="368px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '880 - 1007', 760, 345)" onmouseout="HideTooltip(evt)"><title>880 - 1007</title></rect><rect class="c32 Domain" x="462px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1105 - 1229', 760, 345)" onmouseout="HideTooltip(evt)"><title>1105 - 1229</title></rect><rect class="c32 Domain" x="521px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1247 - 1371', 760, 345)" onmouseout="HideTooltip(evt)"><title>1247 - 1371</title></rect><rect class="c32 Domain" x="583px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1396 - 1529', 760, 345)" onmouseout="HideTooltip(evt)"><title>1396 - 1529</title></rect><rect class="c32 Domain" x="648px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1551 - 1682', 760, 345)" onmouseout="HideTooltip(evt)"><title>1551 - 1682</title></rect><rect class="c32 Domain" x="711px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1702 - 1833', 760, 345)" onmouseout="HideTooltip(evt)"><title>1702 - 1833</title></rect><rect class="c32 Domain" x="772px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1849 - 1972', 760, 345)" onmouseout="HideTooltip(evt)"><title>1849 - 1972</title></rect><rect class="c32 Domain" x="831px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1988 - 2114', 760, 345)" onmouseout="HideTooltip(evt)"><title>1988 - 2114</title></rect></svg><svg id="domainLink1" x="1058px" y="20px"><use xlink:href="#blackArrowComponent"/><text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;font-size:11px;stroke:none;fill:#525252;">Domain</text></svg><svg x="123px" y="36px"><rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="0px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1</text><line x1="209px" y1="0px" x2="209px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="199px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">500</text><line x1="418px" y1="0px" x2="418px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="404px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1000</text><line x1="627px" y1="0px" x2="627px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="613px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">1500</text><line x1="930px" y1="0px" x2="930px" y2="22px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><text x="916px" y="32px" font-size="12" style="fill:#B8B8B8;font-family:Verdana, Helvetica, sans-serif;font-weight:normal">2226</text><rect class="c26 Domain" x="420px" y="5px" width="36px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0" onmouseover="ShowTooltip(evt, '1005 - 1089', 760, 345)" onmouseout="HideTooltip(evt)"><title>1005 - 1089</title></rect></svg><svg id="domainLink2" x="1058px" y="37px"><use xlink:href="#blackArrowComponent"/><text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;font-size:11px;stroke:none;fill:#525252;">Domain</text></svg>
+</svg>
+<svg id="sequenceFeatures" x="40" y="422">
+    <text y="13px"
+          style="fill:#393939;font-family:Verdana,Helvetica,sans-serif;font-size:13px;font-weight:bold">
+        Detailed signature matches
+    </text>
+    <svg y="30" width="1210" height="57"
+         viewBox="0 0 1210 57">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_homologous_superfamily_small"/>
+
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR016186" target="_top">
+    <text x="25px" y="15px" text-decoration="underline" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#0072FE">IPR016186</text>
+    </a>
+</svg>
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR016186" target="_top">
+    <text x="123px" y="14px" text-decoration="underline"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">C-type lectin-like/link domain superfamily
+    </text>
+    </a>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="Homologous_superfamily" x="772px" y="5px" width="54px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1847 - 1975 (model: 3aluA00)</title></rect><rect class="Homologous_superfamily" x="706px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1691 - 1834 (model: 1litA00)</title></rect><rect class="Homologous_superfamily" x="455px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1088 - 1232 (model: 4yliE00)</title></rect><rect class="Homologous_superfamily" x="644px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1542 - 1684 (model: 4yliE00)</title></rect><rect class="Homologous_superfamily" x="113px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>271 - 408 (model: 4yliE00)</title></rect><rect class="Homologous_superfamily" x="233px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>557 - 692 (model: 4yliE00)</title></rect><rect class="Homologous_superfamily" x="5px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>11 - 138 (model: 4yliE00)</title></rect><rect class="Homologous_superfamily" x="515px" y="5px" width="59px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1233 - 1374 (model: 3whdA00)</title></rect><rect class="Homologous_superfamily" x="365px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>874 - 1010 (model: 3whdA00)</title></rect><rect class="Homologous_superfamily" x="174px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>417 - 556 (model: 3whdA00)</title></rect><rect class="Homologous_superfamily" x="58px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>139 - 270 (model: 4dn8A00)</title></rect><rect class="Homologous_superfamily" x="302px" y="5px" width="58px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>723 - 862 (model: 1sl6A00)</title></rect><rect class="Homologous_superfamily" x="580px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1389 - 1534 (model: 1sl6A00)</title></rect><rect class="Homologous_superfamily" x="830px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1986 - 2119 (model: 2py2A00)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.cathdb.info/superfamily/3.10.100.10"
+               target="_top">
+                        <title>G3DSA:3.10.100.10</title>
+                G3DSA:3.10.10...
+                    
+            </a>
+        </tspan>
+    </text>
+</svg>
+    </svg>
+    <svg y="87" width="1210" height="57"
+         viewBox="0 0 1210 57">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_homologous_superfamily_small"/>
+
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR016187" target="_top">
+    <text x="25px" y="15px" text-decoration="underline" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#0072FE">IPR016187</text>
+    </a>
+</svg>
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR016187" target="_top">
+    <text x="123px" y="14px" text-decoration="underline"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">C-type lectin fold
+    </text>
+    </a>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="Homologous_superfamily" x="458px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1096 - 1232 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="114px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>274 - 409 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="6px" y="5px" width="51px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>15 - 137 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="769px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1841 - 1974 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="705px" y="5px" width="62px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1688 - 1835 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="829px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1984 - 2118 (model: 0049565)</title></rect><rect class="Homologous_superfamily" x="62px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>148 - 271 (model: 0044061)</title></rect><rect class="Homologous_superfamily" x="518px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1239 - 1372 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="579px" y="5px" width="61px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1387 - 1531 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="303px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>726 - 861 (model: 0049565)</title></rect><rect class="Homologous_superfamily" x="363px" y="5px" width="59px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>869 - 1009 (model: 0049420)</title></rect><rect class="Homologous_superfamily" x="646px" y="5px" width="60px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1547 - 1690 (model: 0049565)</title></rect><rect class="Homologous_superfamily" x="233px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>558 - 691 (model: 0049565)</title></rect><rect class="Homologous_superfamily" x="175px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>420 - 556 (model: 0049420)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF56436"
+               target="_top">
+                    <title>SSF56436 (C-type lectin-like)</title>
+SSF56436
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (C-type le...)
+                    
+            </tspan>
+    </text>
+</svg>
+    </svg>
+    <svg y="144" width="1210" height="91"
+         viewBox="0 0 1210 91">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_domain_small"/>
+
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR001304" target="_top">
+    <text x="25px" y="15px" text-decoration="underline" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#0072FE">IPR001304</text>
+    </a>
+</svg>
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR001304" target="_top">
+    <text x="123px" y="14px" text-decoration="underline"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">C-type lectin-like
+    </text>
+    </a>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c32" x="235px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>562 - 688 (model: SM00034)</title></rect><rect class="c32" x="583px" y="5px" width="56px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1396 - 1529 (model: SM00034)</title></rect><rect class="c32" x="305px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>730 - 857 (model: SM00034)</title></rect><rect class="c32" x="831px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1988 - 2113 (model: SM00034)</title></rect><rect class="c32" x="60px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>144 - 270 (model: SM00034)</title></rect><rect class="c32" x="115px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>276 - 406 (model: SM00034)</title></rect><rect class="c32" x="368px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>880 - 1006 (model: SM00034)</title></rect><rect class="c32" x="178px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>425 - 552 (model: SM00034)</title></rect><rect class="c32" x="521px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1247 - 1370 (model: SM00034)</title></rect><rect class="c32" x="772px" y="5px" width="51px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1849 - 1971 (model: SM00034)</title></rect><rect class="c32" x="711px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1702 - 1832 (model: SM00034)</title></rect><rect class="c32" x="462px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1105 - 1229 (model: SM00034)</title></rect><rect class="c32" x="5px" y="5px" width="51px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>13 - 135 (model: SM00034)</title></rect><rect class="c32" x="648px" y="5px" width="55px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1551 - 1681 (model: SM00034)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://smart.embl-heidelberg.de/smart/do_annotation.pl?ACC=SM00034&amp;BLAST=DUMMY"
+               target="_top">
+                    <title>SM00034 (CLECT_2)</title>
+SM00034
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(CLECT_2)
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="36px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c32" x="524px" y="5px" width="49px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1254 - 1370 (model: PS50041)</title></rect><rect class="c32" x="714px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1709 - 1832 (model: PS50041)</title></rect><rect class="c32" x="775px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1856 - 1971 (model: PS50041)</title></rect><rect class="c32" x="833px" y="5px" width="50px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1995 - 2113 (model: PS50041)</title></rect><rect class="c32" x="652px" y="5px" width="51px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1560 - 1681 (model: PS50041)</title></rect><rect class="c32" x="239px" y="5px" width="49px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>571 - 688 (model: PS50041)</title></rect><rect class="c32" x="371px" y="5px" width="49px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>889 - 1006 (model: PS50041)</title></rect><rect class="c32" x="586px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1403 - 1529 (model: PS50041)</title></rect><rect class="c32" x="8px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>20 - 135 (model: PS50041)</title></rect><rect class="c32" x="308px" y="5px" width="46px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>737 - 847 (model: PS50041)</title></rect><rect class="c32" x="465px" y="5px" width="49px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1112 - 1229 (model: PS50041)</title></rect><rect class="c32" x="118px" y="5px" width="52px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>283 - 406 (model: PS50041)</title></rect><rect class="c32" x="64px" y="5px" width="49px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>153 - 270 (model: PS50041)</title></rect><rect class="c32" x="180px" y="5px" width="46px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>432 - 542 (model: PS50041)</title></rect>
+</svg>
+
+<svg x="1058px" y="37px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.expasy.org/prosite/PS50041"
+               target="_top">
+                    <title>PS50041 (C_TYPE_LECTIN_2)</title>
+PS50041
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (C_TYPE_LEC...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="53px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c32" x="780px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1868 - 1972 (model: PF00059)</title></rect><rect class="c32" x="186px" y="5px" width="45px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>446 - 553 (model: PF00059)</title></rect><rect class="c32" x="13px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>31 - 136 (model: PF00059)</title></rect><rect class="c32" x="314px" y="5px" width="45px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>751 - 858 (model: PF00059)</title></rect><rect class="c32" x="595px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1424 - 1529 (model: PF00059)</title></rect><rect class="c32" x="123px" y="5px" width="47px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>295 - 406 (model: PF00059)</title></rect><rect class="c32" x="529px" y="5px" width="45px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1265 - 1371 (model: PF00059)</title></rect><rect class="c32" x="377px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>902 - 1007 (model: PF00059)</title></rect><rect class="c32" x="470px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1125 - 1229 (model: PF00059)</title></rect><rect class="c32" x="244px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>584 - 689 (model: PF00059)</title></rect><rect class="c32" x="839px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2009 - 2114 (model: PF00059)</title></rect><rect class="c32" x="721px" y="5px" width="46px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1725 - 1833 (model: PF00059)</title></rect><rect class="c32" x="69px" y="5px" width="45px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>165 - 271 (model: PF00059)</title></rect><rect class="c32" x="659px" y="5px" width="44px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1577 - 1682 (model: PF00059)</title></rect>
+</svg>
+
+<svg x="1058px" y="54px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://pfam.xfam.org/family/PF00059"
+               target="_top">
+                    <title>PF00059 (Lectin_C)</title>
+PF00059
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(Lectin_C)
+            </tspan>
+    </text>
+</svg>
+    </svg>
+    <svg y="235" width="1210" height="91"
+         viewBox="0 0 1210 91">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_domain_small"/>
+
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR003609" target="_top">
+    <text x="25px" y="15px" text-decoration="underline" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#0072FE">IPR003609</text>
+    </a>
+</svg>
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR003609" target="_top">
+    <text x="123px" y="14px" text-decoration="underline"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">PAN/Apple domain
+    </text>
+    </a>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c26" x="424px" y="5px" width="31px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1014 - 1087 (model: PF00024)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://pfam.xfam.org/family/PF00024"
+               target="_top">
+                    <title>PF00024 (PAN_1)</title>
+PF00024
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(PAN_1)
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="36px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c26" x="422px" y="5px" width="33px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1010 - 1088 (model: SM00473)</title></rect>
+</svg>
+
+<svg x="1058px" y="37px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://smart.embl-heidelberg.de/smart/do_annotation.pl?ACC=SM00473&amp;BLAST=DUMMY"
+               target="_top">
+                    <title>SM00473 (ntp_6)</title>
+SM00473
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(ntp_6)
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="53px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="c26" x="420px" y="5px" width="36px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1005 - 1089 (model: PS50948)</title></rect>
+</svg>
+
+<svg x="1058px" y="54px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.expasy.org/prosite/PS50948"
+               target="_top">
+                    <title>PS50948 (PAN)</title>
+PS50948
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(PAN)
+            </tspan>
+    </text>
+</svg>
+    </svg>
+    <svg y="326" width="1210" height="57"
+         viewBox="0 0 1210 57">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_site_small"/>
+
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR018378" target="_top">
+    <text x="25px" y="15px" text-decoration="underline" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#0072FE">IPR018378</text>
+    </a>
+</svg>
+    <a xlink:href="http://www.ebi.ac.uk/interpro/entry/IPR018378" target="_top">
+    <text x="123px" y="14px" text-decoration="underline"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">C-type lectin, conserved site
+    </text>
+    </a>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="SITE" x="346px" y="5px" width="12px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>829 - 856 (model: PS00615)</title></rect><rect class="SITE" x="410px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>982 - 1005 (model: PS00615)</title></rect><rect class="SITE" x="754px" y="5px" width="11px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1805 - 1831 (model: PS00615)</title></rect><rect class="SITE" x="277px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>664 - 687 (model: PS00615)</title></rect><rect class="SITE" x="219px" y="5px" width="12px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>524 - 551 (model: PS00615)</title></rect><rect class="SITE" x="629px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1505 - 1528 (model: PS00615)</title></rect><rect class="SITE" x="873px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2089 - 2112 (model: PS00615)</title></rect><rect class="SITE" x="562px" y="5px" width="11px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1344 - 1369 (model: PS00615)</title></rect><rect class="SITE" x="504px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1206 - 1228 (model: PS00615)</title></rect><rect class="SITE" x="47px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>112 - 134 (model: PS00615)</title></rect><rect class="SITE" x="693px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1658 - 1680 (model: PS00615)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.expasy.org/prosite/PS00615"
+               target="_top">
+                    <title>PS00615 (C_TYPE_LECTIN_1)</title>
+PS00615
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (C_TYPE_LEC...)
+                    
+            </tspan>
+    </text>
+</svg>
+    </svg>
+    <svg id="unintegratedSignatures" y="383" width="1210"
+         height="142"
+         viewBox="0 0 1210 142">
+<svg>
+    <rect x="1px" y="1px" width="110px" height="18"
+          style="stroke:#D8D8D8;fill:transparent;fill-opacity:0;stroke-width:0.5"/>
+
+    <use x="6" y="6" xlink:href="#ico_type_uni_small"/>
+
+    <text x="25px" y="15px" text-decoration="none" style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:11px;stroke:none;fill:#525252">no IPR</text>
+</svg>
+    <text x="123px" y="14px" text-decoration="none"
+          style="font-family:Verdana,Helvetica,sans-serif;
+                             font-size:13px;stroke:none;fill:#525252;">Unintegrated signatures
+    </text>
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="422px" y="5px" width="32px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1011 - 1087 (model: 4durB01)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.cathdb.info/superfamily/3.50.4.10"
+               target="_top">
+                    <title>G3DSA:3.50.4.10 (Hepatocyte Growth Factor)</title>
+G3DSA:3.50.4.10
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (He...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="36px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="155px" y="5px" width="77px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>370 - 554 (model: PTHR22803)</title></rect><rect class="uni" x="114px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>274 - 409 (model: PTHR22803)</title></rect><rect class="uni" x="290px" y="5px" width="73px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>695 - 868 (model: PTHR22803)</title></rect><rect class="uni" x="368px" y="5px" width="70px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>882 - 1048 (model: PTHR22803)</title></rect><rect class="uni" x="7px" y="5px" width="107px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>16 - 272 (model: PTHR22803)</title></rect><rect class="uni" x="236px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>564 - 690 (model: PTHR22803)</title></rect><rect class="uni" x="460px" y="5px" width="464px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1102 - 2211 (model: PTHR22803)</title></rect>
+</svg>
+
+<svg x="1058px" y="37px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.pantherdb.org/panther/family.do?clsAccession=PTHR22803"
+               target="_top">
+                    <title>PTHR22803 (MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED)</title>
+PTHR22803
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (MANNOSE,...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="53px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="236px" y="5px" width="53px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>564 - 690 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="114px" y="5px" width="57px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>274 - 409 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="290px" y="5px" width="73px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>695 - 868 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="7px" y="5px" width="107px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>16 - 272 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="368px" y="5px" width="70px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>882 - 1048 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="155px" y="5px" width="77px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>370 - 554 (model: PTHR22803:SF104)</title></rect><rect class="uni" x="460px" y="5px" width="464px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1102 - 2211 (model: PTHR22803:SF104)</title></rect>
+</svg>
+
+<svg x="1058px" y="54px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.pantherdb.org/panther/family.do?clsAccession=PTHR22803:SF104"
+               target="_top">
+                    <title>PTHR22803:SF104 (MACROPHAGE MANNOSE RECEPTOR 1)</title>
+PTHR22803:SF104
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (MA...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="70px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="423px" y="5px" width="32px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1012 - 1088 (model: 0035558)</title></rect>
+</svg>
+
+<svg x="1058px" y="71px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://supfam.org/SUPERFAMILY/cgi-bin/scop.cgi?ipid=SSF57414"
+               target="_top">
+                    <title>SSF57414 (Hairpin loop containing domain-like)</title>
+SSF57414
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (Hairpin l...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="87px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="240px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>574 - 689 (model: cd00037)</title></rect><rect class="uni" x="373px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>892 - 1007 (model: cd00037)</title></rect><rect class="uni" x="525px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1257 - 1371 (model: cd00037)</title></rect><rect class="uni" x="65px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>156 - 271 (model: cd00037)</title></rect><rect class="uni" x="835px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1998 - 2113 (model: cd00037)</title></rect><rect class="uni" x="777px" y="5px" width="48px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1859 - 1972 (model: cd00037)</title></rect>
+</svg>
+
+<svg x="1058px" y="88px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cd00037"
+               target="_top">
+                    <title>cd00037 (CLECT)</title>
+cd00037
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(CLECT)
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="104px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="433px" y="5px" width="21px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1037 - 1087 (model: cd01099)</title></rect>
+</svg>
+
+<svg x="1058px" y="105px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=cd01099"
+               target="_top">
+                    <title>cd01099 (PAN_AP_HGF)</title>
+cd01099
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+(PAN_AP_HGF)
+            </tspan>
+    </text>
+</svg>
+    </svg>
+    <text y="525"
+          style="fill:#393939;font-family:Verdana,Helvetica,sans-serif;font-size:13px;font-weight:bold">
+        Other features
+    </text>
+    <svg id="sequenceFeaturesBlock" y="525" width="1210"
+         height="192"
+         viewBox="0 0 1210 192">
+<svg x="123px" y="19px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="914px" y="5px" width="16px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2188 - 2226 (model: CYTOPLASMIC_DOMAIN)</title></rect>
+</svg>
+
+<svg x="1058px" y="20px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>CYTOPLASMIC_DOMAIN (Cytoplasmic domain)</title>
+                CYTOPLASMIC_D...
+                    
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (C...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="36px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="7px" y="5px" width="897px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>17 - 2163 (model: NON_CYTOPLASMIC_DOMAIN)</title></rect>
+</svg>
+
+<svg x="1058px" y="37px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>NON_CYTOPLASMIC_DOMAIN (Non cytoplasmic domain)</title>
+                NON_CYTOPLASM...
+                    
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (N...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="53px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="0px" y="5px" width="7px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1 - 16 (model: SIGNAL_PEPTIDE)</title></rect>
+</svg>
+
+<svg x="1058px" y="54px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>SIGNAL_PEPTIDE (Signal Peptide)</title>
+SIGNAL_PEPTIDE
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (Sig...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="70px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="5px" y="5px" width="2px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>12 - 16 (model: SIGNAL_PEPTIDE_C_REGION)</title></rect>
+</svg>
+
+<svg x="1058px" y="71px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>SIGNAL_PEPTIDE_C_REGION (Signal peptide C-region)</title>
+                SIGNAL_PEPTID...
+                    
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (S...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="87px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="2px" y="5px" width="3px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>4 - 11 (model: SIGNAL_PEPTIDE_H_REGION)</title></rect>
+</svg>
+
+<svg x="1058px" y="88px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>SIGNAL_PEPTIDE_H_REGION (Signal peptide H-region)</title>
+                SIGNAL_PEPTID...
+                    
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (S...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="104px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="0px" y="5px" width="1px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1 - 3 (model: SIGNAL_PEPTIDE_N_REGION)</title></rect>
+</svg>
+
+<svg x="1058px" y="105px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>SIGNAL_PEPTIDE_N_REGION (Signal peptide N-region)</title>
+                SIGNAL_PEPTID...
+                    
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (S...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="121px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="0px" y="5px" width="7px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>1 - 16 (model: SignalP-noTM)</title></rect>
+</svg>
+
+<svg x="1058px" y="122px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.cbs.dtu.dk/services/SignalP/"
+               target="_top">
+                        <title>SignalP-noTM</title>
+SignalP-noTM
+            </a>
+        </tspan>
+    </text>
+</svg>
+<svg x="123px" y="138px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="905px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2165 - 2187 (model: TMhelix)</title></rect>
+</svg>
+
+<svg x="1058px" y="139px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://www.cbs.dtu.dk/services/TMHMM/"
+               target="_top">
+                        <title>TMhelix</title>
+TMhelix
+            </a>
+        </tspan>
+    </text>
+</svg>
+<svg x="123px" y="155px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="904px" y="5px" width="10px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2164 - 2187 (model: TRANSMEMBRANE)</title></rect>
+</svg>
+
+<svg x="1058px" y="156px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://phobius.sbc.su.se/"
+               target="_top">
+                    <title>TRANSMEMBRANE (Transmembrane region)</title>
+TRANSMEMBRANE
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (Tran...)
+                    
+            </tspan>
+    </text>
+</svg>
+<svg x="123px" y="172px">
+<rect width="930.0px" height="17px" style="fill:#EFEFEF"/><line x1="0px" y1="0px" x2="0px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="209px" y1="0px" x2="209px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="418px" y1="0px" x2="418px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="627px" y1="0px" x2="627px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><line x1="930px" y1="0px" x2="930px" y2="17px" style="stroke:#B8B8B8;stroke-width:1;stroke-dasharray:3.0"/><rect class="uni" x="884px" y="5px" width="13px" height="7px" rx="3.984848" ry="5.6705141" style="stroke:black;stroke-width:1.0"><title>2116 - 2147 (model: mobidb-lite)</title></rect>
+</svg>
+
+<svg x="1058px" y="173px">
+    <use xlink:href="#blackArrowComponent"/>
+    <text x="15px" y="10.5px" style="font-family:Verdana,Helvetica,sans-serif;stroke:none;">
+        <tspan style="text-decoration:underline;fill:#525252;font-size: 11px">
+            <a xlink:href="http://mobidb.bio.unipd.it/mobidb-lite"
+               target="_top">
+                    <title>mobidb-lite (disorder_prediction)</title>
+mobidb-lite
+            </a>
+        </tspan>
+            <tspan style="fill:#525252;font-size: 9px">
+                    (disord...)
+                    
+            </tspan>
+    </text>
+</svg>
+    </svg>
+</svg>
+
+<g id="goSection">
+    <!-- GO terms section title heading -->
+    <svg x="40" y="1139" width="1200" height="70"
+         viewBox="0 0 1200 70">
+        <text font-size="13px" y="13px" fill="#393939" font-family="Verdana, Helvetica, sans-serif"
+              font-weight="bold">
+            GO Term prediction
+        </text>
+        <g id="goTable">
+            <svg y="30px">
+                <text id="biologicalProcess" font-size="11px" x="10px" dy="20px"
+                      font-family="Verdana, Helvetica, sans-serif">
+                    <tspan x="10px" fill="#393939" font-weight="bold">
+                        Biological process
+                    </tspan>
+                    <tspan x="10px" dy="20px" style="fill:#525252;stroke:none;">
+                        None predicted.
+                    </tspan>
+                </text>
+                <text id="molecularFunction" font-size="11px" x="436px" dy="20px"
+                      font-family="Verdana, Helvetica, sans-serif">
+                    <tspan x="436px" fill="#393939" font-weight="bold">
+                        Molecular function
+                    </tspan>
+                    <tspan x="436px" dy="20px" style="fill:#525252;stroke:none;">
+                        None predicted.
+                    </tspan>
+                </text>
+                <text font-size="11px" x="862px" dy="20px"
+                      font-family="Verdana, Helvetica, sans-serif">
+                    <tspan x="862px" fill="#393939" font-weight="bold">
+                        Cellular component
+                    </tspan>
+                    <tspan x="862px" dy="20px" style="fill:#525252;stroke:none;">
+                        None predicted.
+                    </tspan>
+                </text>
+            </svg>
+        </g>
+    </svg>
+</g>
+
+    <g id="versionSection">
+        <svg x="1050" y="1289" width="1200" height="50" viewBox="0 0 1200 50">
+            <text font-size="11px" y="11px" font-family="Verdana, Helvetica, sans-serif" style="fill:#525252;stroke:none;">
+                Generated with InterProScan 5.47-82.0
+            </text>
+        </svg>
+    </g>
+
+</svg>

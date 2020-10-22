@@ -1,0 +1,22 @@
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	PANTHER	PTHR22803:SF133	WU:FA56D06	35	285	2.0E-72	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	PANTHER	PTHR22803:SF133	WU:FA56D06	199	327	2.0E-72	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	ProSitePatterns	PS00615	C-type lectin domain signature.	135	159	-	T	22-10-2020	IPR018378	C-type lectin, conserved site		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	25	330	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	ProSiteProfiles	PS50041	C-type lectin domain profile.	206	327	25.229	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SUPERFAMILY	SSF56436	C-type lectin-like	190	328	2.53E-38	T	22-10-2020	IPR016187	C-type lectin fold		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	ProSiteProfiles	PS50041	C-type lectin domain profile.	42	160	25.485	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SMART	SM00034	CLECT_2	199	327	1.5E-29	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SMART	SM00034	CLECT_2	35	160	6.9E-32	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	21	24	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	10	20	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	199	327	2.0E-72	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	PANTHER	PTHR22803	MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED	35	285	2.0E-72	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	24	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Pfam	PF00059	Lectin C-type domain	58	161	1.2E-21	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Pfam	PF00059	Lectin C-type domain	219	328	5.2E-23	T	22-10-2020	IPR001304	C-type lectin-like		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SUPERFAMILY	SSF56436	C-type lectin-like	9	162	2.1E-40	T	22-10-2020	IPR016187	C-type lectin fold		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Gene3D	G3DSA:3.10.100.10	-	197	329	3.1E-37	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	9	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Gene3D	G3DSA:3.10.100.10	-	28	163	6.5E-38	T	22-10-2020	IPR016186	C-type lectin-like/link domain superfamily		
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	SignalP_GRAM_POSITIVE	SignalP-TM	SignalP-TM	1	24	-	T	22-10-2020
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	6e5b62f8d4482bc9208ba14c0cc0597c	330	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	24	-	T	22-10-2020

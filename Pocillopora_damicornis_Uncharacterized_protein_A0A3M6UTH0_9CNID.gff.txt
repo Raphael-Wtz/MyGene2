@@ -1,0 +1,113 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.47-82.0
+##sequence-region Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 1 330
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	.	polypeptide	1	330	.	+	.	ID=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID;md5=6e5b62f8d4482bc9208ba14c0cc0597c
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	PANTHER	protein_match	35	285	2.0E-72	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 35 285;ID=match$1_35_285;Name=PTHR22803:SF133;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	PANTHER	protein_match	199	327	2.0E-72	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 199 327;ID=match$1_199_327;Name=PTHR22803:SF133;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	ProSitePatterns	protein_match	135	159	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 135 159;ID=match$2_135_159;signature_desc=C-type lectin domain signature.;Name=PS00615;status=T;Dbxref="InterPro:IPR018378"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Phobius	protein_match	25	330	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 25 330;ID=match$3_25_330;signature_desc=Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.;Name=NON_CYTOPLASMIC_DOMAIN;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	ProSiteProfiles	protein_match	206	327	25.229	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 206 327;ID=match$4_206_327;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SUPERFAMILY	protein_match	190	328	2.53E-38	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 190 328;ID=match$5_190_328;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	ProSiteProfiles	protein_match	42	160	25.485	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 42 160;ID=match$6_42_160;signature_desc=C-type lectin domain profile.;Name=PS50041;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SMART	protein_match	199	327	1.5E-29	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 199 327;ID=match$7_199_327;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SMART	protein_match	35	160	6.9E-32	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 35 160;ID=match$7_35_160;Name=SM00034;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Phobius	protein_match	21	24	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 21 24;ID=match$8_21_24;signature_desc=C-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_C_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Phobius	protein_match	10	20	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 10 20;ID=match$9_10_20;signature_desc=Hydrophobic region of a signal peptide.;Name=SIGNAL_PEPTIDE_H_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	PANTHER	protein_match	199	327	2.0E-72	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 199 327;ID=match$10_199_327;Name=PTHR22803;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	PANTHER	protein_match	35	285	2.0E-72	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 35 285;ID=match$10_35_285;Name=PTHR22803;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SignalP_EUK	protein_match	1	24	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 1 24;ID=match$11_1_24;Name=SignalP-noTM;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Pfam	protein_match	58	161	1.2E-21	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 58 161;ID=match$12_58_161;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Pfam	protein_match	219	328	5.2E-23	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 219 328;ID=match$12_219_328;signature_desc=Lectin C-type domain;Name=PF00059;status=T;Dbxref="InterPro:IPR001304"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SUPERFAMILY	protein_match	9	162	2.1E-40	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 9 162;ID=match$13_9_162;Name=SSF56436;status=T;Dbxref="InterPro:IPR016187"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Gene3D	protein_match	197	329	3.1E-37	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 197 329;ID=match$14_197_329;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Phobius	protein_match	1	9	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 1 9;ID=match$15_1_9;signature_desc=N-terminal region of a signal peptide.;Name=SIGNAL_PEPTIDE_N_REGION;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Gene3D	protein_match	28	163	6.5E-38	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 28 163;ID=match$16_28_163;Name=G3DSA:3.10.100.10;status=T;Dbxref="InterPro:IPR016186"
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	SignalP_GRAM_POSITIVE	protein_match	1	24	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 1 24;ID=match$17_1_24;Name=SignalP-TM;status=T
+Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID	Phobius	protein_match	1	24	.	+	.	date=22-10-2020;Target=Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID 1 24;ID=match$18_1_24;signature_desc=Signal peptide region;Name=SIGNAL_PEPTIDE;status=T
+##FASTA
+>Pocillopora_damicornis_Uncharacterized_protein_A0A3M6UTH0_9CNID
+MILTSHLFKALIVCVPFVLVICEARNISESAPDICPPGWMRWNNACYYFANDSVSSRVAW
+QDARQACQRIRGGDLASIHSAAENDFITRHVSGACWIGLNDLRAEGNFQWSDGSSFVYQK
+YSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGIDLCYVCKQIKKTIIPNVNPLEPKPTPP
+KDLSSVHERFEMGQAHGRCEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVT
+VNNRQEQVFLNTITRETSTDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMG
+CVLMNPHQDEGRWRTASCNQRNGFICETGL
+>match$1_35_285
+CPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGA
+CWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGID
+LCYVCKQIKKTIIPNVNPLEPKPTPPKDLSSVHERFEMGQAHGRCEDGWMNYEKSCYRSV
+SDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGLNDLISEGIF
+LWTDNSPRKYT
+>match$1_199_327
+CEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETS
+TDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASC
+NQRNGFICE
+>match$2_135_159
+CIEIRAWLAGSWNDLNCGIDLCYVC
+>match$3_25_330
+RNISESAPDICPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAEN
+DFITRHVSGACWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAG
+SWNDLNCGIDLCYVCKQIKKTIIPNVNPLEPKPTPPKDLSSVHERFEMGQAHGRCEDGWM
+NYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIG
+LNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASCNQRNGF
+ICETGL
+>match$4_206_327
+YEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGL
+NDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASCNQRNGFI
+CE
+>match$5_190_328
+FEMGQAHGRCEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVF
+LNTITRETSTDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQD
+EGRWRTASCNQRNGFICET
+>match$6_42_160
+WNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGACWIGLND
+LRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGIDLCYVCK
+>match$7_35_160
+CPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGA
+CWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGID
+LCYVCK
+>match$7_199_327
+CEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETS
+TDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASC
+NQRNGFICE
+>match$8_21_24
+ICEA
+>match$9_10_20
+ALIVCVPFVLV
+>match$10_35_285
+CPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGA
+CWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGID
+LCYVCKQIKKTIIPNVNPLEPKPTPPKDLSSVHERFEMGQAHGRCEDGWMNYEKSCYRSV
+SDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGLNDLISEGIF
+LWTDNSPRKYT
+>match$10_199_327
+CEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETS
+TDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASC
+NQRNGFICE
+>match$11_1_24
+MILTSHLFKALIVCVPFVLVICEA
+>match$12_58_161
+VAWQDARQACQRIRGGDLASIHSAAENDFITRHVSGACWIGLNDLRAEGNFQWSDGSSFV
+YQKYSNKEPNDFYGQEDCIEIRAWLAGSWNDLNCGIDLCYVCKQ
+>match$12_219_328
+LSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRETSTDFWIGLNDLISEGIFLWTD
+NSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTASCNQRNGFICET
+>match$13_9_162
+KALIVCVPFVLVICEARNISESAPDICPPGWMRWNNACYYFANDSVSSRVAWQDARQACQ
+RIRGGDLASIHSAAENDFITRHVSGACWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPND
+FYGQEDCIEIRAWLAGSWNDLNCGIDLCYVCKQI
+>match$14_197_329
+GRCEDGWMNYEKSCYRSVSDPLLSWQKARDVCRNNTSMHGDLVTVNNRQEQVFLNTITRE
+TSTDFWIGLNDLISEGIFLWTDNSPRKYTYWNVSEPSNNEQSMGCVLMNPHQDEGRWRTA
+SCNQRNGFICETG
+>match$15_1_9
+MILTSHLFK
+>match$16_28_163
+SESAPDICPPGWMRWNNACYYFANDSVSSRVAWQDARQACQRIRGGDLASIHSAAENDFI
+TRHVSGACWIGLNDLRAEGNFQWSDGSSFVYQKYSNKEPNDFYGQEDCIEIRAWLAGSWN
+DLNCGIDLCYVCKQIK
+>match$17_1_24
+MILTSHLFKALIVCVPFVLVICEA
+>match$18_1_24
+MILTSHLFKALIVCVPFVLVICEA
